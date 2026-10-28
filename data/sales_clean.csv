@@ -1,0 +1,1774 @@
+order_id,order_date,region,state,customer_segment,category,subcategory,product_id,units,sales,discount,profit
+ORD-00001,2023-04-08,Central,IL,Corporate,Furniture,Chairs,SKU-0041,2,124.86,0.382,11.07
+ORD-00002,2025-04-28,East,FL,Consumer,Technology,Computers,SKU-0224,2,97.87,0.186,22.68
+ORD-00003,2024-12-18,East,MA,Corporate,Technology,Computers,SKU-0221,7,203.39,0.332,15.52
+ORD-00004,2024-04-26,Central,TX,Consumer,Furniture,Chairs,SKU-0123,8,413.06,0.244,58.38
+ORD-00005,2024-04-19,Central,GA,Consumer,Office Supplies,Paper,SKU-0218,2,40.87,0.093,6.83
+ORD-00006,2025-07-30,East,CA,Consumer,Office Supplies,Storage,SKU-0056,6,136.31,0.255,18.59
+ORD-00007,2023-04-05,South,FL,Consumer,Furniture,Chairs,SKU-0101,5,313.86,0.085,50.72
+ORD-00008,2025-02-03,West,IL,Corporate,Technology,Computers,SKU-0029,5,997.13,0.036,125.27
+ORD-00009,2023-08-09,West,WA,Corporate,Technology,Phones,SKU-0137,3,164.65,0.102,31.05
+ORD-00010,2023-04-14,Central,TX,Consumer,Furniture,Bookcases,SKU-0175,7,154.04,0.148,1.58
+ORD-00011,2024-07-31,South,GA,Consumer,Office Supplies,Storage,SKU-0241,8,115.74,0.163,40.17
+ORD-00012,2025-12-05,West,CA,Home Office,Office Supplies,Paper,SKU-0189,6,66.43,0.166,22.03
+ORD-00013,2025-03-17,West,MA,Consumer,Office Supplies,Storage,SKU-0167,8,88.03,0.355,21.72
+ORD-00014,2025-04-14,West,IL,Consumer,Office Supplies,Paper,SKU-0169,1,7.44,0.094,3.29
+ORD-00015,2025-02-25,South,FL,Corporate,Office Supplies,Storage,SKU-0158,6,127.9,0.02,25.61
+ORD-00016,2025-05-11,West,TX,Consumer,Office Supplies,Storage,SKU-0105,8,58.69,0.085,18.07
+ORD-00017,2024-07-16,East,IL,Home Office,Technology,Computers,SKU-0126,5,547.11,0.039,96.19
+ORD-00018,2023-05-21,South,IL,Consumer,Technology,Computers,SKU-0044,64,4963.23,0.208,1022.67
+ORD-00019,2025-07-09,West,TX,Home Office,Furniture,Bookcases,SKU-0006,3,243.04,0.024,76.31
+ORD-00020,2024-05-08,Central,CA,Consumer,Office Supplies,Binders,SKU-0198,8,255.61,0.042,65.67
+ORD-00021,2024-07-02,East,IL,Consumer,Technology,Phones,SKU-0125,8,925.57,0.261,32.28
+ORD-00022,2024-02-11,Central,IL,Consumer,Office Supplies,Paper,SKU-0218,5,122.74,0.222,36.35
+ORD-00023,2023-07-20,East,WA,Home Office,Office Supplies,Binders,SKU-0031,6,201.47,0.064,52.01
+ORD-00024,2025-10-12,East,IL,Corporate,Office Supplies,Paper,SKU-0098,5,40.36,0.14,6.38
+ORD-00025,2025-05-06,West,FL,Consumer,Technology,Accessories,SKU-0065,3,458.61,0.097,51.47
+ORD-00026,2024-12-06,Central,IL,Home Office,Technology,Accessories,SKU-0211,5,669.43,0.032,99.34
+ORD-00027,2024-03-17,Central,IL,Consumer,Technology,Accessories,SKU-0095,8,174.68,0.311,28.99
+ORD-00029,2024-08-20,East,WA,Consumer,Office Supplies,Binders,SKU-0022,2,14.28,0.249,2.94
+ORD-00030,2024-04-30,South,GA,Home Office,Office Supplies,Storage,SKU-0132,4,82.23,0.207,29.03
+ORD-00031,2024-05-08,West,IL,Consumer,Furniture,Tables,SKU-0111,3,176.77,0.036,14.15
+ORD-00032,2023-09-07,West,CA,Consumer,Furniture,Bookcases,SKU-0153,5,347.36,0.097,21.33
+ORD-00033,2023-04-11,Central,FL,Home Office,Furniture,Chairs,SKU-0147,3,126.95,0.038,33.39
+ORD-00034,2024-08-30,East,IL,Corporate,Office Supplies,Binders,SKU-0027,6,79.77,0.177,13.79
+ORD-00035,2025-08-31,West,CA,Consumer,Office Supplies,Storage,SKU-0013,1,9.57,0.514,1.9
+ORD-00036,2023-03-11,East,MA,Corporate,Technology,Phones,SKU-0032,3,77.48,0.051,12.09
+ORD-00037,2025-07-29,West,WA,Consumer,Office Supplies,Paper,SKU-0055,6,86.05,0.335,15.64
+ORD-00038,2025-06-26,East,WA,Consumer,Technology,Phones,SKU-0182,5,347.16,0.103,31.84
+ORD-00039,2023-10-31,Central,WA,Consumer,Office Supplies,Binders,SKU-0068,6,112.06,0.113,9.77
+ORD-00040,2024-11-23,Central,GA,Corporate,Technology,Accessories,SKU-0243,6,751.56,0.098,65.74
+ORD-00041,2023-07-01,West,WA,Corporate,Technology,Accessories,SKU-0022,3,130.11,0.186,26.42
+ORD-00042,2025-04-10,South,WA,Consumer,Office Supplies,Binders,SKU-0127,4,36.08,0.056,7.91
+ORD-00043,2025-02-06,West,MA,Consumer,Technology,Accessories,SKU-0179,8,216.25,0.114,45.16
+ORD-00044,2024-01-24,Central,WA,Consumer,Furniture,Chairs,SKU-0014,8,289.17,0.114,30.32
+ORD-00045,2023-03-16,East,WA,Corporate,Furniture,Chairs,SKU-0129,5,93.89,0.191,18.36
+ORD-00046,2025-11-29,Central,CA,Corporate,Technology,Accessories,SKU-0018,6,102.18,0.134,7.35
+ORD-00047,2024-05-03,West,IL,Corporate,Office Supplies,Binders,SKU-0198,4,91.31,0.165,30.7
+ORD-00048,2025-09-05,West,TX,Home Office,Office Supplies,Binders,SKU-0117,1,3.15,0.374,0.08
+ORD-00049,2025-01-12,East,GA,Home Office,Office Supplies,Binders,SKU-0217,6,74.56,0.019,11.53
+ORD-00050,2025-05-03,West,FL,Home Office,Furniture,Chairs,SKU-0165,1,92.07,0.257,14.04
+ORD-00051,2025-04-12,West,FL,Corporate,Office Supplies,Binders,SKU-0080,3,7.5,0.442,1.23
+ORD-00052,2023-08-02,Central,FL,Consumer,Technology,Computers,SKU-0039,6,230.33,0.412,81.09
+ORD-00053,2024-02-03,South,WA,Corporate,Technology,Phones,SKU-0040,7,1060.03,0.195,207.77
+ORD-00054,2024-05-26,West,MA,Consumer,Technology,Phones,SKU-0009,4,219.53,0.315,56.81
+ORD-00055,2024-06-29,South,NY,Consumer,Office Supplies,Storage,SKU-0076,7,99.82,0.334,29.42
+ORD-00056,2023-02-18,Central,GA,Consumer,Office Supplies,Binders,SKU-0183,7,166.75,0.137,43.28
+ORD-00057,2024-08-22,South,MA,Consumer,Office Supplies,Paper,SKU-0089,4,51.26,0.239,11.94
+ORD-00058,2023-06-19,Central,NY,Corporate,Furniture,Chairs,SKU-0037,2,81.14,0.058,2.4
+ORD-00059,2025-03-25,Central,FL,Consumer,Furniture,Tables,SKU-0021,6,358.81,0.147,17.96
+ORD-00060,2025-01-18,East,IL,Consumer,Office Supplies,Paper,SKU-0110,1,17.0,0.024,1.45
+ORD-00061,2025-10-08,Central,IL,Home Office,Office Supplies,Paper,SKU-0053,8,61.88,0.232,13.44
+ORD-00062,2025-03-27,South,MA,Corporate,Furniture,Bookcases,SKU-0184,4,240.46,0.039,16.49
+ORD-00063,2024-02-06,West,TX,Consumer,Technology,Phones,SKU-0085,7,332.81,0.087,112.67
+ORD-00064,2025-11-26,East,MA,Consumer,Technology,Computers,SKU-0032,6,366.67,0.335,56.61
+ORD-00065,2024-03-26,West,WA,Consumer,Office Supplies,Paper,SKU-0069,4,59.99,0.018,14.43
+ORD-00066,2023-12-24,South,MA,Home Office,Furniture,Bookcases,SKU-0111,8,520.83,0.236,138.24
+ORD-00067,2025-09-19,East,WA,Consumer,Office Supplies,Paper,SKU-0010,7,163.7,0.128,50.42
+ORD-00068,2024-02-11,Central,FL,Home Office,Technology,Accessories,SKU-0028,8,355.82,0.123,121.51
+ORD-00069,2023-03-25,South,NY,Consumer,Office Supplies,Storage,SKU-0241,1,20.38,0.076,2.53
+ORD-00070,2024-05-29,South,GA,Corporate,Technology,Accessories,SKU-0087,4,302.72,0.332,60.32
+ORD-00071,2025-05-22,West,WA,Consumer,Technology,Computers,SKU-0188,8,539.9,0.148,102.88
+ORD-00072,2023-07-27,Central,TX,Consumer,Technology,Accessories,SKU-0229,7,288.81,0.278,56.76
+ORD-00073,2024-05-22,South,TX,Consumer,Technology,Phones,SKU-0029,4,1506.06,0.026,256.04
+ORD-00074,2023-05-23,West,CA,Consumer,Office Supplies,Paper,SKU-0172,1,37.24,0.002,5.4
+ORD-00075,2025-01-22,Central,TX,Home Office,Furniture,Bookcases,SKU-0209,3,149.69,0.256,1.09
+ORD-00076,2024-06-05,East,NY,Corporate,Office Supplies,Binders,SKU-0006,5,108.72,0.141,47.86
+ORD-00077,2023-12-28,Central,GA,Consumer,Furniture,Bookcases,SKU-0078,6,513.26,0.028,71.03
+ORD-00078,2023-09-06,West,IL,Corporate,Furniture,Chairs,SKU-0034,8,1696.64,0.181,332.72
+ORD-00079,2024-09-10,West,WA,Consumer,Office Supplies,Storage,SKU-0008,1,28.0,0.322,3.6
+ORD-00080,2025-01-04,West,MA,Home Office,Technology,Phones,SKU-0074,4,348.15,0.11,40.72
+ORD-00081,2025-10-27,West,GA,Consumer,Office Supplies,Storage,SKU-0046,3,30.03,0.254,2.35
+ORD-00082,2024-04-24,West,IL,Consumer,Office Supplies,Storage,SKU-0224,8,225.05,0.273,31.88
+ORD-00083,2023-06-26,Central,CA,Consumer,Office Supplies,Storage,SKU-0060,2,44.51,0.08,7.19
+ORD-00084,2025-07-01,East,FL,Consumer,Furniture,Tables,SKU-0187,2,23.54,0.294,2.33
+ORD-00085,2024-11-21,West,GA,Home Office,Technology,Accessories,SKU-0013,3,242.54,0.122,66.56
+ORD-00086,2025-02-06,Central,TX,Consumer,Office Supplies,Binders,SKU-0155,1,7.84,0.276,2.68
+ORD-00087,2023-04-17,Central,CA,Consumer,Furniture,Chairs,SKU-0174,6,309.25,0.422,68.91
+ORD-00088,2023-12-09,East,WA,Corporate,Technology,Phones,SKU-0039,5,463.19,0.051,85.34
+ORD-00089,2025-04-21,South,FL,Consumer,Furniture,Bookcases,SKU-0108,5,333.16,0.099,70.04
+ORD-00090,2025-07-01,East,NY,Consumer,Office Supplies,Storage,SKU-0233,8,73.1,0.426,13.78
+ORD-00091,2024-04-21,South,CA,Corporate,Office Supplies,Storage,SKU-0154,4,112.7,0.12,19.47
+ORD-00092,2025-06-01,West,FL,Consumer,Office Supplies,Paper,SKU-0203,3,60.43,0.166,17.62
+ORD-00093,2025-07-11,Central,NY,Home Office,Office Supplies,Binders,SKU-0107,4,70.79,0.144,1.68
+ORD-00094,2024-02-29,South,NY,Corporate,Technology,Phones,SKU-0060,7,406.54,0.055,13.53
+ORD-00095,2025-09-11,South,TX,Consumer,Office Supplies,Paper,SKU-0118,5,90.72,0.302,14.78
+ORD-00096,2023-11-13,Central,IL,Consumer,Furniture,Bookcases,SKU-0102,2,230.19,0.184,16.89
+ORD-00097,2023-09-20,Central,MA,Consumer,Office Supplies,Storage,SKU-0246,6,102.43,0.147,38.58
+ORD-00098,2025-01-18,East,IL,Corporate,Technology,Accessories,SKU-0108,6,215.98,0.036,21.66
+ORD-00099,2024-11-28,Central,MA,Corporate,Office Supplies,Storage,SKU-0157,2,18.47,0.058,16.89
+ORD-00100,2023-06-03,Central,FL,Corporate,Furniture,Tables,SKU-0147,5,93.69,0.11,10.24
+ORD-00101,2025-07-01,South,IL,Consumer,Technology,Phones,SKU-0093,5,176.09,0.314,18.02
+ORD-00102,2023-08-08,East,FL,Corporate,Furniture,Tables,SKU-0094,2,66.75,0.375,7.52
+ORD-00103,2025-06-01,West,NY,Consumer,Technology,Phones,SKU-0212,1,79.7,0.1,20.81
+ORD-00104,2023-01-09,Central,GA,Home Office,Technology,Accessories,SKU-0053,6,298.19,0.019,22.52
+ORD-00105,2025-05-23,West,TX,Consumer,Office Supplies,Binders,SKU-0104,5,141.95,0.187,41.79
+ORD-00106,2025-05-12,West,GA,Home Office,Furniture,Tables,SKU-0167,6,222.19,0.116,0.31
+ORD-00107,2025-05-05,East,WA,Consumer,Office Supplies,Binders,SKU-0015,4,31.17,0.239,4.25
+ORD-00108,2024-12-29,Central,TX,Consumer,Furniture,Bookcases,SKU-0170,5,128.06,0.292,2.65
+ORD-00109,2024-05-31,West,IL,Consumer,Office Supplies,Paper,SKU-0209,8,138.51,0.052,41.35
+ORD-00110,2025-02-11,West,CA,Home Office,Furniture,Bookcases,SKU-0111,2,364.7,0.024,-4.0
+ORD-00111,2023-10-31,West,FL,Home Office,Office Supplies,Paper,SKU-0146,6,91.63,0.226,24.23
+ORD-00112,2025-05-05,South,CA,Corporate,Office Supplies,Paper,SKU-0122,2,50.66,0.19,4.59
+ORD-00113,2024-08-31,Central,WA,Consumer,Furniture,Tables,SKU-0167,1,89.46,0.112,16.14
+ORD-00114,2024-05-17,West,NY,Corporate,Office Supplies,Storage,SKU-0013,8,97.39,0.018,31.58
+ORD-00115,2024-07-08,West,NY,Consumer,Furniture,Chairs,SKU-0155,2,135.55,0.091,34.34
+ORD-00116,2024-09-15,Central,NY,Corporate,Technology,Accessories,SKU-0115,6,301.91,0.07,36.5
+ORD-00117,2023-02-10,West,CA,Consumer,Office Supplies,Paper,SKU-0009,5,64.37,0.062,7.36
+ORD-00118,2023-06-03,Central,GA,Home Office,Office Supplies,Binders,SKU-0201,7,76.9,0.062,21.13
+ORD-00119,2023-09-27,East,GA,Corporate,Technology,Accessories,SKU-0038,5,264.76,0.174,47.32
+ORD-00120,2023-05-06,South,GA,Consumer,Furniture,Chairs,SKU-0148,6,1069.24,0.018,177.48
+ORD-00121,2024-04-26,West,WA,Corporate,Office Supplies,Paper,SKU-0213,8,167.98,0.161,45.19
+ORD-00122,2025-01-02,Central,NY,Consumer,Office Supplies,Storage,SKU-0231,7,63.62,0.037,23.17
+ORD-00123,2024-12-18,West,MA,Consumer,Office Supplies,Paper,SKU-0158,6,54.22,0.1,14.1
+ORD-00124,2024-05-31,South,MA,Consumer,Office Supplies,Binders,SKU-0180,2,39.98,0.268,7.5
+ORD-00125,2025-07-26,South,NY,Consumer,Office Supplies,Binders,SKU-0147,2,33.94,0.091,6.13
+ORD-00126,2024-09-11,Central,MA,Consumer,Furniture,Bookcases,SKU-0195,4,148.92,0.09,42.28
+ORD-00127,2023-03-28,East,GA,Corporate,Office Supplies,Paper,SKU-0244,6,78.52,0.088,14.07
+ORD-00128,2025-04-18,West,IL,Corporate,Furniture,Tables,SKU-0115,6,228.39,0.207,7.97
+ORD-00129,2024-09-21,Central,FL,Consumer,Office Supplies,Paper,SKU-0104,7,186.83,0.046,60.17
+ORD-00130,2024-11-26,Central,MA,Home Office,Furniture,Chairs,SKU-0044,1,218.5,0.144,-43.11
+ORD-00131,2024-09-11,West,TX,Home Office,Office Supplies,Storage,SKU-0245,2,49.56,0.064,11.05
+ORD-00132,2024-08-29,East,GA,Consumer,Office Supplies,Binders,SKU-0229,2,55.85,0.046,12.57
+ORD-00133,2023-04-10,East,TX,Consumer,Furniture,Bookcases,SKU-0177,5,542.43,0.02,91.89
+ORD-00134,2024-09-04,South,GA,Home Office,Office Supplies,Storage,SKU-0165,6,54.86,0.09,13.99
+ORD-00135,2025-05-21,Central,NY,Consumer,Furniture,Chairs,SKU-0052,1,133.64,0.026,16.89
+ORD-00136,2023-11-30,Central,WA,Consumer,Office Supplies,Binders,SKU-0228,7,111.33,0.059,32.43
+ORD-00137,2024-10-22,Central,FL,Home Office,Furniture,Tables,SKU-0015,3,118.05,0.016,-17.41
+ORD-00138,2023-02-03,West,TX,Corporate,Furniture,Chairs,SKU-0155,6,111.32,0.161,7.87
+ORD-00139,2024-01-16,East,IL,Home Office,Furniture,Bookcases,SKU-0064,7,135.06,0.139,11.3
+ORD-00140,2024-04-23,West,NY,Home Office,Technology,Computers,SKU-0114,1,91.25,0.116,8.7
+ORD-00141,2025-12-13,Central,WA,Consumer,Technology,Accessories,SKU-0024,7,292.47,0.1,88.54
+ORD-00142,2023-08-24,East,GA,Corporate,Office Supplies,Binders,SKU-0034,8,106.82,0.371,26.31
+ORD-00143,2023-10-31,East,FL,Corporate,Office Supplies,Binders,SKU-0095,8,132.19,0.047,39.23
+ORD-00144,2024-03-23,West,TX,Consumer,Office Supplies,Paper,SKU-0100,2,63.3,0.205,20.58
+ORD-00145,2025-12-23,West,WA,Consumer,Technology,Accessories,SKU-0221,4,538.98,0.195,39.06
+ORD-00146,2025-07-24,Central,IL,Consumer,Furniture,Bookcases,SKU-0150,2,50.4,0.266,3.99
+ORD-00147,2023-02-08,West,GA,Corporate,Technology,Accessories,SKU-0008,4,68.53,0.246,9.54
+ORD-00148,2023-09-14,West,TX,Corporate,Office Supplies,Storage,SKU-0233,8,177.44,0.041,46.42
+ORD-00149,2025-06-19,Central,FL,Home Office,Office Supplies,Binders,SKU-0153,7,60.82,0.069,20.68
+ORD-00150,2023-03-05,East,IL,Consumer,Technology,Computers,SKU-0208,7,537.95,0.05,84.55
+ORD-00151,2025-07-26,East,GA,Corporate,Office Supplies,Storage,SKU-0232,4,54.31,0.158,5.31
+ORD-00152,2023-11-05,East,CA,Consumer,Technology,Computers,SKU-0129,8,1247.86,0.131,232.29
+ORD-00153,2025-10-02,Central,FL,Home Office,Technology,Accessories,SKU-0045,8,497.28,0.034,113.25
+ORD-00154,2023-11-18,East,MA,Corporate,Technology,Accessories,SKU-0112,7,317.76,0.034,100.19
+ORD-00155,2024-04-21,Central,TX,Corporate,Furniture,Bookcases,SKU-0172,7,509.5,0.069,95.45
+ORD-00156,2024-12-26,South,FL,Consumer,Office Supplies,Storage,SKU-0009,6,103.74,0.043,22.96
+ORD-00157,2023-05-19,Central,TX,Consumer,Office Supplies,Paper,SKU-0237,1,5.48,0.577,1.51
+ORD-00158,2024-09-02,East,IL,Consumer,Technology,Accessories,SKU-0088,3,178.61,0.219,53.99
+ORD-00159,2024-07-07,Central,GA,Corporate,Office Supplies,Binders,SKU-0165,7,107.49,0.216,17.8
+ORD-00160,2025-05-09,East,TX,Consumer,Office Supplies,Binders,SKU-0246,3,28.44,0.158,6.13
+ORD-00161,2025-12-27,East,NY,Home Office,Office Supplies,Paper,SKU-0217,2,35.48,0.01,6.06
+ORD-00162,2024-12-29,East,FL,Consumer,Office Supplies,Binders,SKU-0186,8,64.74,0.02,22.86
+ORD-00163,2024-03-24,East,IL,Corporate,Technology,Accessories,SKU-0075,4,401.1,0.249,76.49
+ORD-00164,2024-03-21,West,MA,Consumer,Office Supplies,Binders,SKU-0132,7,103.5,0.128,18.43
+ORD-00165,2024-04-03,East,CA,Consumer,Furniture,Tables,SKU-0126,3,262.95,0.234,42.09
+ORD-00166,2025-06-11,West,GA,Corporate,Office Supplies,Binders,SKU-0216,3,86.88,0.262,21.04
+ORD-00167,2023-12-19,East,WA,Consumer,Furniture,Tables,SKU-0010,3,149.17,0.125,4.86
+ORD-00168,2023-07-03,Central,MA,Consumer,Office Supplies,Binders,SKU-0006,3,57.14,0.186,10.66
+ORD-00169,2024-01-02,South,IL,Corporate,Technology,Accessories,SKU-0030,4,364.05,0.063,64.43
+ORD-00170,2023-01-25,West,IL,Consumer,Furniture,Bookcases,SKU-0240,3,105.16,0.223,8.68
+ORD-00171,2023-04-27,Central,TX,Corporate,Office Supplies,Storage,SKU-0136,7,109.08,0.17,25.42
+ORD-00172,2023-04-09,East,MA,Corporate,Office Supplies,Binders,SKU-0175,3,26.37,0.188,5.24
+ORD-00173,2025-04-25,West,CA,Consumer,Furniture,Chairs,SKU-0024,4,134.12,0.111,19.71
+ORD-00174,2025-03-02,West,FL,Consumer,Office Supplies,Binders,SKU-0004,7,101.11,0.052,27.05
+ORD-00175,2025-02-02,West,TX,Consumer,Office Supplies,Paper,SKU-0163,4,26.37,0.477,3.37
+ORD-00176,2024-05-21,West,WA,Consumer,Furniture,Bookcases,SKU-0177,1,166.95,0.163,68.26
+ORD-00177,2025-02-24,West,GA,Consumer,Office Supplies,Storage,SKU-0107,1,12.57,0.167,3.17
+ORD-00178,2023-06-26,East,WA,Corporate,Office Supplies,Bookcases,SKU-0021,4,235.48,0.069,82.53
+ORD-00179,2025-09-14,East,CA,Consumer,Office Supplies,Storage,SKU-0123,6,92.46,0.146,30.19
+ORD-00180,2024-07-03,West,IL,Home Office,Furniture,Chairs,SKU-0160,8,447.02,0.054,-44.88
+ORD-00181,2025-10-25,West,CA,Corporate,Technology,Computers,SKU-0054,2,60.43,0.08,9.94
+ORD-00182,2023-06-16,West,IL,Consumer,Office Supplies,Binders,SKU-0076,5,61.25,0.253,8.48
+ORD-00183,2024-06-29,East,NY,Corporate,Office Supplies,Binders,SKU-0187,3,33.49,0.307,5.56
+ORD-00184,2025-02-02,East,WA,Consumer,Office Supplies,Storage,SKU-0054,4,104.67,0.412,26.73
+ORD-00185,2024-06-27,East,FL,Consumer,Office Supplies,Paper,SKU-0025,4,70.33,0.119,9.55
+ORD-00186,2024-05-03,West,TX,Home Office,Office Supplies,Storage,SKU-0158,3,24.85,0.009,5.77
+ORD-00187,2023-07-02,West,MA,Consumer,Office Supplies,Storage,SKU-0006,1,17.67,0.128,2.0
+ORD-00188,2024-02-22,South,WA,Consumer,Office Supplies,Paper,SKU-0109,5,18.37,0.212,4.05
+ORD-00189,2023-09-19,West,WA,Home Office,Furniture,Chairs,SKU-0143,5,261.42,0.161,70.65
+ORD-00190,2023-11-27,West,TX,Home Office,Furniture,Tables,SKU-0017,2,353.73,0.093,55.32
+ORD-00191,2025-01-19,West,TX,Corporate,Technology,Computers,SKU-0164,3,247.74,0.152,94.03
+ORD-00192,2024-11-21,South,FL,Corporate,Office Supplies,Storage,SKU-0206,1,8.24,0.25,1.27
+ORD-00193,2024-10-27,Central,MA,Corporate,Furniture,Tables,SKU-0244,1,33.23,0.027,-1.95
+ORD-00194,2024-02-01,Central,MA,Corporate,Technology,Accessories,SKU-0067,2,111.91,0.004,24.18
+ORD-00195,2025-11-17,South,MA,Consumer,Office Supplies,Binders,SKU-0082,4,97.17,0.042,27.39
+ORD-00196,2023-04-07,West,CA,Home Office,Furniture,Chairs,SKU-0155,2,55.07,0.061,11.26
+ORD-00197,2024-01-11,South,GA,Corporate,Technology,Accessories,SKU-0150,2,158.12,0.035,48.16
+ORD-00198,2023-05-10,West,NY,Consumer,Office Supplies,Paper,SKU-0153,3,41.96,0.012,6.54
+ORD-00199,2024-01-07,Central,CA,Consumer,Office Supplies,Storage,SKU-0079,3,81.3,0.052,19.98
+ORD-00200,2025-11-20,East,FL,Consumer,Technology,Accessories,SKU-0015,1,127.29,0.096,42.84
+ORD-00201,2024-02-06,East,IL,Consumer,Technology,Phones,SKU-0007,1,49.74,0.17,11.0
+ORD-00202,2025-09-22,South,CA,Consumer,Furniture,Bookcases,SKU-0250,8,166.68,0.111,4.38
+ORD-00203,2024-06-26,West,NY,Consumer,Office Supplies,Binders,SKU-0102,6,53.87,0.152,13.39
+ORD-00204,2025-02-05,South,NY,Home Office,Office Supplies,Binders,SKU-0112,1,17.68,0.03,2.72
+ORD-00205,2024-05-16,East,IL,Consumer,Technology,Phones,SKU-0157,3,301.11,0.224,70.1
+ORD-00206,2023-10-19,Central,WA,Consumer,Office Supplies,Storage,SKU-0052,4,18.08,0.234,4.49
+ORD-00207,2025-04-17,South,WA,Home Office,Technology,Phones,SKU-0096,8,421.27,0.329,98.94
+ORD-00208,2025-11-28,West,CA,Consumer,Furniture,Bookcases,SKU-0110,8,207.94,0.108,57.26
+ORD-00209,2023-10-16,South,NY,Corporate,Office Supplies,Paper,SKU-0024,7,105.73,0.423,27.67
+ORD-00210,2025-05-03,Central,FL,Corporate,Technology,Phones,SKU-0151,1,72.64,0.195,17.49
+ORD-00211,2023-10-14,Central,MA,Corporate,Technology,Phones,SKU-0049,4,99.15,0.163,7.72
+ORD-00212,2025-02-24,West,CA,Consumer,Furniture,Tables,SKU-0001,4,168.62,0.18,75.65
+ORD-00213,2025-05-14,East,TX,Consumer,Office Supplies,Paper,SKU-0156,6,59.09,0.168,9.98
+ORD-00214,2024-05-07,Central,CA,Corporate,Office Supplies,Binders,SKU-0076,7,166.16,0.328,44.33
+ORD-00215,2025-03-18,East,IL,Consumer,Office Supplies,Paper,SKU-0180,3,49.47,0.12,11.42
+ORD-00216,2023-10-26,West,IL,Consumer,Technology,Accessories,SKU-0135,5,1017.21,0.053,88.95
+ORD-00217,2023-03-28,West,NY,Consumer,Technology,Computers,SKU-0008,5,175.86,0.033,29.43
+ORD-00218,2023-04-16,South,GA,Corporate,Office Supplies,Binders,SKU-0174,2,17.11,0.259,4.61
+ORD-00219,2024-05-04,West,MA,Consumer,Technology,Computers,SKU-0011,3,126.83,0.242,37.3
+ORD-00220,2025-09-16,Central,FL,Corporate,Office Supplies,Storage,SKU-0079,6,68.55,0.342,19.21
+ORD-00221,2023-05-20,South,MA,Corporate,Office Supplies,Paper,SKU-0172,4,41.05,0.05,11.92
+ORD-00222,2024-05-14,West,TX,Consumer,Technology,Computers,SKU-0101,6,108.16,0.113,60.94
+ORD-00223,2025-02-10,West,GA,Home Office,Office Supplies,Storage,SKU-0097,6,108.98,0.327,32.25
+ORD-00224,2023-08-10,Central,IL,Home Office,Technology,Accessories,SKU-0056,3,229.48,0.192,38.33
+ORD-00225,2025-03-01,West,IL,Consumer,Furniture,Chairs,SKU-0111,8,391.87,0.196,129.61
+ORD-00226,2023-12-02,Central,FL,Consumer,Office Supplies,Storage,SKU-0074,1,8.0,0.447,0.36
+ORD-00227,2025-06-05,Central,FL,Consumer,Furniture,Bookcases,SKU-0237,8,98.48,0.092,8.67
+ORD-00229,2024-08-22,East,MA,Consumer,Office Supplies,Paper,SKU-0228,4,70.37,0.261,13.69
+ORD-00230,2023-07-13,Central,TX,Consumer,Office Supplies,Storage,SKU-0085,7,62.88,0.326,14.41
+ORD-00231,2024-05-22,Central,WA,Home Office,Office Supplies,Binders,SKU-0238,6,139.77,0.067,32.48
+ORD-00232,2025-07-27,West,NY,Corporate,Furniture,Tables,SKU-0070,3,76.68,0.127,21.64
+ORD-00233,2023-01-22,Central,NY,Consumer,Technology,Accessories,SKU-0078,8,314.6,0.117,48.85
+ORD-00234,2025-04-11,South,IL,Corporate,Office Supplies,Binders,SKU-0075,2,38.82,0.035,10.69
+ORD-00235,2024-06-24,Central,FL,Corporate,Office Supplies,Storage,SKU-0148,6,114.55,0.143,41.78
+ORD-00236,2025-02-27,East,WA,Consumer,Furniture,Chairs,SKU-0154,5,285.52,0.131,86.03
+ORD-00237,2024-12-27,East,NY,Corporate,Furniture,Tables,SKU-0017,2,96.7,0.175,0.68
+ORD-00238,2024-04-18,West,MA,Corporate,Furniture,Tables,SKU-0141,8,1081.51,0.084,156.76
+ORD-00239,2023-12-05,West,FL,Consumer,Technology,Accessories,SKU-0239,7,686.54,0.049,98.83
+ORD-00240,2024-11-18,West,FL,Home Office,Office Supplies,Paper,SKU-0102,1,15.98,0.013,2.84
+ORD-00241,2023-06-03,South,WA,Consumer,Furniture,Bookcases,SKU-0175,1,85.36,0.118,15.59
+ORD-00242,2024-10-02,West,WA,Corporate,Office Supplies,Paper,SKU-0159,1,15.33,0.012,1.59
+ORD-00243,2023-04-14,Central,IL,Corporate,Office Supplies,Paper,SKU-0245,4,32.8,0.65,9.89
+ORD-00244,2024-12-13,West,IL,Consumer,Office Supplies,Binders,SKU-0161,4,63.53,0.271,20.49
+ORD-00245,2024-11-20,West,NY,Consumer,Furniture,Chairs,SKU-0118,6,479.64,0.082,46.36
+ORD-00246,2023-04-03,East,FL,Home Office,Furniture,Bookcases,SKU-0004,6,388.47,0.068,31.36
+ORD-00247,2025-04-10,East,NY,Corporate,Office Supplies,Binders,SKU-0201,1,19.61,0.158,2.76
+ORD-00248,2024-03-31,Central,WA,Consumer,Office Supplies,Binders,SKU-0085,4,149.98,0.041,27.74
+ORD-00249,2025-05-12,South,IL,Consumer,Furniture,Chairs,SKU-0232,7,248.95,0.438,36.95
+ORD-00250,2023-02-15,South,NY,Consumer,Office Supplies,Paper,SKU-0062,8,102.62,0.113,10.02
+ORD-00251,2023-07-16,West,IL,Consumer,Technology,Phones,SKU-0110,3,170.62,0.157,-6.21
+ORD-00252,2024-06-25,Central,GA,Consumer,Office Supplies,Paper,SKU-0208,1,8.97,0.108,2.36
+ORD-00253,2023-07-26,West,FL,Corporate,Technology,Accessories,SKU-0038,2,139.05,0.112,33.43
+ORD-00254,2023-12-28,South,TX,Consumer,Technology,Computers,SKU-0069,3,189.42,0.125,38.13
+ORD-00255,2024-12-25,East,IL,Corporate,Office Supplies,Paper,SKU-0198,4,52.49,0.071,5.85
+ORD-00256,2023-06-08,East,FL,Home Office,Technology,Accessories,SKU-0080,3,361.28,0.165,79.23
+ORD-00257,2025-01-12,West,NY,Home Office,Technology,Accessories,SKU-0240,1,51.35,0.445,4.67
+ORD-00258,2023-04-24,West,FL,Home Office,Technology,Computers,SKU-0135,3,156.35,0.142,36.74
+ORD-00259,2023-07-12,West,CA,Consumer,Furniture,Chairs,SKU-0207,3,115.21,0.288,-8.35
+ORD-00261,2025-05-19,Central,FL,Consumer,Technology,Accessories,SKU-0012,1,38.19,0.159,6.18
+ORD-00263,2023-11-25,West,IL,Home Office,Office Supplies,Binders,SKU-0105,4,53.22,0.357,17.75
+ORD-00264,2025-10-10,Central,GA,Corporate,Technology,Phones,SKU-0097,3,83.2,0.13,15.84
+ORD-00265,2025-12-20,West,GA,Corporate,Technology,Phones,SKU-0185,8,216.1,0.078,51.93
+ORD-00266,2024-09-28,East,NY,Consumer,Office Supplies,Storage,SKU-0071,6,85.75,0.111,15.82
+ORD-00267,2024-05-04,East,TX,Consumer,Office Supplies,Storage,SKU-0108,2,27.48,0.249,5.38
+ORD-00268,2024-01-16,West,NY,Home Office,Office Supplies,Binders,SKU-0153,2,27.87,0.206,9.14
+ORD-00269,2024-11-02,Central,TX,Consumer,Office Supplies,Paper,SKU-0149,1,13.86,0.275,1.53
+ORD-00270,2024-10-09,West,MA,Consumer,Technology,Accessories,SKU-0183,5,503.04,0.039,70.03
+ORD-00271,2023-11-20,East,WA,Corporate,Furniture,Chairs,SKU-0021,3,255.61,0.056,-32.63
+ORD-00272,2023-01-25,Central,TX,Corporate,Office Supplies,Storage,SKU-0249,4,35.54,0.026,7.22
+ORD-00273,2023-06-16,West,TX,Consumer,Technology,Phones,SKU-0153,5,1152.46,0.087,112.28
+ORD-00274,2025-11-16,South,FL,Consumer,Office Supplies,Binders,SKU-0155,5,128.11,0.022,25.46
+ORD-00275,2024-04-03,East,FL,Corporate,Furniture,Chairs,SKU-0221,1,85.32,0.089,0.48
+ORD-00276,2024-06-12,Central,IL,Home Office,Office Supplies,Storage,SKU-0123,1,19.75,0.116,6.06
+ORD-00277,2024-05-26,Central,IL,Consumer,Furniture,Tables,SKU-0008,7,437.93,0.08,67.4
+ORD-00278,2025-05-07,Central,GA,Corporate,Furniture,Tables,SKU-0034,8,281.63,0.016,43.23
+ORD-00279,2023-03-13,Central,FL,Consumer,Technology,Computers,SKU-0237,7,594.1,0.111,39.76
+ORD-00280,2023-04-01,South,MA,Corporate,Technology,Phones,SKU-0247,8,1371.64,0.107,209.49
+ORD-00281,2023-10-30,Central,GA,Corporate,Office Supplies,Storage,SKU-0021,4,31.38,0.067,9.06
+ORD-00282,2024-06-17,West,TX,Home Office,Technology,Computers,SKU-0172,7,790.25,0.113,116.84
+ORD-00283,2025-01-05,West,MA,Corporate,Technology,Accessories,SKU-0166,8,289.98,0.048,87.97
+ORD-00284,2024-06-21,Central,MA,Consumer,Technology,Computers,SKU-0042,8,231.81,0.22,32.72
+ORD-00285,2024-04-28,West,NY,Consumer,Technology,Accessories,SKU-0197,2,394.83,0.15,18.58
+ORD-00286,2025-10-24,West,NY,Corporate,Office Supplies,Storage,SKU-0115,2,12.26,0.506,4.32
+ORD-00287,2023-06-26,West,NY,Consumer,Furniture,Tables,SKU-0058,4,137.92,0.294,22.3
+ORD-00288,2024-09-18,East,FL,Corporate,Office Supplies,Binders,SKU-0141,5,59.89,0.075,11.28
+ORD-00289,2024-08-17,West,MA,Consumer,Technology,Accessories,SKU-0227,8,323.85,0.043,74.61
+ORD-00290,2024-06-02,Central,MA,Consumer,Office Supplies,Storage,SKU-0055,3,45.98,0.433,11.73
+ORD-00291,2025-06-04,Central,IL,Corporate,Furniture,Tables,SKU-0155,7,347.48,0.126,65.48
+ORD-00292,2023-10-20,South,WA,Consumer,Furniture,Tables,SKU-0184,8,300.79,0.167,46.33
+ORD-00293,2025-11-11,West,CA,Home Office,Office Supplies,Storage,SKU-0157,8,77.37,0.287,13.6
+ORD-00294,2023-12-30,East,WA,Consumer,Office Supplies,Binders,SKU-0163,2,33.16,0.335,16.89
+ORD-00295,2024-08-20,Central,IL,Consumer,Office Supplies,Binders,SKU-0182,2,108.16,0.114,4.35
+ORD-00296,2024-07-24,East,MA,Consumer,Technology,Computers,SKU-0059,2,157.92,0.069,38.8
+ORD-00297,2025-07-20,Central,GA,Consumer,Technology,Phones,SKU-0026,6,377.69,0.244,40.47
+ORD-00298,2024-04-26,West,FL,Corporate,Office Supplies,Storage,SKU-0248,6,123.22,0.015,30.98
+ORD-00299,2023-11-08,South,FL,Consumer,Furniture,Bookcases,SKU-0080,4,225.6,0.152,45.48
+ORD-00300,2023-01-24,West,GA,Consumer,Office Supplies,Storage,SKU-0238,1,9.15,0.139,1.94
+ORD-00301,2024-02-03,South,TX,Home Office,Office Supplies,Binders,SKU-0068,5,61.74,0.279,8.54
+ORD-00302,2025-06-24,Central,NY,Consumer,Office Supplies,Storage,SKU-0067,6,83.3,0.107,30.36
+ORD-00303,2023-01-11,West,FL,Consumer,Office Supplies,Binders,SKU-0007,4,40.82,0.198,12.01
+ORD-00304,2025-09-09,Central,TX,Home Office,Office Supplies,Binders,SKU-0111,5,28.87,0.154,10.08
+ORD-00305,2024-08-17,West,WA,Corporate,Technology,Phones,SKU-0237,5,502.69,0.069,70.02
+ORD-00306,2023-06-03,Central,MA,Consumer,Technology,Computers,SKU-0224,6,108.16,0.069,49.31
+ORD-00307,2023-11-28,Central,FL,Home Office,Office Supplies,Storage,SKU-0077,5,99.4,0.202,3.2
+ORD-00308,2024-08-30,West,TX,Consumer,Furniture,Chairs,SKU-0102,7,296.55,0.444,95.42
+ORD-00309,2023-12-12,West,FL,Consumer,Technology,Accessories,SKU-0168,3,361.22,0.107,84.82
+ORD-00310,2023-04-29,Central,IL,Consumer,Furniture,Bookcases,SKU-0239,5,516.59,0.045,96.58
+ORD-00311,2024-12-30,West,NY,Home Office,Office Supplies,Binders,SKU-0152,7,55.84,0.18,16.89
+ORD-00312,2025-01-06,South,MA,Consumer,Office Supplies,Binders,SKU-0051,2,42.28,0.061,0.86
+ORD-00313,2023-05-11,Central,TX,Corporate,Office Supplies,Storage,SKU-0090,3,36.17,0.17,7.92
+ORD-00314,2023-11-05,Central,FL,Consumer,Furniture,Chairs,SKU-0182,1,67.11,0.135,14.56
+ORD-00315,2023-09-25,West,GA,Consumer,Technology,Phones,SKU-0006,3,179.09,0.251,52.17
+ORD-00316,2024-12-23,Central,NY,Home Office,Office Supplies,Storage,SKU-0150,1,19.77,0.057,5.69
+ORD-00317,2025-03-11,South,IL,Home Office,Furniture,Chairs,SKU-0193,6,410.68,0.123,32.81
+ORD-00318,2025-03-07,West,NY,Consumer,Office Supplies,Paper,SKU-0087,1,7.88,0.37,1.14
+ORD-00319,2025-10-25,East,IL,Consumer,Office Supplies,Storage,SKU-0135,6,37.65,0.385,8.84
+ORD-00320,2025-04-22,West,TX,Corporate,Technology,Accessories,SKU-0180,5,1116.48,0.052,135.76
+ORD-00321,2023-12-18,East,GA,Corporate,Technology,Computers,SKU-0149,8,960.23,0.189,121.77
+ORD-00322,2023-04-29,Central,TX,Consumer,Technology,Accessories,SKU-0007,3,85.12,0.56,6.57
+ORD-00323,2024-11-04,East,FL,Consumer,Office Supplies,Storage,SKU-0147,3,98.42,0.362,11.58
+ORD-00324,2025-09-30,Central,NY,Home Office,Office Supplies,Paper,SKU-0058,2,29.25,0.207,3.03
+ORD-00325,2025-12-04,East,IL,Consumer,Technology,Computers,SKU-0185,5,60.8,0.139,5.49
+ORD-00326,2023-09-10,West,MA,Consumer,Office Supplies,Paper,SKU-0066,2,22.56,0.145,1.98
+ORD-00327,2023-09-17,West,WA,Consumer,Furniture,Tables,SKU-0245,1,83.97,0.01,13.87
+ORD-00328,2023-02-11,South,TX,Consumer,Furniture,Bookcases,SKU-0030,8,633.87,0.038,126.18
+ORD-00329,2023-06-04,West,GA,Corporate,Office Supplies,Paper,SKU-0223,6,61.49,0.234,6.59
+ORD-00330,2024-08-31,East,MA,Consumer,Technology,Accessories,SKU-0009,1,122.07,0.092,23.42
+ORD-00331,2024-08-22,Central,IL,Corporate,Technology,Computers,SKU-0171,5,236.81,0.095,35.72
+ORD-00332,2024-02-11,West,GA,Consumer,Office Supplies,Binders,SKU-0089,3,56.54,0.058,17.19
+ORD-00333,2023-12-06,West,NY,Consumer,Technology,Phones,SKU-0049,2,201.07,0.032,36.29
+ORD-00334,2025-06-28,West,TX,Home Office,Office Supplies,Storage,SKU-0055,4,106.01,0.031,15.54
+ORD-00335,2024-05-19,South,GA,Consumer,Technology,Computers,SKU-0010,7,431.93,0.144,55.61
+ORD-00336,2025-06-04,Central,GA,Consumer,Technology,Computers,SKU-0034,1,51.38,0.18,6.35
+ORD-00337,2025-11-21,Central,MA,Consumer,Technology,Phones,SKU-0099,3,988.5,0.041,189.19
+ORD-00338,2023-12-14,West,NY,Corporate,Furniture,Bookcases,SKU-0040,8,982.64,0.21,14.45
+ORD-00339,2023-08-11,West,NY,Corporate,Technology,Phones,SKU-0243,4,90.53,0.548,9.81
+ORD-00340,2025-11-10,Central,WA,Corporate,Technology,Computers,SKU-0207,1,65.15,0.184,11.82
+ORD-00341,2024-11-26,East,CA,Corporate,Office Supplies,Paper,SKU-0119,4,101.06,0.249,25.24
+ORD-00342,2023-11-15,South,GA,Consumer,Furniture,Chairs,SKU-0024,6,172.58,0.135,14.48
+ORD-00343,2024-11-12,Central,GA,Home Office,Furniture,Chairs,SKU-0247,8,360.98,0.176,103.46
+ORD-00344,2024-07-18,East,MA,Consumer,Technology,Accessories,SKU-0182,6,333.99,0.181,28.98
+ORD-00345,2025-09-19,Central,GA,Consumer,Furniture,Chairs,SKU-0046,1,18.19,0.089,-0.87
+ORD-00346,2023-10-08,South,NY,Consumer,Technology,Phones,SKU-0014,7,322.05,0.16,55.7
+ORD-00347,2025-12-22,East,GA,Consumer,Office Supplies,Binders,SKU-0155,7,65.61,0.124,6.84
+ORD-00348,2025-10-22,Central,TX,Consumer,Technology,Accessories,SKU-0011,6,322.32,0.04,40.4
+ORD-00349,2023-07-18,South,CA,Consumer,Office Supplies,Storage,SKU-0154,8,36.31,0.314,5.66
+ORD-00350,2023-06-30,West,TX,Corporate,Office Supplies,Storage,SKU-0111,7,198.45,0.005,52.78
+ORD-00351,2024-08-07,South,MA,Corporate,Technology,Phones,SKU-0221,2,190.39,0.095,13.1
+ORD-00352,2023-02-19,West,GA,Corporate,Technology,Accessories,SKU-0096,4,120.92,0.112,28.81
+ORD-00353,2023-11-24,Central,FL,Consumer,Technology,Phones,SKU-0112,5,177.22,0.123,37.77
+ORD-00354,2024-04-21,Central,NY,Consumer,Office Supplies,Binders,SKU-0137,4,36.69,0.019,8.28
+ORD-00355,2025-11-28,Central,FL,Home Office,Technology,Computers,SKU-0246,6,795.52,0.057,113.62
+ORD-00356,2025-12-23,East,FL,Consumer,Office Supplies,Paper,SKU-0176,6,82.03,0.181,17.72
+ORD-00357,2023-06-16,Central,FL,Consumer,Office Supplies,Binders,SKU-0168,1,23.72,0.121,3.84
+ORD-00358,2025-09-04,West,TX,Consumer,Office Supplies,Binders,SKU-0078,5,30.22,0.196,8.24
+ORD-00359,2023-04-10,West,NY,Consumer,Office Supplies,Binders,SKU-0121,1,6.33,0.515,1.21
+ORD-00360,2025-03-31,West,TX,Consumer,Office Supplies,Paper,SKU-0049,5,25.2,0.112,5.35
+ORD-00361,2025-07-15,Central,GA,Corporate,Technology,Computers,SKU-0098,4,284.89,0.089,56.75
+ORD-00362,2025-09-03,East,IL,Home Office,Furniture,Tables,SKU-0206,2,71.61,0.133,23.32
+ORD-00363,2023-09-02,West,CA,Home Office,Furniture,Chairs,SKU-0025,8,253.67,0.135,29.23
+ORD-00364,2025-09-06,South,TX,Consumer,Office Supplies,Paper,SKU-0042,3,37.21,0.164,4.17
+ORD-00365,2023-05-08,East,IL,Consumer,Office Supplies,Paper,SKU-0147,1,11.04,0.11,2.7
+ORD-00366,2024-07-22,East,FL,Corporate,Office Supplies,Paper,SKU-0200,3,27.0,0.365,5.74
+ORD-00367,2024-05-29,East,WA,Consumer,Technology,Phones,SKU-0244,7,601.38,0.115,88.87
+ORD-00368,2023-12-13,West,IL,Corporate,Office Supplies,Storage,SKU-0147,1,7.96,0.478,0.88
+ORD-00369,2023-01-25,Central,NY,Corporate,Furniture,Tables,SKU-0165,4,385.24,0.119,103.35
+ORD-00370,2025-04-26,East,IL,Consumer,Furniture,Chairs,SKU-0073,4,330.49,0.057,-24.79
+ORD-00371,2024-01-03,West,CA,Consumer,Office Supplies,Storage,SKU-0103,7,82.17,0.051,15.51
+ORD-00372,2024-12-26,South,FL,Consumer,Furniture,Tables,SKU-0079,1,31.08,0.173,2.79
+ORD-00373,2024-03-25,Central,IL,Corporate,Furniture,Chairs,SKU-0028,1,47.19,0.069,5.77
+ORD-00374,2024-02-14,Central,TX,Consumer,Office Supplies,Storage,SKU-0093,5,42.8,0.214,12.54
+ORD-00375,2025-08-29,South,WA,Consumer,Technology,Phones,SKU-0055,2,140.05,0.047,32.33
+ORD-00376,2023-04-14,South,MA,Consumer,Furniture,Chairs,SKU-0148,6,736.68,0.026,104.59
+ORD-00377,2025-03-18,East,TX,Corporate,Technology,Computers,SKU-0189,3,186.81,0.027,41.0
+ORD-00378,2025-03-29,Central,FL,Home Office,Technology,Accessories,SKU-0245,5,442.26,0.276,110.37
+ORD-00379,2024-02-21,Central,FL,Home Office,Office Supplies,Storage,SKU-0221,1,15.86,0.028,2.23
+ORD-00380,2023-10-15,West,FL,Home Office,Office Supplies,Storage,SKU-0080,6,99.41,0.243,16.63
+ORD-00381,2023-01-06,West,IL,Consumer,Furniture,Chairs,SKU-0235,5,319.08,0.153,-20.66
+ORD-00382,2025-10-23,West,NY,Consumer,Furniture,Bookcases,SKU-0236,1,13.11,0.247,-0.86
+ORD-00383,2025-11-04,Central,NY,Consumer,Furniture,Bookcases,SKU-0126,3,53.68,0.307,8.87
+ORD-00384,2023-09-22,Central,CA,Corporate,Office Supplies,Storage,SKU-0052,1,34.65,0.065,8.25
+ORD-00385,2023-02-04,Central,CA,Corporate,Office Supplies,Storage,SKU-0195,1,5.54,0.168,1.02
+ORD-00386,2023-05-15,East,MA,Consumer,Office Supplies,Storage,SKU-0029,6,87.81,0.18,20.08
+ORD-00387,2023-03-16,West,CA,Home Office,Furniture,Tables,SKU-0091,4,187.55,0.31,-7.17
+ORD-00388,2025-06-29,East,MA,Consumer,Furniture,Bookcases,SKU-0134,7,514.29,0.009,12.22
+ORD-00389,2025-09-04,East,GA,Corporate,Office Supplies,Tables,SKU-0216,3,124.41,0.047,16.57
+ORD-00390,2023-06-17,South,NY,Home Office,Office Supplies,Binders,SKU-0245,6,117.95,0.062,16.14
+ORD-00391,2025-03-29,South,IL,Corporate,Furniture,Chairs,SKU-0205,5,432.37,0.126,-20.18
+ORD-00392,2023-07-16,South,TX,Corporate,Office Supplies,Paper,SKU-0122,6,134.5,0.377,10.7
+ORD-00393,2024-02-07,South,IL,Corporate,Office Supplies,Paper,SKU-0022,7,120.68,0.224,32.11
+ORD-00394,2024-10-18,South,TX,Corporate,Furniture,Bookcases,SKU-0200,6,256.66,0.086,42.91
+ORD-00395,2025-02-28,East,TX,Corporate,Furniture,Bookcases,SKU-0215,6,360.18,0.175,65.45
+ORD-00396,2025-08-16,West,WA,Consumer,Furniture,Chairs,SKU-0119,6,626.76,0.192,113.51
+ORD-00397,2023-02-19,West,IL,Consumer,Technology,Computers,SKU-0139,4,418.53,0.142,76.84
+ORD-00398,2023-08-04,East,NY,Corporate,Technology,Computers,SKU-0213,6,282.03,0.224,73.89
+ORD-00399,2023-11-04,West,IL,Corporate,Office Supplies,Storage,SKU-0034,7,151.24,0.096,18.76
+ORD-00400,2023-12-07,West,GA,Corporate,Furniture,Tables,SKU-0204,6,213.31,0.276,23.65
+ORD-00401,2025-12-29,South,GA,Consumer,Technology,Phones,SKU-0129,5,512.58,0.029,57.49
+ORD-00402,2025-05-02,West,CA,Consumer,Office Supplies,Binders,SKU-0172,1,21.53,0.104,4.25
+ORD-00403,2023-12-18,South,FL,Consumer,Office Supplies,Binders,SKU-0048,4,28.27,0.365,8.24
+ORD-00404,2025-12-01,Central,GA,Home Office,Technology,Computers,SKU-0154,1,44.03,0.31,0.74
+ORD-00406,2024-07-02,Central,CA,Consumer,Office Supplies,Storage,SKU-0130,3,68.79,0.219,13.47
+ORD-00407,2024-04-20,East,NY,Consumer,Office Supplies,Binders,SKU-0132,4,44.09,0.297,7.8
+ORD-00408,2023-06-07,Central,TX,Consumer,Office Supplies,Binders,SKU-0240,5,104.02,0.146,6.79
+ORD-00409,2025-10-21,West,GA,Consumer,Technology,Phones,SKU-0168,8,274.11,0.214,38.54
+ORD-00410,2023-01-16,South,TX,Corporate,Office Supplies,Binders,SKU-0140,7,143.29,0.142,30.21
+ORD-00411,2023-07-11,West,TX,Consumer,Furniture,Tables,SKU-0101,4,162.14,0.196,31.27
+ORD-00412,2023-09-09,West,TX,Consumer,Office Supplies,Storage,SKU-0085,3,13.6,0.265,1.59
+ORD-00413,2023-11-03,Central,IL,Consumer,Office Supplies,Storage,SKU-0164,6,128.32,0.312,21.67
+ORD-00414,2023-05-25,Central,GA,Consumer,Technology,Accessories,SKU-0221,3,196.96,0.142,31.57
+ORD-00415,2023-01-20,East,CA,Corporate,Technology,Accessories,SKU-0144,8,567.6,0.031,16.55
+ORD-00416,2025-01-12,Central,IL,Home Office,Office Supplies,Paper,SKU-0166,7,94.25,0.42,24.88
+ORD-00417,2025-11-28,West,FL,Corporate,Office Supplies,Binders,SKU-0082,6,75.03,0.019,19.23
+ORD-00418,2023-05-14,Central,CA,Home Office,Technology,Computers,SKU-0140,2,111.47,0.283,9.0
+ORD-00419,2023-11-22,West,CA,Consumer,Office Supplies,Storage,SKU-0143,5,117.88,0.095,43.11
+ORD-00420,2024-07-08,West,GA,Home Office,Office Supplies,Binders,SKU-0171,7,85.51,0.136,19.44
+ORD-00421,2025-10-13,West,TX,Consumer,Furniture,Bookcases,SKU-0080,1,43.61,0.091,16.89
+ORD-00423,2025-04-19,East,TX,Corporate,Technology,Phones,SKU-0090,5,545.84,0.08,87.4
+ORD-00424,2024-09-28,East,CA,Consumer,Office Supplies,Binders,SKU-0106,3,49.08,0.065,10.37
+ORD-00425,2024-04-02,West,NY,Consumer,Furniture,Chairs,SKU-0074,6,281.79,0.199,90.97
+ORD-00426,2023-08-07,West,CA,Consumer,Office Supplies,Storage,SKU-0049,4,43.44,0.135,6.7
+ORD-00427,2025-08-05,East,FL,Consumer,Furniture,Tables,SKU-0126,8,817.74,0.068,153.21
+ORD-00428,2025-05-31,West,IL,Consumer,Office Supplies,Storage,SKU-0214,3,79.6,0.219,20.54
+ORD-00429,2023-01-28,Central,TX,Home Office,Technology,Computers,SKU-0008,3,263.6,0.234,21.78
+ORD-00430,2025-02-23,South,GA,Consumer,Technology,Phones,SKU-0167,1,46.48,0.063,5.5
+ORD-00431,2023-04-03,East,TX,Corporate,Office Supplies,Storage,SKU-0205,2,34.54,0.116,4.87
+ORD-00432,2025-03-20,South,CA,Corporate,Furniture,Tables,SKU-0207,2,85.68,0.209,-14.91
+ORD-00433,2025-06-24,West,CA,Consumer,Office Supplies,Storage,SKU-0214,7,246.18,0.163,91.7
+ORD-00434,2023-05-24,West,WA,Consumer,Office Supplies,Storage,SKU-0080,3,95.32,0.069,9.3
+ORD-00435,2024-04-20,Central,FL,Consumer,Office Supplies,Paper,SKU-0026,2,39.32,0.01,8.57
+ORD-00436,2023-05-16,Central,TX,Consumer,Office Supplies,Storage,SKU-0249,3,54.22,0.133,19.96
+ORD-00437,2024-09-13,South,NY,Consumer,Technology,Phones,SKU-0175,5,138.93,0.067,11.44
+ORD-00438,2025-10-13,West,NY,Consumer,Office Supplies,Paper,SKU-0090,7,72.59,0.181,23.79
+ORD-00439,2023-03-30,Central,IL,Consumer,Office Supplies,Paper,SKU-0214,8,144.8,0.172,39.41
+ORD-00440,2024-03-11,East,WA,Home Office,Furniture,Chairs,SKU-0089,1,32.27,0.426,12.05
+ORD-00441,2025-12-02,West,WA,Corporate,Technology,Computers,SKU-0188,7,151.14,0.049,33.31
+ORD-00442,2023-11-26,West,WA,Consumer,Office Supplies,Storage,SKU-0241,4,36.47,0.154,1.84
+ORD-00443,2023-05-25,South,CA,Corporate,Furniture,Tables,SKU-0192,7,636.39,0.031,-20.11
+ORD-00444,2024-06-19,West,FL,Home Office,Office Supplies,Paper,SKU-0164,1,16.23,0.044,3.87
+ORD-00445,2024-07-11,South,MA,Consumer,Office Supplies,Storage,SKU-0048,6,108.16,0.482,7.45
+ORD-00446,2024-12-27,Central,NY,Consumer,Office Supplies,Paper,SKU-0234,8,225.31,0.268,94.02
+ORD-00449,2024-07-25,South,GA,Corporate,Furniture,Tables,SKU-0153,1,33.42,0.152,6.5
+ORD-00450,2023-11-10,West,WA,Corporate,Technology,Accessories,SKU-0062,8,859.97,0.236,155.12
+ORD-00451,2025-11-18,West,FL,Corporate,Office Supplies,Paper,SKU-0151,6,195.06,0.138,41.57
+ORD-00452,2025-10-10,Central,FL,Consumer,Office Supplies,Paper,SKU-0098,8,152.89,0.039,32.64
+ORD-00453,2024-07-01,East,WA,Corporate,Furniture,Bookcases,SKU-0088,8,213.86,0.167,36.83
+ORD-00454,2023-01-28,West,IL,Consumer,Furniture,Chairs,SKU-0215,3,55.5,0.155,0.94
+ORD-00455,2024-10-16,West,GA,Consumer,Office Supplies,Storage,SKU-0181,4,79.7,0.153,16.45
+ORD-00456,2024-08-31,East,NY,Consumer,Technology,Phones,SKU-0123,6,306.43,0.098,84.92
+ORD-00457,2023-06-12,West,MA,Home Office,Office Supplies,Binders,SKU-0005,2,18.99,0.105,2.65
+ORD-00458,2024-11-25,West,MA,Corporate,Furniture,Chairs,SKU-0178,3,87.37,0.147,7.08
+ORD-00459,2025-07-10,South,MA,Corporate,Office Supplies,Binders,SKU-0185,1,13.41,0.063,4.62
+ORD-00460,2023-04-27,West,CA,Corporate,Technology,Computers,SKU-0042,8,1343.24,0.061,247.91
+ORD-00461,2025-03-03,South,IL,Consumer,Office Supplies,Paper,SKU-0190,2,47.99,0.116,17.63
+ORD-00462,2023-06-03,South,WA,Consumer,Furniture,Chairs,SKU-0100,4,199.97,0.045,69.06
+ORD-00463,2025-03-31,West,FL,Corporate,Office Supplies,Storage,SKU-0184,4,39.65,0.075,8.54
+ORD-00464,2024-04-04,Central,WA,Home Office,Technology,Computers,SKU-0210,4,213.8,0.24,21.72
+ORD-00465,2023-01-08,Central,WA,Consumer,Furniture,Chairs,SKU-0176,7,986.85,0.125,-99.75
+ORD-00466,2025-11-24,Central,NY,Consumer,Office Supplies,Binders,SKU-0236,8,136.76,0.153,8.42
+ORD-00467,2023-07-01,West,MA,Home Office,Technology,Accessories,SKU-0020,5,251.36,0.535,39.88
+ORD-00468,2024-10-15,West,IL,Consumer,Technology,Phones,SKU-0082,7,487.66,0.15,101.74
+ORD-00469,2023-07-18,West,GA,Consumer,Technology,Computers,SKU-0015,1,35.84,0.1,9.65
+ORD-00470,2025-10-19,Central,FL,Consumer,Furniture,Chairs,SKU-0044,8,219.09,0.309,46.96
+ORD-00471,2025-03-20,South,FL,Consumer,Technology,Accessories,SKU-0094,1,36.63,0.177,3.55
+ORD-00472,2025-05-31,Central,FL,Corporate,Office Supplies,Paper,SKU-0006,1,8.03,0.231,2.51
+ORD-00473,2024-04-18,Central,MA,Corporate,Furniture,Bookcases,SKU-0100,1,53.58,0.1,5.13
+ORD-00474,2024-05-27,South,GA,Consumer,Office Supplies,Paper,SKU-0032,2,45.02,0.092,10.87
+ORD-00475,2024-11-26,Central,FL,Consumer,Office Supplies,Storage,SKU-0029,7,108.16,0.032,14.77
+ORD-00476,2025-05-10,West,FL,Corporate,Technology,Computers,SKU-0209,3,247.79,0.08,47.53
+ORD-00477,2025-07-17,South,CA,Consumer,Office Supplies,Storage,SKU-0187,7,107.88,0.193,26.9
+ORD-00478,2023-01-20,East,CA,Consumer,Office Supplies,Storage,SKU-0114,4,96.76,0.306,28.31
+ORD-00479,2024-12-28,West,WA,Consumer,Office Supplies,Paper,SKU-0142,1,14.93,0.317,4.4
+ORD-00480,2023-04-30,East,TX,Home Office,Furniture,Tables,SKU-0073,4,177.18,0.004,5.16
+ORD-00481,2023-11-12,South,IL,Home Office,Furniture,Tables,SKU-0122,2,112.67,0.025,-4.97
+ORD-00482,2025-06-28,West,WA,Consumer,Technology,Accessories,SKU-0194,3,324.37,0.019,86.84
+ORD-00483,2023-10-02,East,NY,Corporate,Office Supplies,Storage,SKU-0131,5,27.83,0.233,4.46
+ORD-00484,2025-05-23,West,TX,Home Office,Office Supplies,Binders,SKU-0199,7,107.95,0.188,31.48
+ORD-00485,2024-05-22,West,CA,Consumer,Office Supplies,Binders,SKU-0122,5,73.09,0.126,6.55
+ORD-00486,2023-09-12,West,MA,Home Office,Technology,Computers,SKU-0091,2,132.97,0.077,22.46
+ORD-00487,2024-01-02,Central,FL,Consumer,Office Supplies,Paper,SKU-0224,6,96.09,0.116,20.88
+ORD-00488,2024-08-04,South,NY,Corporate,Furniture,Chairs,SKU-0226,6,218.88,0.096,-4.83
+ORD-00489,2025-04-18,West,FL,Corporate,Office Supplies,Binders,SKU-0058,2,38.33,0.037,5.27
+ORD-00490,2024-10-26,West,NY,Consumer,Technology,Computers,SKU-0116,7,181.73,0.447,14.45
+ORD-00491,2025-10-19,West,MA,Corporate,Office Supplies,Paper,SKU-0194,7,79.75,0.125,18.64
+ORD-00492,2025-08-09,West,NY,Corporate,Office Supplies,Paper,SKU-0066,5,60.52,0.047,15.86
+ORD-00493,2025-04-05,Central,TX,Consumer,Technology,Phones,SKU-0188,3,196.93,0.097,29.32
+ORD-00494,2024-10-23,Central,GA,Corporate,Technology,Accessories,SKU-0225,3,300.46,0.21,24.28
+ORD-00495,2023-11-14,Central,WA,Home Office,Office Supplies,Binders,SKU-0059,4,67.8,0.213,19.12
+ORD-00496,2024-03-28,East,WA,Home Office,Technology,Computers,SKU-0039,2,58.21,0.054,13.04
+ORD-00497,2023-05-11,Central,FL,Corporate,Office Supplies,Storage,SKU-0237,3,63.88,0.096,20.81
+ORD-00498,2024-02-15,West,FL,Consumer,Office Supplies,Paper,SKU-0249,2,32.88,0.343,7.09
+ORD-00499,2025-10-12,West,NY,Consumer,Office Supplies,Binders,SKU-0215,2,19.1,0.15,1.56
+ORD-00500,2024-04-11,South,TX,Consumer,Furniture,Chairs,SKU-0154,6,168.61,0.193,-6.4
+ORD-00501,2023-05-05,Central,GA,Home Office,Furniture,Tables,SKU-0022,2,108.16,0.082,5.96
+ORD-00502,2024-12-15,South,GA,Corporate,Technology,Accessories,SKU-0229,4,741.4,0.026,185.37
+ORD-00503,2025-11-21,South,WA,Home Office,Office Supplies,Paper,SKU-0050,4,138.41,0.124,13.48
+ORD-00504,2025-08-08,Central,GA,Consumer,Furniture,Chairs,SKU-0045,1,70.29,0.17,16.36
+ORD-00505,2023-10-28,South,MA,Home Office,Technology,Accessories,SKU-0180,7,86.66,0.186,28.22
+ORD-00506,2024-05-12,East,IL,Home Office,Furniture,Chairs,SKU-0098,5,1161.2,0.101,-48.91
+ORD-00507,2024-08-04,West,WA,Corporate,Office Supplies,Paper,SKU-0217,6,61.79,0.008,12.08
+ORD-00508,2023-09-29,West,MA,Home Office,Technology,Phones,SKU-0219,6,342.31,0.161,50.17
+ORD-00509,2023-10-22,West,NY,Consumer,Office Supplies,Binders,SKU-0202,2,12.13,0.229,1.63
+ORD-00510,2023-09-17,West,GA,Consumer,Office Supplies,Storage,SKU-0210,7,97.93,0.037,16.89
+ORD-00511,2025-12-26,East,IL,Consumer,Office Supplies,Binders,SKU-0137,7,102.61,0.14,30.96
+ORD-00512,2025-03-28,Central,TX,Consumer,Office Supplies,Storage,SKU-0218,4,20.72,0.423,4.19
+ORD-00513,2025-07-10,Central,IL,Consumer,Office Supplies,Paper,SKU-0229,6,63.15,0.348,13.73
+ORD-00514,2025-06-13,Central,TX,Corporate,Office Supplies,Binders,SKU-0071,8,74.23,0.387,16.11
+ORD-00515,2025-11-17,West,TX,Consumer,Technology,Accessories,SKU-0107,5,199.92,0.173,49.81
+ORD-00517,2025-08-24,East,GA,Consumer,Office Supplies,Storage,SKU-0215,3,19.02,0.508,3.53
+ORD-00518,2023-03-14,West,IL,Corporate,Office Supplies,Storage,SKU-0098,2,18.27,0.336,3.5
+ORD-00519,2024-06-05,West,NY,Home Office,Office Supplies,Paper,SKU-0066,3,73.34,0.134,14.24
+ORD-00520,2024-10-13,East,MA,Consumer,Office Supplies,Binders,SKU-0081,8,39.12,0.083,7.63
+ORD-00521,2024-01-28,West,TX,Corporate,Office Supplies,Binders,SKU-0200,2,11.78,0.033,0.48
+ORD-00522,2023-06-10,Central,FL,Home Office,Furniture,Chairs,SKU-0131,8,431.26,0.203,70.21
+ORD-00523,2023-07-30,Central,TX,Corporate,Furniture,Chairs,SKU-0064,3,50.61,0.116,-2.29
+ORD-00525,2023-12-16,West,TX,Corporate,Furniture,Tables,SKU-0166,5,516.19,0.316,-38.32
+ORD-00526,2023-12-07,Central,TX,Home Office,Furniture,Tables,SKU-0130,2,227.93,0.062,5.39
+ORD-00527,2025-10-09,Central,GA,Consumer,Technology,Accessories,SKU-0155,2,116.23,0.126,19.22
+ORD-00528,2023-06-07,West,WA,Corporate,Technology,Computers,SKU-0058,3,95.48,0.012,2.54
+ORD-00529,2025-09-30,Central,WA,Consumer,Office Supplies,Storage,SKU-0046,1,25.47,0.172,6.96
+ORD-00530,2025-10-06,East,CA,Consumer,Furniture,Tables,SKU-0202,7,75.02,0.164,-1.43
+ORD-00531,2024-10-18,East,CA,Corporate,Office Supplies,Storage,SKU-0171,5,56.76,0.156,9.63
+ORD-00532,2023-07-01,West,TX,Home Office,Office Supplies,Storage,SKU-0245,7,247.15,0.377,53.43
+ORD-00533,2023-06-20,East,GA,Home Office,Technology,Phones,SKU-0235,7,1297.98,0.074,87.43
+ORD-00534,2023-11-09,West,CA,Home Office,Technology,Computers,SKU-0091,3,355.67,0.254,41.01
+ORD-00535,2024-09-24,West,MA,Corporate,Office Supplies,Computers,SKU-0116,7,613.93,0.069,221.59
+ORD-00536,2023-06-18,West,MA,Corporate,Office Supplies,Binders,SKU-0213,1,20.74,0.19,3.89
+ORD-00537,2024-05-14,South,TX,Home Office,Technology,Phones,SKU-0001,4,968.39,0.016,58.28
+ORD-00538,2023-05-07,West,CA,Consumer,Furniture,Chairs,SKU-0216,6,124.48,0.291,16.48
+ORD-00539,2024-08-15,East,NY,Consumer,Office Supplies,Binders,SKU-0042,4,29.99,0.529,2.2
+ORD-00540,2023-01-24,East,CA,Consumer,Office Supplies,Storage,SKU-0066,6,67.88,0.082,13.0
+ORD-00541,2025-02-16,South,MA,Corporate,Technology,Phones,SKU-0121,7,564.62,0.098,122.4
+ORD-00542,2023-03-02,Central,MA,Corporate,Technology,Phones,SKU-0177,4,103.91,0.036,9.09
+ORD-00543,2023-08-02,South,WA,Corporate,Technology,Computers,SKU-0089,3,230.95,0.243,45.94
+ORD-00544,2023-07-11,West,CA,Consumer,Technology,Computers,SKU-0235,5,153.78,0.185,14.89
+ORD-00545,2025-06-29,West,GA,Corporate,Technology,Accessories,SKU-0196,7,587.64,0.129,137.3
+ORD-00546,2023-02-28,Central,WA,Corporate,Office Supplies,Binders,SKU-0185,8,67.95,0.261,8.17
+ORD-00547,2024-04-15,East,MA,Home Office,Office Supplies,Storage,SKU-0194,7,100.55,0.142,18.16
+ORD-00548,2024-10-09,Central,IL,Consumer,Office Supplies,Binders,SKU-0008,2,33.03,0.256,8.91
+ORD-00549,2024-07-19,South,NY,Corporate,Office Supplies,Binders,SKU-0206,2,60.42,0.127,18.84
+ORD-00550,2025-01-16,East,MA,Corporate,Technology,Computers,SKU-0152,5,675.46,0.436,200.95
+ORD-00551,2025-05-30,South,CA,Consumer,Office Supplies,Storage,SKU-0047,4,56.79,0.034,7.51
+ORD-00552,2024-03-07,Central,NY,Consumer,Office Supplies,Binders,SKU-0195,5,239.15,0.142,89.94
+ORD-00553,2025-06-26,West,NY,Consumer,Office Supplies,Paper,SKU-0027,8,115.71,0.224,25.37
+ORD-00554,2023-12-15,East,CA,Consumer,Office Supplies,Paper,SKU-0155,5,171.28,0.302,38.93
+ORD-00555,2025-12-14,West,FL,Consumer,Furniture,Bookcases,SKU-0143,3,261.75,0.092,65.98
+ORD-00556,2024-07-06,Central,NY,Corporate,Technology,Computers,SKU-0008,7,231.93,0.189,31.9
+ORD-00557,2025-03-17,West,GA,Corporate,Technology,Phones,SKU-0094,4,279.61,0.079,81.2
+ORD-00558,2025-08-17,West,GA,Corporate,Furniture,Bookcases,SKU-0031,5,248.87,0.288,67.11
+ORD-00559,2025-05-18,Central,NY,Consumer,Office Supplies,Storage,SKU-0237,2,66.63,0.098,20.33
+ORD-00560,2025-07-21,West,MA,Consumer,Furniture,Tables,SKU-0201,5,292.5,0.181,49.79
+ORD-00561,2024-08-11,West,CA,Corporate,Office Supplies,Storage,SKU-0249,4,45.68,0.1,6.3
+ORD-00562,2023-02-17,Central,TX,Corporate,Office Supplies,Binders,SKU-0123,1,25.2,0.102,4.17
+ORD-00563,2024-06-24,West,WA,Corporate,Technology,Accessories,SKU-0083,2,183.54,0.184,27.56
+ORD-00564,2023-07-18,East,NY,Corporate,Furniture,Bookcases,SKU-0240,6,465.54,0.393,35.68
+ORD-00565,2025-09-01,East,CA,Home Office,Office Supplies,Storage,SKU-0077,2,35.05,0.253,11.14
+ORD-00566,2023-09-17,West,NY,Home Office,Office Supplies,Storage,SKU-0104,2,41.56,0.155,9.68
+ORD-00567,2023-09-07,West,WA,Corporate,Furniture,Tables,SKU-0034,1,34.21,0.142,6.22
+ORD-00568,2023-10-01,Central,NY,Consumer,Technology,Phones,SKU-0206,1,40.76,0.049,7.82
+ORD-00569,2024-12-05,South,NY,Consumer,Office Supplies,Storage,SKU-0030,4,41.94,0.028,10.42
+ORD-00570,2024-09-18,West,NY,Corporate,Technology,Accessories,SKU-0009,4,240.17,0.084,7.1
+ORD-00571,2025-11-05,South,GA,Consumer,Office Supplies,Paper,SKU-0209,5,71.62,0.283,9.26
+ORD-00572,2024-04-01,Central,GA,Consumer,Technology,Computers,SKU-0211,5,185.07,0.064,34.19
+ORD-00573,2023-11-06,Central,MA,Consumer,Technology,Phones,SKU-0214,5,283.18,0.121,58.05
+ORD-00574,2023-02-23,Central,CA,Home Office,Furniture,Bookcases,SKU-0215,8,178.21,0.185,11.79
+ORD-00575,2023-01-08,Central,TX,Consumer,Furniture,Tables,SKU-0036,2,114.14,0.214,-11.47
+ORD-00576,2024-02-14,Central,GA,Corporate,Furniture,Chairs,SKU-0091,6,851.67,0.229,140.4
+ORD-00577,2025-10-11,East,FL,Home Office,Furniture,Bookcases,SKU-0192,1,42.03,0.098,-7.73
+ORD-00578,2024-07-28,East,CA,Corporate,Office Supplies,Binders,SKU-0078,7,58.65,0.155,9.42
+ORD-00579,2025-09-06,East,NY,Consumer,Furniture,Chairs,SKU-0195,3,67.86,0.086,7.43
+ORD-00580,2023-04-22,West,MA,Home Office,Furniture,Chairs,SKU-0228,3,302.33,0.123,17.03
+ORD-00581,2023-04-13,Central,GA,Corporate,Furniture,Bookcases,SKU-0241,5,76.24,0.081,28.25
+ORD-00582,2025-07-02,West,IL,Consumer,Technology,Phones,SKU-0195,5,414.91,0.178,69.98
+ORD-00583,2023-04-27,West,NY,Corporate,Office Supplies,Paper,SKU-0200,4,138.76,0.199,29.14
+ORD-00584,2023-02-26,West,CA,Consumer,Technology,Computers,SKU-0150,8,303.14,0.205,86.51
+ORD-00585,2024-03-18,West,NY,Corporate,Office Supplies,Paper,SKU-0020,2,14.44,0.048,3.14
+ORD-00586,2025-10-10,Central,MA,Home Office,Technology,Accessories,SKU-0110,4,231.98,0.133,19.59
+ORD-00587,2025-01-25,Central,MA,Corporate,Office Supplies,Binders,SKU-0239,8,73.97,0.078,22.82
+ORD-00588,2023-04-19,East,TX,Home Office,Furniture,Tables,SKU-0229,7,108.16,0.064,110.02
+ORD-00589,2025-07-06,West,GA,Consumer,Office Supplies,Paper,SKU-0060,7,102.63,0.056,23.64
+ORD-00590,2025-07-13,East,GA,Home Office,Furniture,Tables,SKU-0187,5,119.44,0.196,4.55
+ORD-00591,2025-05-27,East,GA,Corporate,Technology,Accessories,SKU-0077,7,517.79,0.281,-14.95
+ORD-00592,2025-09-16,Central,MA,Consumer,Office Supplies,Binders,SKU-0105,2,18.59,0.062,2.45
+ORD-00593,2023-09-20,Central,FL,Home Office,Office Supplies,Binders,SKU-0163,7,129.46,0.082,18.34
+ORD-00594,2025-12-09,East,GA,Home Office,Office Supplies,Paper,SKU-0125,5,21.51,0.331,8.9
+ORD-00595,2023-12-18,East,WA,Consumer,Furniture,Chairs,SKU-0152,3,288.27,0.026,-3.76
+ORD-00596,2025-05-29,South,MA,Corporate,Office Supplies,Storage,SKU-0025,2,23.03,0.072,7.32
+ORD-00597,2024-09-26,Central,IL,Consumer,Office Supplies,Storage,SKU-0075,5,62.87,0.147,18.13
+ORD-00598,2025-05-04,East,NY,Consumer,Office Supplies,Storage,SKU-0203,1,14.47,0.145,4.32
+ORD-00599,2024-11-19,East,FL,Consumer,Furniture,Bookcases,SKU-0155,6,200.65,0.482,-11.4
+ORD-00600,2024-12-05,West,IL,Consumer,Office Supplies,Paper,SKU-0211,2,32.32,0.106,11.26
+ORD-00601,2024-11-06,South,TX,Consumer,Office Supplies,Storage,SKU-0242,4,67.51,0.111,19.42
+ORD-00602,2025-05-03,East,WA,Consumer,Office Supplies,Paper,SKU-0089,2,40.33,0.178,9.01
+ORD-00603,2025-03-20,West,FL,Home Office,Furniture,Bookcases,SKU-0067,4,88.45,0.159,11.64
+ORD-00604,2023-05-28,South,TX,Consumer,Furniture,Chairs,SKU-0078,3,424.11,0.014,65.22
+ORD-00605,2025-06-24,Central,NY,Home Office,Office Supplies,Binders,SKU-0144,2,38.61,0.111,8.65
+ORD-00606,2024-08-10,West,FL,Consumer,Furniture,Bookcases,SKU-0064,8,613.36,0.143,55.06
+ORD-00607,2023-12-21,West,TX,Consumer,Office Supplies,Paper,SKU-0098,7,108.16,0.341,17.28
+ORD-00608,2024-07-17,West,NY,Corporate,Furniture,Chairs,SKU-0044,4,283.06,0.074,49.28
+ORD-00609,2025-11-25,Central,NY,Consumer,Technology,Accessories,SKU-0097,1,84.59,0.092,9.65
+ORD-00610,2025-07-28,West,WA,Consumer,Office Supplies,Paper,SKU-0237,7,48.15,0.274,14.99
+ORD-00611,2025-07-02,South,IL,Home Office,Technology,Accessories,SKU-0106,6,138.59,0.036,25.7
+ORD-00612,2024-05-22,South,TX,Consumer,Technology,Computers,SKU-0190,5,448.53,0.147,40.05
+ORD-00613,2025-05-09,East,CA,Consumer,Office Supplies,Storage,SKU-0108,5,74.97,0.048,14.49
+ORD-00614,2024-02-27,Central,CA,Corporate,Office Supplies,Binders,SKU-0109,1,8.63,0.219,2.18
+ORD-00615,2025-01-22,West,WA,Consumer,Office Supplies,Storage,SKU-0165,4,187.86,0.044,38.94
+ORD-00617,2023-10-01,Central,TX,Consumer,Technology,Computers,SKU-0089,6,137.75,0.024,13.88
+ORD-00618,2023-10-20,West,MA,Consumer,Office Supplies,Storage,SKU-0035,8,89.4,0.026,12.93
+ORD-00619,2023-03-09,West,FL,Consumer,Technology,Computers,SKU-0050,5,338.59,0.325,39.36
+ORD-00620,2023-06-03,East,TX,Consumer,Technology,Phones,SKU-0178,5,273.22,0.052,45.21
+ORD-00621,2024-04-20,West,FL,Corporate,Furniture,Tables,SKU-0044,6,241.62,0.144,75.27
+ORD-00622,2024-06-07,East,NY,Home Office,Office Supplies,Binders,SKU-0051,8,20.21,0.169,4.12
+ORD-00623,2023-06-30,Central,TX,Corporate,Office Supplies,Paper,SKU-0144,1,15.05,0.177,2.6
+ORD-00624,2024-04-01,Central,WA,Consumer,Office Supplies,Binders,SKU-0087,3,51.57,0.107,6.52
+ORD-00626,2023-09-12,South,NY,Corporate,Technology,Phones,SKU-0240,6,505.71,0.314,160.81
+ORD-00627,2024-01-06,East,GA,Consumer,Furniture,Tables,SKU-0231,4,493.26,0.378,21.75
+ORD-00628,2024-02-07,South,FL,Consumer,Furniture,Bookcases,SKU-0146,5,641.9,0.131,22.17
+ORD-00629,2024-07-07,East,NY,Consumer,Technology,Computers,SKU-0132,4,198.14,0.068,14.58
+ORD-00630,2024-02-06,West,MA,Consumer,Technology,Accessories,SKU-0203,8,92.42,0.16,14.09
+ORD-00631,2025-03-18,South,GA,Consumer,Furniture,Bookcases,SKU-0244,7,141.66,0.033,-6.75
+ORD-00632,2023-12-25,West,TX,Consumer,Technology,Accessories,SKU-0026,1,65.8,0.126,14.75
+ORD-00633,2024-04-20,West,CA,Home Office,Office Supplies,Storage,SKU-0025,8,94.88,0.318,24.76
+ORD-00634,2024-02-20,West,TX,Consumer,Office Supplies,Storage,SKU-0083,8,258.02,0.098,65.7
+ORD-00635,2023-07-20,East,MA,Consumer,Technology,Computers,SKU-0077,1,83.92,0.437,9.82
+ORD-00636,2025-01-21,East,CA,Home Office,Furniture,Tables,SKU-0224,4,203.22,0.169,-32.08
+ORD-00637,2023-09-16,East,TX,Consumer,Office Supplies,Storage,SKU-0128,8,57.77,0.259,16.52
+ORD-00638,2023-11-22,South,TX,Consumer,Office Supplies,Paper,SKU-0203,7,177.07,0.202,26.54
+ORD-00639,2025-05-18,West,CA,Consumer,Office Supplies,Binders,SKU-0167,4,45.7,0.155,9.3
+ORD-00640,2025-11-05,East,FL,Corporate,Furniture,Tables,SKU-0181,5,307.81,0.02,39.56
+ORD-00641,2025-01-05,East,MA,Consumer,Office Supplies,Binders,SKU-0240,1,16.12,0.12,2.44
+ORD-00642,2025-10-01,South,NY,Corporate,Technology,Accessories,SKU-0147,5,146.27,0.18,27.25
+ORD-00643,2025-07-25,West,GA,Home Office,Furniture,Bookcases,SKU-0195,6,448.5,0.36,166.39
+ORD-00644,2024-06-11,West,GA,Corporate,Technology,Accessories,SKU-0068,3,100.71,0.079,21.38
+ORD-00645,2025-04-24,East,MA,Home Office,Furniture,Tables,SKU-0065,3,421.61,0.164,90.04
+ORD-00646,2023-12-26,Central,WA,Corporate,Furniture,Tables,SKU-0147,7,210.16,0.292,68.99
+ORD-00647,2024-05-19,Central,IL,Corporate,Technology,Computers,SKU-0226,5,351.39,0.138,44.67
+ORD-00648,2024-08-09,Central,NY,Consumer,Office Supplies,Paper,SKU-0013,3,10.98,0.394,2.79
+ORD-00649,2025-11-18,Central,GA,Consumer,Furniture,Chairs,SKU-0126,3,142.68,0.086,7.5
+ORD-00650,2025-07-19,East,FL,Consumer,Technology,Accessories,SKU-0051,4,667.3,0.025,37.68
+ORD-00651,2024-06-20,West,IL,Corporate,Technology,Computers,SKU-0222,3,346.0,0.153,67.31
+ORD-00652,2024-12-16,West,IL,Consumer,Furniture,Chairs,SKU-0130,5,70.19,0.074,3.48
+ORD-00653,2023-08-10,West,NY,Corporate,Furniture,Bookcases,SKU-0011,7,61.4,0.059,7.47
+ORD-00654,2025-05-31,East,IL,Consumer,Furniture,Tables,SKU-0001,6,660.23,0.121,-27.79
+ORD-00655,2024-08-29,East,MA,Corporate,Technology,Computers,SKU-0160,2,149.16,0.119,43.49
+ORD-00656,2024-08-06,East,FL,Consumer,Office Supplies,Paper,SKU-0059,4,84.02,0.334,15.48
+ORD-00657,2025-04-19,Central,IL,Home Office,Office Supplies,Binders,SKU-0011,5,91.54,0.055,27.99
+ORD-00658,2024-11-24,East,CA,Consumer,Furniture,Tables,SKU-0039,6,173.2,0.057,9.54
+ORD-00659,2023-03-21,Central,IL,Corporate,Office Supplies,Paper,SKU-0039,7,46.78,0.351,14.75
+ORD-00660,2023-11-12,Central,NY,Corporate,Office Supplies,Paper,SKU-0087,5,77.62,0.036,25.28
+ORD-00661,2023-07-13,East,IL,Consumer,Office Supplies,Binders,SKU-0180,3,22.5,0.198,6.84
+ORD-00662,2025-03-16,East,NY,Corporate,Office Supplies,Storage,SKU-0215,6,49.6,0.036,10.2
+ORD-00663,2023-02-08,Central,GA,Home Office,Office Supplies,Paper,SKU-0134,2,37.69,0.228,15.97
+ORD-00664,2023-08-10,Central,NY,Corporate,Office Supplies,Storage,SKU-0237,6,115.79,0.094,26.88
+ORD-00665,2024-10-16,East,CA,Home Office,Office Supplies,Paper,SKU-0198,8,82.98,0.097,19.86
+ORD-00666,2025-01-31,East,WA,Consumer,Furniture,Chairs,SKU-0042,6,145.19,0.096,9.91
+ORD-00667,2024-07-05,Central,TX,Home Office,Technology,Accessories,SKU-0184,4,125.52,0.156,12.26
+ORD-00668,2025-08-01,Central,GA,Home Office,Technology,Computers,SKU-0058,7,380.07,0.03,14.34
+ORD-00669,2025-10-04,West,IL,Corporate,Furniture,Tables,SKU-0241,5,180.88,0.075,6.25
+ORD-00670,2023-05-25,East,WA,Home Office,Furniture,Chairs,SKU-0212,5,395.79,0.023,43.95
+ORD-00671,2025-11-09,South,MA,Corporate,Furniture,Chairs,SKU-0017,7,301.79,0.045,49.9
+ORD-00672,2024-11-04,West,GA,Consumer,Office Supplies,Binders,SKU-0044,2,45.35,0.068,12.16
+ORD-00673,2024-11-28,South,MA,Corporate,Office Supplies,Paper,SKU-0111,7,96.13,0.102,15.83
+ORD-00674,2023-04-15,West,FL,Consumer,Office Supplies,Binders,SKU-0186,6,69.04,0.408,13.31
+ORD-00675,2024-11-12,East,MA,Corporate,Technology,Phones,SKU-0139,5,282.76,0.036,28.89
+ORD-00676,2025-03-06,East,TX,Consumer,Technology,Accessories,SKU-0022,1,48.04,0.379,7.59
+ORD-00677,2024-09-28,West,MA,Corporate,Office Supplies,Storage,SKU-0158,7,173.98,0.175,49.45
+ORD-00678,2023-04-03,South,MA,Consumer,Office Supplies,Storage,SKU-0163,2,48.68,0.274,9.79
+ORD-00679,2024-07-27,East,IL,Consumer,Office Supplies,Storage,SKU-0233,8,107.01,0.137,18.49
+ORD-00681,2025-03-03,West,WA,Consumer,Office Supplies,Paper,SKU-0010,3,10.04,0.257,3.19
+ORD-00682,2023-05-31,South,CA,Corporate,Furniture,Bookcases,SKU-0188,4,172.2,0.095,11.16
+ORD-00683,2025-11-18,South,CA,Consumer,Furniture,Chairs,SKU-0176,1,61.71,0.01,-1.25
+ORD-00684,2025-11-16,Central,GA,Consumer,Technology,Computers,SKU-0130,4,202.53,0.012,33.05
+ORD-00685,2023-07-05,West,FL,Consumer,Office Supplies,Paper,SKU-0174,1,15.41,0.132,3.66
+ORD-00686,2025-05-27,Central,WA,Consumer,Office Supplies,Storage,SKU-0045,8,192.09,0.094,35.6
+ORD-00687,2024-03-21,East,GA,Consumer,Furniture,Chairs,SKU-0032,6,477.91,0.173,144.08
+ORD-00688,2024-10-12,South,GA,Consumer,Office Supplies,Paper,SKU-0101,2,15.01,0.449,3.52
+ORD-00689,2024-05-02,East,GA,Corporate,Furniture,Chairs,SKU-0224,7,294.58,0.234,37.67
+ORD-00690,2025-05-07,West,NY,Corporate,Technology,Accessories,SKU-0129,1,176.38,0.054,47.85
+ORD-00691,2025-12-28,West,TX,Home Office,Technology,Phones,SKU-0160,5,207.93,0.068,24.44
+ORD-00692,2025-05-21,Central,MA,Consumer,Technology,Computers,SKU-0249,1,42.34,0.145,5.3
+ORD-00693,2025-10-17,South,CA,Consumer,Office Supplies,Paper,SKU-0076,1,7.79,0.32,2.24
+ORD-00694,2025-11-02,West,NY,Consumer,Furniture,Chairs,SKU-0121,2,184.49,0.143,10.42
+ORD-00695,2023-04-09,Central,FL,Corporate,Office Supplies,Storage,SKU-0172,3,24.11,0.323,5.98
+ORD-00696,2023-10-05,South,TX,Consumer,Office Supplies,Binders,SKU-0038,6,69.33,0.029,9.32
+ORD-00697,2025-03-02,West,NY,Consumer,Technology,Computers,SKU-0101,8,242.61,0.092,24.5
+ORD-00698,2024-10-08,West,GA,Corporate,Technology,Accessories,SKU-0139,7,272.9,0.337,59.58
+ORD-00699,2023-02-24,Central,IL,Consumer,Office Supplies,Storage,SKU-0076,6,146.67,0.083,31.16
+ORD-00700,2023-04-15,Central,IL,Corporate,Technology,Accessories,SKU-0056,5,290.72,0.157,22.89
+ORD-00701,2024-07-24,West,WA,Corporate,Office Supplies,Binders,SKU-0110,3,60.33,0.318,15.91
+ORD-00702,2024-11-06,South,WA,Home Office,Technology,Computers,SKU-0220,3,1010.78,0.063,156.72
+ORD-00703,2023-07-03,East,IL,Consumer,Office Supplies,Binders,SKU-0105,8,212.26,0.116,14.46
+ORD-00704,2023-07-07,South,GA,Consumer,Office Supplies,Storage,SKU-0209,5,39.56,0.049,10.27
+ORD-00705,2023-05-22,South,TX,Corporate,Technology,Computers,SKU-0170,5,192.44,0.147,32.69
+ORD-00706,2024-09-11,Central,MA,Consumer,Technology,Phones,SKU-0033,1,157.25,0.083,28.94
+ORD-00707,2023-01-09,East,MA,Consumer,Office Supplies,Storage,SKU-0229,4,49.69,0.248,19.27
+ORD-00708,2024-09-19,West,CA,Consumer,Technology,Accessories,SKU-0148,6,278.27,0.161,80.01
+ORD-00709,2024-06-05,East,MA,Consumer,Furniture,Chairs,SKU-0143,4,133.29,0.105,-5.85
+ORD-00710,2024-05-25,West,NY,Consumer,Furniture,Bookcases,SKU-0175,5,428.35,0.092,46.69
+ORD-00711,2025-01-14,Central,IL,Corporate,Technology,Computers,SKU-0011,7,849.7,0.029,68.98
+ORD-00712,2024-07-26,West,GA,Corporate,Office Supplies,Paper,SKU-0063,1,16.52,0.246,3.8
+ORD-00713,2025-03-08,East,NY,Consumer,Office Supplies,Binders,SKU-0199,8,100.29,0.15,33.96
+ORD-00714,2025-04-17,West,FL,Corporate,Furniture,Tables,SKU-0157,7,1427.82,0.105,425.59
+ORD-00715,2025-10-05,West,MA,Home Office,Office Supplies,Storage,SKU-0098,4,23.31,0.173,5.35
+ORD-00716,2025-05-25,West,IL,Consumer,Technology,Phones,SKU-0116,7,448.48,0.065,105.62
+ORD-00717,2024-07-21,Central,CA,Corporate,Technology,Computers,SKU-0155,1,60.94,0.137,14.45
+ORD-00718,2024-06-23,Central,CA,Consumer,Office Supplies,Binders,SKU-0121,3,41.77,0.251,7.91
+ORD-00719,2023-09-16,West,FL,Home Office,Office Supplies,Binders,SKU-0115,1,8.34,0.147,1.59
+ORD-00720,2024-10-19,South,CA,Consumer,Technology,Phones,SKU-0138,6,470.51,0.09,84.14
+ORD-00721,2023-06-02,South,CA,Consumer,Technology,Phones,SKU-0071,7,766.29,0.142,75.92
+ORD-00722,2025-10-17,East,GA,Home Office,Furniture,Bookcases,SKU-0143,5,134.82,0.26,13.81
+ORD-00723,2025-07-15,Central,FL,Corporate,Office Supplies,Storage,SKU-0174,6,185.26,0.069,58.63
+ORD-00724,2023-05-12,East,IL,Consumer,Technology,Accessories,SKU-0178,2,217.71,0.108,5.68
+ORD-00725,2025-05-11,West,CA,Corporate,Furniture,Chairs,SKU-0156,8,925.1,0.141,149.8
+ORD-00726,2023-05-09,East,MA,Home Office,Office Supplies,Binders,SKU-0114,2,116.19,0.012,35.01
+ORD-00727,2025-03-01,West,FL,Consumer,Furniture,Bookcases,SKU-0164,5,251.48,0.097,6.13
+ORD-00728,2023-04-07,South,NY,Consumer,Technology,Accessories,SKU-0181,6,331.91,0.282,94.09
+ORD-00729,2024-06-19,South,MA,Consumer,Technology,Accessories,SKU-0078,7,375.36,0.013,108.55
+ORD-00730,2024-12-22,South,NY,Home Office,Furniture,Bookcases,SKU-0122,5,286.95,0.062,47.75
+ORD-00731,2025-03-09,Central,FL,Consumer,Furniture,Bookcases,SKU-0170,5,137.97,0.068,9.71
+ORD-00732,2024-04-03,Central,FL,Consumer,Office Supplies,Paper,SKU-0166,5,64.16,0.063,11.19
+ORD-00733,2025-10-07,South,TX,Consumer,Office Supplies,Paper,SKU-0125,4,61.35,0.053,16.68
+ORD-00734,2025-04-28,West,GA,Consumer,Office Supplies,Storage,SKU-0066,5,47.87,0.092,10.52
+ORD-00735,2023-08-17,West,WA,Corporate,Office Supplies,Storage,SKU-0228,6,83.54,0.34,21.75
+ORD-00736,2025-01-05,Central,TX,Consumer,Furniture,Bookcases,SKU-0136,6,497.57,0.029,58.82
+ORD-00737,2025-03-11,East,NY,Consumer,Office Supplies,Chairs,SKU-0136,5,319.03,0.037,22.63
+ORD-00738,2024-01-01,East,TX,Consumer,Office Supplies,Binders,SKU-0117,4,56.82,0.071,10.19
+ORD-00739,2025-03-20,West,IL,Consumer,Technology,Computers,SKU-0191,2,69.94,0.378,15.38
+ORD-00740,2025-09-11,Central,FL,Consumer,Office Supplies,Storage,SKU-0076,1,7.66,0.165,1.88
+ORD-00741,2025-06-14,West,IL,Consumer,Office Supplies,Paper,SKU-0235,4,89.18,0.154,25.09
+ORD-00742,2025-04-15,West,CA,Corporate,Technology,Computers,SKU-0016,4,314.05,0.285,79.1
+ORD-00743,2024-11-26,West,WA,Consumer,Furniture,Chairs,SKU-0004,5,259.56,0.074,31.12
+ORD-00744,2023-10-24,East,IL,Consumer,Technology,Phones,SKU-0128,8,573.76,0.102,44.4
+ORD-00745,2025-05-21,South,TX,Corporate,Technology,Phones,SKU-0215,6,419.37,0.014,91.45
+ORD-00746,2024-02-04,East,FL,Corporate,Furniture,Chairs,SKU-0003,7,120.04,0.115,2.62
+ORD-00747,2024-08-06,Central,MA,Corporate,Furniture,Bookcases,SKU-0170,5,162.92,0.117,11.56
+ORD-00748,2023-12-11,Central,CA,Home Office,Office Supplies,Storage,SKU-0098,8,58.08,0.295,11.72
+ORD-00749,2023-12-10,East,GA,Consumer,Office Supplies,Paper,SKU-0006,8,100.69,0.058,21.3
+ORD-00750,2023-06-22,South,WA,Consumer,Office Supplies,Storage,SKU-0093,2,108.16,0.391,2.6
+ORD-00751,2025-11-19,Central,FL,Consumer,Technology,Computers,SKU-0162,6,731.21,0.457,110.7
+ORD-00752,2023-06-11,Central,CA,Consumer,Technology,Computers,SKU-0159,5,207.79,0.1,18.02
+ORD-00753,2023-04-05,West,WA,Home Office,Technology,Computers,SKU-0213,8,640.15,0.017,-9.96
+ORD-00754,2025-10-22,West,WA,Corporate,Technology,Computers,SKU-0247,5,111.04,0.12,13.57
+ORD-00755,2024-08-31,South,FL,Corporate,Office Supplies,Binders,SKU-0014,1,4.73,0.221,0.82
+ORD-00756,2024-04-24,Central,MA,Home Office,Furniture,Chairs,SKU-0215,2,220.03,0.372,23.77
+ORD-00757,2025-03-19,South,MA,Home Office,Technology,Accessories,SKU-0003,2,122.3,0.257,12.17
+ORD-00758,2024-02-25,South,MA,Consumer,Office Supplies,Storage,SKU-0244,2,16.54,0.34,3.01
+ORD-00759,2023-05-21,West,TX,Home Office,Furniture,Tables,SKU-0194,1,52.93,0.047,5.2
+ORD-00760,2025-03-10,Central,WA,Consumer,Technology,Phones,SKU-0238,7,307.65,0.027,65.6
+ORD-00761,2023-07-12,East,CA,Consumer,Technology,Accessories,SKU-0017,4,173.9,0.056,-5.46
+ORD-00762,2024-08-29,Central,FL,Corporate,Office Supplies,Paper,SKU-0019,6,125.4,0.247,28.14
+ORD-00763,2025-11-06,West,NY,Home Office,Office Supplies,Paper,SKU-0247,8,89.48,0.292,5.92
+ORD-00764,2025-10-23,West,TX,Corporate,Technology,Computers,SKU-0071,6,63.18,0.292,-5.15
+ORD-00765,2024-01-31,Central,WA,Consumer,Office Supplies,Storage,SKU-0096,4,95.19,0.288,22.94
+ORD-00766,2025-05-05,Central,IL,Home Office,Office Supplies,Binders,SKU-0075,3,45.37,0.21,10.32
+ORD-00767,2024-11-02,Central,MA,Consumer,Office Supplies,Paper,SKU-0040,7,156.39,0.31,54.73
+ORD-00768,2024-06-09,West,CA,Corporate,Technology,Accessories,SKU-0018,5,386.52,0.09,53.02
+ORD-00769,2023-06-03,East,GA,Consumer,Technology,Phones,SKU-0034,7,187.14,0.364,20.65
+ORD-00770,2024-02-17,South,WA,Consumer,Office Supplies,Storage,SKU-0212,1,17.94,0.119,3.64
+ORD-00771,2024-12-15,East,IL,Consumer,Furniture,Chairs,SKU-0007,2,224.11,0.227,22.79
+ORD-00772,2025-12-17,East,CA,Home Office,Office Supplies,Paper,SKU-0224,5,34.92,0.171,16.89
+ORD-00773,2023-01-06,Central,CA,Home Office,Office Supplies,Binders,SKU-0056,6,67.56,0.118,20.1
+ORD-00774,2025-02-25,East,IL,Consumer,Technology,Accessories,SKU-0152,5,1481.93,0.082,217.97
+ORD-00775,2025-07-16,Central,FL,Consumer,Office Supplies,Binders,SKU-0065,3,33.96,0.141,3.54
+ORD-00776,2025-11-08,East,FL,Consumer,Office Supplies,Storage,SKU-0223,3,77.0,0.154,20.59
+ORD-00777,2024-04-09,South,TX,Corporate,Office Supplies,Binders,SKU-0011,5,72.3,0.161,23.99
+ORD-00778,2023-05-10,South,WA,Corporate,Furniture,Chairs,SKU-0179,8,397.55,0.063,-13.47
+ORD-00779,2023-10-24,South,FL,Corporate,Office Supplies,Paper,SKU-0234,8,42.17,0.116,14.55
+ORD-00780,2025-07-21,Central,TX,Consumer,Office Supplies,Binders,SKU-0111,4,26.17,0.057,2.29
+ORD-00781,2025-08-20,East,TX,Consumer,Office Supplies,Binders,SKU-0113,6,103.2,0.165,12.82
+ORD-00782,2024-11-29,Central,IL,Home Office,Office Supplies,Storage,SKU-0038,1,9.33,0.116,1.94
+ORD-00783,2023-05-15,South,WA,Corporate,Office Supplies,Paper,SKU-0220,8,108.16,0.004,32.99
+ORD-00784,2023-05-14,Central,FL,Consumer,Furniture,Tables,SKU-0240,1,19.19,0.263,5.62
+ORD-00785,2024-06-08,Central,NY,Consumer,Technology,Phones,SKU-0125,3,127.79,0.131,40.99
+ORD-00786,2024-10-06,Central,GA,Consumer,Technology,Accessories,SKU-0174,6,286.84,0.145,59.62
+ORD-00787,2023-02-05,Central,NY,Consumer,Furniture,Chairs,SKU-0190,8,356.05,0.035,64.91
+ORD-00788,2025-01-21,Central,WA,Consumer,Furniture,Tables,SKU-0089,2,36.08,0.353,-1.87
+ORD-00789,2024-08-19,West,CA,Corporate,Office Supplies,Storage,SKU-0001,6,71.0,0.08,11.83
+ORD-00790,2023-01-14,East,TX,Consumer,Furniture,Bookcases,SKU-0033,2,131.68,0.034,31.85
+ORD-00791,2023-04-15,Central,FL,Consumer,Office Supplies,Paper,SKU-0225,1,30.56,0.295,5.15
+ORD-00792,2024-05-12,West,MA,Corporate,Office Supplies,Binders,SKU-0200,4,162.77,0.065,20.11
+ORD-00793,2025-03-02,South,FL,Consumer,Technology,Accessories,SKU-0024,5,413.25,0.036,75.58
+ORD-00794,2025-06-23,Central,CA,Consumer,Office Supplies,Binders,SKU-0201,3,39.4,0.119,14.05
+ORD-00796,2023-11-20,Central,TX,Consumer,Office Supplies,Binders,SKU-0136,5,168.84,0.159,41.62
+ORD-00797,2025-11-27,Central,TX,Corporate,Technology,Phones,SKU-0113,4,327.24,0.174,80.34
+ORD-00798,2024-05-17,Central,CA,Consumer,Office Supplies,Paper,SKU-0250,4,79.55,0.109,15.68
+ORD-00799,2023-12-12,East,WA,Consumer,Office Supplies,Paper,SKU-0218,4,69.67,0.188,21.22
+ORD-00800,2024-04-29,South,IL,Consumer,Office Supplies,Storage,SKU-0097,1,35.52,0.066,1.33
+ORD-00801,2023-01-14,East,NY,Corporate,Office Supplies,Storage,SKU-0120,5,112.05,0.256,21.4
+ORD-00802,2023-11-27,Central,WA,Consumer,Office Supplies,Storage,SKU-0236,7,156.34,0.333,43.58
+ORD-00803,2024-07-19,West,NY,Corporate,Furniture,Bookcases,SKU-0231,5,196.04,0.139,19.68
+ORD-00804,2025-10-03,Central,FL,Consumer,Office Supplies,Paper,SKU-0158,4,34.45,0.258,8.75
+ORD-00805,2025-03-20,Central,WA,Corporate,Furniture,Tables,SKU-0163,8,190.52,0.144,24.17
+ORD-00806,2025-05-06,Central,MA,Consumer,Office Supplies,Paper,SKU-0185,5,117.57,0.165,12.19
+ORD-00807,2024-08-20,East,WA,Consumer,Technology,Computers,SKU-0073,3,79.3,0.247,18.82
+ORD-00808,2023-05-02,Central,FL,Corporate,Furniture,Chairs,SKU-0230,1,53.77,0.03,10.56
+ORD-00809,2024-03-04,Central,CA,Consumer,Office Supplies,Binders,SKU-0074,7,153.57,0.335,38.9
+ORD-00810,2025-12-28,West,NY,Consumer,Furniture,Tables,SKU-0208,6,471.7,0.187,71.4
+ORD-00811,2023-02-18,South,FL,Corporate,Office Supplies,Paper,SKU-0206,6,70.37,0.04,17.73
+ORD-00812,2025-08-21,Central,FL,Corporate,Furniture,Bookcases,SKU-0073,3,60.03,0.05,-7.78
+ORD-00813,2025-01-20,South,FL,Corporate,Office Supplies,Storage,SKU-0202,2,34.71,0.115,8.44
+ORD-00814,2023-11-08,South,WA,Consumer,Office Supplies,Binders,SKU-0217,4,86.15,0.1,10.85
+ORD-00815,2025-05-02,South,GA,Consumer,Furniture,Chairs,SKU-0125,7,144.31,0.262,5.18
+ORD-00816,2025-07-06,Central,FL,Consumer,Office Supplies,Storage,SKU-0135,3,105.89,0.163,16.55
+ORD-00817,2023-02-17,Central,NY,Consumer,Furniture,Tables,SKU-0128,5,204.05,0.137,46.41
+ORD-00818,2023-04-27,West,IL,Consumer,Office Supplies,Binders,SKU-0012,8,190.68,0.042,52.37
+ORD-00819,2024-12-30,East,TX,Consumer,Office Supplies,Storage,SKU-0136,2,92.21,0.03,25.31
+ORD-00820,2025-12-31,Central,FL,Consumer,Office Supplies,Paper,SKU-0169,2,29.4,0.068,10.5
+ORD-00821,2023-01-27,East,FL,Consumer,Technology,Phones,SKU-0141,2,78.54,0.068,13.91
+ORD-00822,2024-12-30,South,FL,Consumer,Technology,Computers,SKU-0125,8,1376.4,0.06,159.04
+ORD-00823,2023-05-30,West,FL,Consumer,Office Supplies,Storage,SKU-0126,5,72.37,0.157,13.87
+ORD-00824,2024-12-13,East,TX,Consumer,Office Supplies,Storage,SKU-0135,8,65.79,0.123,6.04
+ORD-00825,2024-11-14,East,NY,Consumer,Furniture,Chairs,SKU-0233,8,337.02,0.369,40.25
+ORD-00826,2023-04-10,East,MA,Corporate,Technology,Computers,SKU-0103,4,89.42,0.006,16.71
+ORD-00827,2025-01-16,West,IL,Consumer,Furniture,Tables,SKU-0057,1,38.89,0.009,7.3
+ORD-00828,2025-09-10,West,NY,Consumer,Office Supplies,Storage,SKU-0017,3,38.71,0.042,5.19
+ORD-00829,2025-08-04,South,GA,Home Office,Technology,Phones,SKU-0218,5,588.78,0.054,191.2
+ORD-00830,2023-02-01,East,CA,Consumer,Furniture,Bookcases,SKU-0046,4,331.96,0.38,73.21
+ORD-00831,2023-09-27,West,TX,Consumer,Office Supplies,Paper,SKU-0105,1,12.93,0.176,3.76
+ORD-00832,2023-09-21,West,WA,Corporate,Technology,Computers,SKU-0190,8,362.08,0.104,-12.57
+ORD-00833,2024-05-11,East,IL,Corporate,Office Supplies,Paper,SKU-0045,3,19.81,0.14,3.09
+ORD-00834,2023-06-06,West,MA,Home Office,Technology,Computers,SKU-0059,5,231.41,0.251,36.69
+ORD-00835,2025-07-25,Central,TX,Home Office,Office Supplies,Binders,SKU-0159,8,50.11,0.12,13.95
+ORD-00836,2025-05-01,Central,WA,Corporate,Office Supplies,Paper,SKU-0157,5,65.63,0.256,7.03
+ORD-00837,2025-06-04,West,IL,Consumer,Office Supplies,Paper,SKU-0061,5,52.77,0.114,16.89
+ORD-00838,2023-08-06,Central,IL,Consumer,Technology,Computers,SKU-0136,1,206.46,0.153,46.61
+ORD-00839,2023-01-16,West,IL,Consumer,Office Supplies,Paper,SKU-0177,6,43.61,0.212,7.01
+ORD-00840,2025-09-25,West,GA,Corporate,Office Supplies,Paper,SKU-0056,7,37.41,0.139,13.83
+ORD-00841,2023-11-13,South,MA,Home Office,Technology,Phones,SKU-0111,8,356.37,0.012,66.78
+ORD-00842,2024-12-20,East,TX,Consumer,Technology,Computers,SKU-0071,1,92.43,0.117,26.85
+ORD-00843,2025-09-23,South,IL,Home Office,Technology,Phones,SKU-0236,2,70.81,0.054,17.19
+ORD-00844,2023-02-09,West,IL,Corporate,Office Supplies,Paper,SKU-0096,1,21.71,0.06,6.29
+ORD-00845,2023-01-06,East,WA,Consumer,Office Supplies,Paper,SKU-0214,8,44.59,0.082,7.31
+ORD-00846,2023-01-06,East,FL,Home Office,Office Supplies,Binders,SKU-0221,3,26.0,0.115,4.62
+ORD-00848,2023-02-26,South,IL,Consumer,Office Supplies,Binders,SKU-0236,4,108.16,0.037,10.08
+ORD-00849,2025-06-17,West,IL,Consumer,Furniture,Tables,SKU-0013,6,219.46,0.216,19.06
+ORD-00850,2024-10-26,South,FL,Consumer,Furniture,Tables,SKU-0097,8,336.98,0.15,55.93
+ORD-00851,2025-12-10,South,MA,Consumer,Office Supplies,Storage,SKU-0040,3,45.97,0.162,9.21
+ORD-00852,2025-05-28,Central,GA,Corporate,Technology,Accessories,SKU-0012,7,1085.23,0.021,180.78
+ORD-00853,2025-11-21,East,CA,Home Office,Office Supplies,Paper,SKU-0138,3,66.03,0.036,8.95
+ORD-00854,2023-09-19,East,NY,Corporate,Office Supplies,Storage,SKU-0151,2,52.17,0.117,16.89
+ORD-00855,2023-11-12,West,WA,Home Office,Furniture,Chairs,SKU-0146,1,33.53,0.596,16.89
+ORD-00856,2025-07-19,Central,NY,Home Office,Office Supplies,Storage,SKU-0105,3,47.56,0.235,14.84
+ORD-00857,2023-09-26,East,FL,Consumer,Technology,Phones,SKU-0197,5,108.16,0.432,108.3
+ORD-00858,2023-03-04,South,IL,Corporate,Office Supplies,Storage,SKU-0124,7,84.24,0.164,11.45
+ORD-00859,2025-01-03,Central,NY,Corporate,Office Supplies,Binders,SKU-0134,7,298.83,0.013,73.87
+ORD-00860,2025-05-27,East,FL,Consumer,Office Supplies,Binders,SKU-0111,5,42.96,0.068,11.91
+ORD-00861,2025-11-27,Central,FL,Consumer,Furniture,Bookcases,SKU-0052,4,976.96,0.068,30.08
+ORD-00862,2025-10-13,East,WA,Corporate,Technology,Accessories,SKU-0164,2,46.89,0.108,2.82
+ORD-00863,2023-05-12,South,MA,Home Office,Technology,Computers,SKU-0208,8,191.66,0.211,22.93
+ORD-00864,2025-04-26,West,GA,Home Office,Technology,Accessories,SKU-0077,4,349.29,0.081,67.92
+ORD-00865,2025-07-16,South,IL,Consumer,Technology,Phones,SKU-0116,7,628.19,0.089,130.38
+ORD-00866,2025-02-04,Central,WA,Corporate,Technology,Computers,SKU-0224,6,551.62,0.325,22.02
+ORD-00867,2025-06-17,South,MA,Consumer,Office Supplies,Binders,SKU-0052,8,86.3,0.265,19.56
+ORD-00868,2025-07-07,East,GA,Home Office,Technology,Computers,SKU-0106,8,646.18,0.184,23.73
+ORD-00869,2024-05-04,South,WA,Corporate,Technology,Computers,SKU-0068,6,205.61,0.186,46.46
+ORD-00870,2023-02-14,West,NY,Home Office,Office Supplies,Paper,SKU-0086,6,94.45,0.103,29.61
+ORD-00871,2024-05-14,Central,TX,Home Office,Office Supplies,Binders,SKU-0115,2,45.55,0.395,5.36
+ORD-00872,2023-08-10,West,NY,Consumer,Office Supplies,Binders,SKU-0231,1,21.25,0.102,6.66
+ORD-00873,2023-05-05,West,NY,Home Office,Office Supplies,Binders,SKU-0004,5,58.98,0.183,4.88
+ORD-00874,2023-05-17,East,TX,Corporate,Office Supplies,Binders,SKU-0090,6,74.67,0.141,15.8
+ORD-00875,2025-02-03,East,IL,Consumer,Office Supplies,Paper,SKU-0217,6,184.33,0.161,64.52
+ORD-00876,2024-07-06,East,MA,Consumer,Office Supplies,Binders,SKU-0021,3,88.01,0.141,24.27
+ORD-00877,2024-08-14,South,TX,Corporate,Office Supplies,Storage,SKU-0127,5,21.78,0.264,5.52
+ORD-00878,2025-03-27,West,NY,Consumer,Furniture,Tables,SKU-0039,7,398.5,0.108,50.37
+ORD-00879,2024-08-23,Central,NY,Consumer,Furniture,Chairs,SKU-0140,1,88.5,0.08,9.24
+ORD-00880,2024-11-21,West,NY,Corporate,Furniture,Bookcases,SKU-0179,4,50.79,0.286,-2.98
+ORD-00881,2023-04-05,Central,IL,Consumer,Technology,Phones,SKU-0159,8,559.27,0.207,102.52
+ORD-00882,2025-07-21,Central,IL,Consumer,Office Supplies,Binders,SKU-0141,2,12.89,0.23,3.75
+ORD-00883,2024-05-06,East,IL,Corporate,Technology,Computers,SKU-0186,3,170.1,0.054,36.79
+ORD-00884,2023-06-20,Central,TX,Consumer,Technology,Phones,SKU-0134,4,1058.8,0.032,86.83
+ORD-00885,2025-06-10,South,IL,Corporate,Technology,Accessories,SKU-0154,6,133.84,0.206,12.72
+ORD-00886,2025-03-16,Central,WA,Consumer,Office Supplies,Storage,SKU-0021,3,50.19,0.074,12.08
+ORD-00887,2023-02-28,East,CA,Home Office,Furniture,Tables,SKU-0006,7,320.41,0.164,28.59
+ORD-00888,2023-07-31,East,GA,Consumer,Office Supplies,Storage,SKU-0042,2,47.19,0.347,5.04
+ORD-00889,2023-01-18,Central,TX,Corporate,Office Supplies,Binders,SKU-0135,3,108.16,0.119,16.47
+ORD-00890,2023-10-24,West,NY,Corporate,Technology,Computers,SKU-0100,5,347.96,0.076,40.47
+ORD-00891,2023-04-20,Central,NY,Home Office,Office Supplies,Storage,SKU-0092,1,15.44,0.123,2.65
+ORD-00892,2025-02-17,East,FL,Consumer,Furniture,Tables,SKU-0113,7,187.02,0.357,48.5
+ORD-00893,2024-07-26,Central,FL,Consumer,Technology,Accessories,SKU-0248,6,643.61,0.163,-15.94
+ORD-00895,2025-04-01,West,IL,Corporate,Office Supplies,Storage,SKU-0112,3,48.71,0.07,14.16
+ORD-00896,2024-11-01,South,NY,Corporate,Furniture,Tables,SKU-0126,4,87.3,0.115,9.43
+ORD-00897,2024-07-12,South,GA,Corporate,Office Supplies,Binders,SKU-0194,8,51.65,0.271,12.58
+ORD-00898,2023-03-01,South,TX,Consumer,Furniture,Bookcases,SKU-0184,1,39.86,0.134,5.49
+ORD-00900,2024-11-06,East,FL,Consumer,Office Supplies,Binders,SKU-0159,4,116.42,0.178,18.78
+ORD-00901,2023-01-05,West,GA,Corporate,Office Supplies,Storage,SKU-0239,4,97.57,0.049,27.29
+ORD-00902,2023-02-16,West,FL,Corporate,Office Supplies,Storage,SKU-0153,4,130.72,0.039,27.88
+ORD-00903,2023-08-29,East,NY,Consumer,Technology,Computers,SKU-0135,6,512.33,0.115,88.33
+ORD-00904,2025-08-27,West,WA,Consumer,Office Supplies,Paper,SKU-0140,2,19.23,0.022,6.13
+ORD-00905,2024-05-17,South,IL,Consumer,Office Supplies,Storage,SKU-0121,8,381.61,0.113,74.44
+ORD-00906,2025-02-16,West,MA,Corporate,Office Supplies,Storage,SKU-0051,8,59.84,0.096,16.05
+ORD-00907,2024-03-27,West,IL,Corporate,Technology,Accessories,SKU-0092,2,297.58,0.019,78.24
+ORD-00908,2023-07-09,West,NY,Consumer,Furniture,Chairs,SKU-0152,8,586.13,0.239,27.96
+ORD-00909,2024-02-11,West,CA,Consumer,Furniture,Chairs,SKU-0152,3,153.81,0.037,4.04
+ORD-00910,2023-04-11,West,WA,Corporate,Technology,Accessories,SKU-0040,1,197.75,0.247,39.59
+ORD-00911,2025-04-24,Central,NY,Corporate,Technology,Computers,SKU-0201,4,205.3,0.422,43.73
+ORD-00912,2023-07-21,East,WA,Consumer,Furniture,Tables,SKU-0179,7,432.4,0.064,102.46
+ORD-00913,2024-02-17,Central,NY,Consumer,Office Supplies,Paper,SKU-0132,7,89.97,0.071,13.81
+ORD-00914,2025-12-10,South,CA,Consumer,Technology,Computers,SKU-0114,6,758.49,0.055,83.36
+ORD-00915,2024-10-10,Central,WA,Corporate,Office Supplies,Binders,SKU-0140,7,108.16,0.243,20.08
+ORD-00916,2024-05-17,Central,TX,Consumer,Office Supplies,Paper,SKU-0146,3,21.11,0.185,5.91
+ORD-00917,2024-08-18,East,FL,Corporate,Office Supplies,Binders,SKU-0107,8,59.12,0.075,10.74
+ORD-00918,2025-05-09,West,CA,Corporate,Furniture,Chairs,SKU-0216,6,288.04,0.303,0.12
+ORD-00919,2023-10-06,East,NY,Home Office,Furniture,Bookcases,SKU-0040,2,36.16,0.103,1.76
+ORD-00920,2024-11-28,South,CA,Home Office,Office Supplies,Binders,SKU-0094,2,32.64,0.059,6.2
+ORD-00921,2025-08-14,Central,TX,Consumer,Office Supplies,Storage,SKU-0100,3,51.57,0.146,18.89
+ORD-00922,2024-09-19,West,TX,Corporate,Furniture,Chairs,SKU-0025,1,23.04,0.081,4.27
+ORD-00923,2024-05-04,East,TX,Corporate,Office Supplies,Storage,SKU-0023,3,49.32,0.022,5.29
+ORD-00924,2023-06-09,South,NY,Home Office,Office Supplies,Binders,SKU-0223,8,80.4,0.022,23.2
+ORD-00925,2023-09-30,Central,IL,Consumer,Office Supplies,Storage,SKU-0194,2,36.44,0.03,1.75
+ORD-00926,2025-11-02,Central,GA,Consumer,Technology,Computers,SKU-0092,6,174.73,0.018,43.17
+ORD-00927,2024-08-16,South,CA,Home Office,Furniture,Bookcases,SKU-0067,8,135.17,0.168,10.21
+ORD-00928,2023-11-27,Central,GA,Consumer,Furniture,Bookcases,SKU-0102,3,213.02,0.061,12.07
+ORD-00929,2024-04-03,Central,IL,Home Office,Office Supplies,Paper,SKU-0177,6,59.69,0.065,8.6
+ORD-00930,2024-09-25,West,FL,Consumer,Furniture,Bookcases,SKU-0075,4,239.44,0.042,64.26
+ORD-00931,2024-08-12,West,WA,Consumer,Furniture,Bookcases,SKU-0017,3,102.73,0.154,11.61
+ORD-00932,2025-02-05,South,WA,Home Office,Office Supplies,Paper,SKU-0106,8,91.01,0.185,10.36
+ORD-00933,2023-10-10,Central,GA,Corporate,Furniture,Chairs,SKU-0150,6,140.93,0.217,16.89
+ORD-00934,2024-12-12,East,GA,Corporate,Technology,Phones,SKU-0131,4,352.24,0.272,42.38
+ORD-00935,2024-04-30,Central,CA,Consumer,Technology,Computers,SKU-0044,7,500.75,0.316,178.05
+ORD-00936,2025-10-27,West,IL,Consumer,Technology,Computers,SKU-0211,8,586.26,0.04,120.71
+ORD-00937,2023-06-23,South,FL,Consumer,Technology,Computers,SKU-0158,7,476.28,0.262,87.09
+ORD-00938,2023-06-12,West,FL,Corporate,Furniture,Bookcases,SKU-0181,7,307.68,0.059,-49.09
+ORD-00939,2024-05-20,Central,GA,Consumer,Office Supplies,Binders,SKU-0240,3,106.54,0.154,18.04
+ORD-00940,2024-07-11,East,WA,Consumer,Office Supplies,Storage,SKU-0129,3,73.33,0.123,15.96
+ORD-00941,2025-01-27,West,IL,Consumer,Technology,Accessories,SKU-0145,2,232.33,0.012,43.98
+ORD-00942,2024-03-18,West,GA,Home Office,Office Supplies,Binders,SKU-0191,6,140.5,0.364,32.74
+ORD-00943,2025-09-28,West,WA,Home Office,Technology,Accessories,SKU-0194,7,317.69,0.388,47.91
+ORD-00944,2024-06-03,West,MA,Consumer,Office Supplies,Storage,SKU-0212,6,53.83,0.091,10.02
+ORD-00945,2023-05-22,West,WA,Home Office,Technology,Computers,SKU-0177,5,242.0,0.463,35.34
+ORD-00946,2023-05-11,Central,CA,Consumer,Office Supplies,Storage,SKU-0015,7,109.31,0.135,26.61
+ORD-00947,2025-12-02,East,GA,Consumer,Furniture,Bookcases,SKU-0088,2,62.69,0.211,3.5
+ORD-00948,2023-05-27,East,WA,Consumer,Office Supplies,Storage,SKU-0149,3,96.48,0.225,25.13
+ORD-00949,2025-11-04,West,NY,Home Office,Furniture,Tables,SKU-0112,6,237.49,0.287,41.26
+ORD-00950,2023-11-01,South,TX,Consumer,Office Supplies,Paper,SKU-0011,1,33.15,0.264,5.76
+ORD-00951,2023-04-13,West,TX,Consumer,Technology,Computers,SKU-0067,8,204.86,0.319,24.83
+ORD-00952,2023-11-30,West,TX,Home Office,Office Supplies,Paper,SKU-0078,16,577.59,0.075,84.69
+ORD-00953,2024-11-04,West,FL,Corporate,Furniture,Tables,SKU-0010,7,650.81,0.126,146.26
+ORD-00954,2024-04-13,West,FL,Corporate,Office Supplies,Storage,SKU-0191,5,75.58,0.555,14.9
+ORD-00955,2025-05-10,East,NY,Corporate,Office Supplies,Binders,SKU-0095,7,169.01,0.326,39.95
+ORD-00956,2024-10-31,West,WA,Corporate,Office Supplies,Storage,SKU-0198,7,66.95,0.57,15.91
+ORD-00957,2024-03-15,West,TX,Consumer,Technology,Computers,SKU-0218,5,750.41,0.013,204.65
+ORD-00958,2024-11-26,East,NY,Corporate,Furniture,Bookcases,SKU-0221,7,418.52,0.109,-58.74
+ORD-00959,2025-11-30,South,GA,Consumer,Technology,Phones,SKU-0228,3,220.43,0.079,53.5
+ORD-00960,2024-03-27,West,TX,Consumer,Technology,Accessories,SKU-0125,5,466.93,0.335,55.41
+ORD-00961,2023-06-18,West,NY,Home Office,Office Supplies,Paper,SKU-0061,8,42.31,0.163,12.02
+ORD-00962,2024-03-24,South,WA,Consumer,Office Supplies,Storage,SKU-0022,1,26.31,0.164,5.22
+ORD-00963,2025-07-09,South,MA,Consumer,Office Supplies,Paper,SKU-0156,3,38.09,0.155,3.73
+ORD-00964,2023-08-27,Central,NY,Consumer,Office Supplies,Storage,SKU-0032,1,6.42,0.193,1.31
+ORD-00965,2025-11-06,West,CA,Home Office,Office Supplies,Paper,SKU-0061,5,79.83,0.056,18.79
+ORD-00966,2024-10-06,East,MA,Home Office,Office Supplies,Binders,SKU-0062,7,107.62,0.072,16.63
+ORD-00967,2024-10-21,West,FL,Consumer,Office Supplies,Binders,SKU-0069,1,11.05,0.167,2.33
+ORD-00968,2023-12-14,West,IL,Consumer,Technology,Computers,SKU-0094,5,266.65,0.218,22.74
+ORD-00969,2025-10-05,East,IL,Corporate,Office Supplies,Paper,SKU-0083,4,128.87,0.091,27.77
+ORD-00970,2023-02-09,Central,FL,Corporate,Office Supplies,Paper,SKU-0132,7,108.04,0.474,34.44
+ORD-00971,2023-11-24,East,WA,Consumer,Furniture,Bookcases,SKU-0240,2,156.18,0.13,30.49
+ORD-00972,2024-04-03,Central,CA,Consumer,Furniture,Bookcases,SKU-0162,2,136.99,0.014,23.97
+ORD-00973,2024-06-07,West,TX,Corporate,Office Supplies,Binders,SKU-0170,1,15.58,0.267,3.39
+ORD-00974,2024-06-03,East,GA,Consumer,Office Supplies,Paper,SKU-0041,4,29.2,0.277,7.78
+ORD-00975,2023-06-12,Central,NY,Corporate,Office Supplies,Binders,SKU-0029,4,63.43,0.24,14.6
+ORD-00976,2023-09-05,South,GA,Consumer,Office Supplies,Paper,SKU-0048,8,50.7,0.13,4.15
+ORD-00977,2023-04-15,East,IL,Home Office,Technology,Computers,SKU-0213,4,266.17,0.146,98.38
+ORD-00978,2024-09-19,Central,NY,Corporate,Furniture,Bookcases,SKU-0044,2,65.46,0.09,6.77
+ORD-00979,2024-01-20,West,FL,Corporate,Office Supplies,Paper,SKU-0246,6,35.24,0.375,10.55
+ORD-00980,2024-09-12,West,WA,Corporate,Office Supplies,Paper,SKU-0189,1,29.11,0.098,3.18
+ORD-00981,2024-10-08,Central,TX,Consumer,Furniture,Tables,SKU-0208,3,144.74,0.176,12.44
+ORD-00982,2025-02-08,West,MA,Consumer,Office Supplies,Binders,SKU-0076,6,93.35,0.21,21.77
+ORD-00984,2024-12-11,East,CA,Corporate,Office Supplies,Storage,SKU-0042,5,62.18,0.151,15.88
+ORD-00985,2024-10-05,West,FL,Home Office,Furniture,Chairs,SKU-0215,4,113.83,0.311,-1.46
+ORD-00986,2024-12-16,West,FL,Consumer,Furniture,Tables,SKU-0108,8,601.03,0.048,81.21
+ORD-00987,2024-11-06,East,WA,Corporate,Technology,Accessories,SKU-0103,3,142.75,0.082,51.66
+ORD-00988,2023-12-13,South,MA,Consumer,Technology,Phones,SKU-0062,8,736.21,0.145,140.89
+ORD-00989,2023-09-27,Central,GA,Consumer,Office Supplies,Storage,SKU-0090,6,100.37,0.017,19.31
+ORD-00990,2025-05-13,East,FL,Consumer,Furniture,Tables,SKU-0093,6,433.38,0.166,-34.06
+ORD-00991,2024-01-11,West,FL,Home Office,Technology,Phones,SKU-0188,2,52.17,0.161,1.53
+ORD-00992,2024-08-24,Central,GA,Corporate,Office Supplies,Storage,SKU-0207,1,3.51,0.288,0.88
+ORD-00993,2023-08-04,West,GA,Consumer,Office Supplies,Paper,SKU-0117,6,36.77,0.333,7.4
+ORD-00994,2024-04-17,East,CA,Corporate,Technology,Phones,SKU-0084,4,250.58,0.083,58.6
+ORD-00995,2024-08-03,Central,FL,Consumer,Furniture,Tables,SKU-0113,3,103.8,0.079,4.3
+ORD-00996,2024-11-17,East,GA,Consumer,Technology,Computers,SKU-0044,8,220.87,0.13,52.76
+ORD-00997,2024-07-30,West,CA,Consumer,Office Supplies,Storage,SKU-0018,3,26.87,0.318,1.71
+ORD-00998,2024-01-31,West,GA,Consumer,Technology,Computers,SKU-0059,4,155.42,0.05,51.65
+ORD-00999,2025-11-20,West,WA,Consumer,Technology,Phones,SKU-0007,6,485.45,0.161,99.56
+ORD-01000,2024-07-15,East,NY,Consumer,Technology,Accessories,SKU-0009,8,814.58,0.03,219.06
+ORD-01001,2025-06-04,South,WA,Corporate,Office Supplies,Storage,SKU-0060,8,61.52,0.016,16.89
+ORD-01002,2025-03-18,West,IL,Home Office,Technology,Computers,SKU-0226,6,994.7,0.033,-1.0
+ORD-01003,2024-09-03,Central,TX,Home Office,Office Supplies,Storage,SKU-0047,1,24.12,0.17,2.08
+ORD-01004,2025-08-29,Central,FL,Consumer,Technology,Computers,SKU-0175,1,129.54,0.072,11.91
+ORD-01005,2023-05-21,West,WA,Consumer,Office Supplies,Binders,SKU-0037,6,110.81,0.063,24.52
+ORD-01006,2025-10-06,West,GA,Consumer,Furniture,Bookcases,SKU-0116,5,323.59,0.06,34.38
+ORD-01007,2025-07-20,East,IL,Consumer,Furniture,Chairs,SKU-0152,2,118.23,0.194,11.34
+ORD-01008,2024-07-05,Central,NY,Corporate,Technology,Accessories,SKU-0141,6,329.63,0.219,85.14
+ORD-01009,2025-03-14,East,MA,Consumer,Office Supplies,Storage,SKU-0200,8,224.66,0.171,72.05
+ORD-01010,2024-07-24,Central,TX,Corporate,Office Supplies,Binders,SKU-0064,1,60.43,0.06,12.61
+ORD-01011,2023-10-22,South,MA,Home Office,Technology,Phones,SKU-0186,7,144.97,0.015,2.78
+ORD-01012,2025-05-26,Central,MA,Consumer,Technology,Computers,SKU-0101,3,206.65,0.154,12.83
+ORD-01013,2023-09-27,South,CA,Home Office,Office Supplies,Paper,SKU-0112,4,13.18,0.175,4.41
+ORD-01014,2023-12-11,Central,IL,Consumer,Office Supplies,Storage,SKU-0080,6,40.06,0.214,5.92
+ORD-01015,2024-07-23,South,CA,Home Office,Technology,Phones,SKU-0250,2,206.88,0.11,39.35
+ORD-01016,2025-07-06,South,FL,Corporate,Technology,Phones,SKU-0207,2,303.32,0.063,52.44
+ORD-01017,2024-02-25,Central,MA,Consumer,Office Supplies,Paper,SKU-0116,8,117.03,0.009,35.64
+ORD-01018,2024-06-25,Central,FL,Consumer,Office Supplies,Storage,SKU-0186,3,71.57,0.032,13.67
+ORD-01019,2023-02-15,South,TX,Consumer,Office Supplies,Storage,SKU-0229,2,67.66,0.092,18.76
+ORD-01020,2023-05-07,East,GA,Corporate,Office Supplies,Paper,SKU-0071,6,92.74,0.088,20.1
+ORD-01021,2023-03-03,Central,CA,Consumer,Furniture,Chairs,SKU-0082,2,50.91,0.032,-6.6
+ORD-01022,2023-03-20,East,NY,Home Office,Furniture,Chairs,SKU-0191,7,261.63,0.262,18.77
+ORD-01023,2025-08-09,South,TX,Consumer,Furniture,Tables,SKU-0071,1,34.65,0.277,4.97
+ORD-01024,2025-07-11,East,GA,Home Office,Furniture,Chairs,SKU-0024,5,156.92,0.07,12.84
+ORD-01025,2025-06-19,Central,GA,Consumer,Technology,Accessories,SKU-0149,4,492.21,0.12,96.0
+ORD-01026,2023-03-02,Central,FL,Corporate,Technology,Phones,SKU-0051,8,263.7,0.099,50.59
+ORD-01027,2023-03-27,South,GA,Corporate,Furniture,Tables,SKU-0147,5,301.33,0.294,21.32
+ORD-01028,2023-11-04,West,GA,Consumer,Office Supplies,Storage,SKU-0027,8,174.2,0.068,28.36
+ORD-01029,2024-09-11,Central,FL,Consumer,Technology,Computers,SKU-0120,2,132.99,0.308,37.53
+ORD-01030,2024-01-02,Central,CA,Corporate,Furniture,Bookcases,SKU-0060,4,162.94,0.299,7.1
+ORD-01031,2024-06-18,South,GA,Corporate,Office Supplies,Paper,SKU-0133,7,136.73,0.154,43.23
+ORD-01032,2023-07-09,South,WA,Corporate,Office Supplies,Storage,SKU-0057,2,18.39,0.197,4.19
+ORD-01033,2025-03-11,Central,NY,Consumer,Office Supplies,Paper,SKU-0063,8,178.67,0.021,60.22
+ORD-01034,2023-12-11,Central,MA,Home Office,Office Supplies,Storage,SKU-0226,7,175.48,0.1,54.49
+ORD-01036,2025-03-24,South,MA,Corporate,Technology,Computers,SKU-0082,2,139.57,0.288,31.7
+ORD-01037,2025-09-16,West,TX,Consumer,Furniture,Chairs,SKU-0162,7,118.15,0.335,-3.45
+ORD-01038,2023-01-17,West,CA,Consumer,Office Supplies,Storage,SKU-0089,7,203.4,0.019,53.31
+ORD-01039,2024-04-23,Central,IL,Home Office,Technology,Accessories,SKU-0043,3,120.41,0.092,21.4
+ORD-01040,2025-06-25,East,IL,Corporate,Technology,Accessories,SKU-0025,5,235.8,0.034,-5.57
+ORD-01041,2025-02-12,West,MA,Corporate,Technology,Computers,SKU-0223,1,50.37,0.024,12.09
+ORD-01042,2025-07-27,West,CA,Home Office,Furniture,Tables,SKU-0017,4,194.97,0.127,-38.34
+ORD-01043,2024-03-31,South,GA,Consumer,Furniture,Chairs,SKU-0124,2,317.88,0.069,42.15
+ORD-01044,2024-02-12,East,NY,Corporate,Technology,Accessories,SKU-0055,5,440.0,0.151,85.91
+ORD-01045,2025-02-16,West,GA,Corporate,Office Supplies,Storage,SKU-0191,5,105.45,0.103,42.06
+ORD-01046,2023-06-18,Central,WA,Home Office,Office Supplies,Storage,SKU-0034,5,131.32,0.202,13.24
+ORD-01047,2023-09-20,West,TX,Corporate,Technology,Phones,SKU-0145,6,435.48,0.251,94.03
+ORD-01048,2024-10-20,South,GA,Consumer,Office Supplies,Paper,SKU-0087,8,75.97,0.112,27.85
+ORD-01049,2025-01-02,West,TX,Consumer,Technology,Computers,SKU-0131,2,280.18,0.061,71.51
+ORD-01050,2023-05-12,West,WA,Home Office,Office Supplies,Binders,SKU-0047,2,28.92,0.152,8.68
+ORD-01051,2024-07-11,West,CA,Corporate,Office Supplies,Binders,SKU-0030,2,39.64,0.214,12.32
+ORD-01052,2024-02-04,East,CA,Consumer,Technology,Computers,SKU-0045,8,460.92,0.222,52.59
+ORD-01053,2024-07-03,East,TX,Home Office,Office Supplies,Paper,SKU-0145,1,12.42,0.388,3.44
+ORD-01054,2025-11-16,Central,NY,Consumer,Office Supplies,Storage,SKU-0162,1,11.64,0.104,2.31
+ORD-01055,2023-03-25,East,NY,Consumer,Office Supplies,Storage,SKU-0227,2,9.64,0.508,2.07
+ORD-01056,2025-12-27,East,IL,Home Office,Office Supplies,Storage,SKU-0236,7,108.16,0.022,22.28
+ORD-01057,2024-05-07,West,FL,Corporate,Office Supplies,Storage,SKU-0189,5,56.48,0.035,18.36
+ORD-01058,2025-04-26,West,NY,Home Office,Technology,Accessories,SKU-0004,8,218.16,0.345,21.76
+ORD-01059,2024-04-10,South,MA,Home Office,Office Supplies,Paper,SKU-0176,2,44.89,0.061,8.21
+ORD-01060,2023-12-07,West,MA,Corporate,Office Supplies,Storage,SKU-0177,4,48.32,0.228,8.91
+ORD-01061,2025-04-24,South,MA,Consumer,Office Supplies,Storage,SKU-0177,5,221.58,0.139,42.7
+ORD-01062,2025-01-23,East,NY,Home Office,Furniture,Chairs,SKU-0165,1,24.91,0.322,-4.27
+ORD-01063,2023-06-07,West,GA,Consumer,Office Supplies,Binders,SKU-0172,8,59.03,0.559,10.76
+ORD-01064,2025-02-12,West,NY,Corporate,Technology,Accessories,SKU-0147,7,840.96,0.116,3.25
+ORD-01065,2025-04-05,West,CA,Corporate,Office Supplies,Binders,SKU-0155,2,54.95,0.078,13.87
+ORD-01066,2024-03-01,Central,WA,Consumer,Technology,Computers,SKU-0174,7,429.3,0.147,12.6
+ORD-01067,2025-10-11,East,MA,Consumer,Office Supplies,Paper,SKU-0011,4,66.78,0.024,15.98
+ORD-01068,2024-12-03,East,NY,Corporate,Office Supplies,Storage,SKU-0128,3,73.02,0.271,13.29
+ORD-01069,2024-01-01,Central,IL,Corporate,Furniture,Bookcases,SKU-0032,8,562.54,0.051,36.07
+ORD-01070,2023-01-12,Central,IL,Consumer,Furniture,Chairs,SKU-0232,5,323.9,0.059,5.82
+ORD-01071,2025-01-09,West,WA,Consumer,Furniture,Chairs,SKU-0248,2,67.29,0.171,14.23
+ORD-01072,2023-08-18,South,FL,Consumer,Office Supplies,Binders,SKU-0040,7,207.64,0.08,44.28
+ORD-01073,2025-04-09,Central,FL,Corporate,Office Supplies,Storage,SKU-0223,6,45.1,0.093,10.87
+ORD-01074,2024-07-29,Central,CA,Consumer,Office Supplies,Tables,SKU-0119,2,131.45,0.071,2.32
+ORD-01075,2024-05-26,Central,GA,Corporate,Technology,Computers,SKU-0169,6,388.92,0.015,111.85
+ORD-01076,2023-06-29,East,FL,Corporate,Technology,Computers,SKU-0164,6,290.86,0.126,103.94
+ORD-01077,2025-02-18,Central,WA,Consumer,Furniture,Bookcases,SKU-0030,3,77.65,0.02,1.11
+ORD-01078,2023-07-01,West,IL,Corporate,Office Supplies,Binders,SKU-0228,4,76.06,0.319,13.0
+ORD-01079,2024-04-02,Central,NY,Home Office,Office Supplies,Paper,SKU-0161,7,62.11,0.379,17.88
+ORD-01080,2025-07-05,South,WA,Consumer,Technology,Phones,SKU-0122,2,63.48,0.097,12.68
+ORD-01081,2025-10-05,West,TX,Consumer,Office Supplies,Paper,SKU-0154,6,35.81,0.261,4.02
+ORD-01082,2025-12-20,South,NY,Consumer,Furniture,Tables,SKU-0245,7,377.9,0.053,31.57
+ORD-01083,2025-11-15,South,FL,Corporate,Office Supplies,Storage,SKU-0162,8,104.63,0.109,15.13
+ORD-01084,2024-09-01,West,TX,Home Office,Technology,Accessories,SKU-0165,3,81.96,0.141,25.25
+ORD-01085,2023-08-08,East,GA,Corporate,Office Supplies,Storage,SKU-0220,3,30.03,0.043,7.79
+ORD-01086,2025-07-08,South,WA,Home Office,Office Supplies,Binders,SKU-0175,8,114.28,0.005,25.17
+ORD-01087,2025-05-28,South,TX,Corporate,Technology,Accessories,SKU-0036,4,264.89,0.179,39.78
+ORD-01088,2025-12-21,West,CA,Consumer,Office Supplies,Binders,SKU-0205,5,219.17,0.13,55.06
+ORD-01089,2024-12-14,East,TX,Consumer,Office Supplies,Paper,SKU-0225,5,66.52,0.179,21.69
+ORD-01090,2023-06-05,Central,CA,Corporate,Technology,Computers,SKU-0184,5,509.76,0.197,84.63
+ORD-01091,2024-07-05,West,NY,Corporate,Technology,Phones,SKU-0039,5,1074.43,0.114,113.36
+ORD-01092,2024-05-06,East,TX,Corporate,Office Supplies,Storage,SKU-0131,4,28.42,0.49,11.09
+ORD-01094,2024-03-06,West,CA,Consumer,Technology,Computers,SKU-0194,4,149.01,0.254,37.78
+ORD-01095,2023-12-27,Central,NY,Consumer,Furniture,Tables,SKU-0240,6,880.07,0.157,-70.29
+ORD-01096,2023-03-29,Central,CA,Corporate,Office Supplies,Storage,SKU-0009,7,125.6,0.126,32.18
+ORD-01097,2025-07-04,Central,GA,Corporate,Furniture,Tables,SKU-0028,5,194.89,0.206,36.63
+ORD-01098,2025-04-07,Central,GA,Corporate,Furniture,Chairs,SKU-0234,6,424.61,0.098,53.74
+ORD-01099,2023-02-15,East,TX,Consumer,Office Supplies,Paper,SKU-0200,4,38.05,0.295,12.42
+ORD-01100,2024-04-20,West,IL,Home Office,Office Supplies,Paper,SKU-0206,7,34.69,0.485,7.52
+ORD-01101,2024-06-09,West,TX,Consumer,Office Supplies,Binders,SKU-0053,4,53.71,0.137,5.09
+ORD-01102,2024-05-29,West,FL,Consumer,Furniture,Bookcases,SKU-0160,4,196.65,0.095,-4.73
+ORD-01103,2025-10-04,East,FL,Corporate,Office Supplies,Storage,SKU-0208,1,10.59,0.041,2.52
+ORD-01104,2023-06-15,West,TX,Home Office,Office Supplies,Paper,SKU-0018,3,41.36,0.205,12.79
+ORD-01105,2023-12-02,West,WA,Home Office,Technology,Accessories,SKU-0071,6,349.06,0.047,83.63
+ORD-01106,2023-07-18,West,CA,Consumer,Office Supplies,Paper,SKU-0074,1,19.36,0.064,7.96
+ORD-01107,2023-09-25,Central,WA,Consumer,Furniture,Tables,SKU-0136,2,59.35,0.144,-0.64
+ORD-01108,2025-09-21,Central,MA,Corporate,Technology,Accessories,SKU-0064,7,219.6,0.158,6.63
+ORD-01109,2025-10-28,South,CA,Corporate,Technology,Computers,SKU-0086,7,406.61,0.06,105.82
+ORD-01110,2023-02-18,Central,WA,Consumer,Office Supplies,Paper,SKU-0065,4,48.24,0.45,9.44
+ORD-01111,2024-11-23,Central,WA,Consumer,Technology,Accessories,SKU-0016,4,197.77,0.137,-4.28
+ORD-01112,2023-09-13,West,GA,Consumer,Furniture,Chairs,SKU-0169,5,73.29,0.154,-0.37
+ORD-01113,2023-07-31,Central,MA,Consumer,Technology,Phones,SKU-0160,7,495.88,0.096,157.4
+ORD-01114,2023-11-17,West,CA,Consumer,Furniture,Chairs,SKU-0220,4,203.53,0.048,38.25
+ORD-01115,2023-08-02,East,CA,Corporate,Furniture,Chairs,SKU-0145,2,53.45,0.148,5.36
+ORD-01116,2024-06-21,East,NY,Consumer,Office Supplies,Storage,SKU-0171,4,88.32,0.18,13.23
+ORD-01117,2025-12-27,East,FL,Corporate,Office Supplies,Computers,SKU-0090,3,83.83,0.096,16.63
+ORD-01118,2024-10-04,West,WA,Corporate,Technology,Accessories,SKU-0098,6,172.86,0.268,18.2
+ORD-01119,2025-03-03,Central,WA,Consumer,Office Supplies,Paper,SKU-0104,2,53.95,0.097,16.89
+ORD-01120,2024-06-24,South,TX,Consumer,Office Supplies,Chairs,SKU-0243,5,256.47,0.123,73.41
+ORD-01121,2023-01-16,Central,NY,Home Office,Office Supplies,Binders,SKU-0119,2,16.08,0.054,4.18
+ORD-01122,2023-04-03,Central,CA,Corporate,Technology,Computers,SKU-0216,8,1454.32,0.115,435.79
+ORD-01123,2023-10-22,East,TX,Home Office,Technology,Phones,SKU-0081,6,395.67,0.339,66.94
+ORD-01124,2023-09-25,West,TX,Consumer,Technology,Computers,SKU-0172,2,61.14,0.038,27.5
+ORD-01125,2025-07-10,Central,TX,Corporate,Furniture,Tables,SKU-0069,8,105.3,0.015,24.98
+ORD-01126,2025-07-13,East,CA,Home Office,Furniture,Chairs,SKU-0100,5,106.68,0.273,15.91
+ORD-01127,2025-07-25,West,TX,Consumer,Office Supplies,Paper,SKU-0215,5,59.37,0.002,12.39
+ORD-01128,2024-11-29,East,MA,Consumer,Furniture,Bookcases,SKU-0171,1,45.53,0.537,1.4
+ORD-01129,2024-09-01,South,NY,Home Office,Office Supplies,Storage,SKU-0122,2,13.33,0.212,3.54
+ORD-01130,2024-12-12,Central,GA,Consumer,Office Supplies,Paper,SKU-0102,7,164.22,0.031,37.53
+ORD-01131,2024-03-21,East,CA,Consumer,Technology,Phones,SKU-0200,4,363.21,0.154,106.77
+ORD-01132,2025-01-04,Central,WA,Home Office,Furniture,Bookcases,SKU-0039,5,153.19,0.28,19.24
+ORD-01133,2025-05-20,East,CA,Consumer,Furniture,Tables,SKU-0213,8,270.27,0.039,31.36
+ORD-01134,2025-04-16,East,IL,Corporate,Furniture,Bookcases,SKU-0155,4,304.95,0.359,43.39
+ORD-01135,2024-11-03,West,GA,Corporate,Technology,Phones,SKU-0083,4,166.52,0.17,24.45
+ORD-01136,2023-03-05,East,MA,Corporate,Office Supplies,Binders,SKU-0175,7,79.91,0.084,29.14
+ORD-01137,2025-03-05,Central,FL,Consumer,Office Supplies,Binders,SKU-0248,1,12.73,0.145,4.17
+ORD-01138,2024-02-06,West,WA,Consumer,Technology,Accessories,SKU-0088,4,289.65,0.142,58.36
+ORD-01139,2025-03-26,Central,WA,Home Office,Office Supplies,Storage,SKU-0099,7,76.07,0.033,17.96
+ORD-01141,2025-08-23,Central,FL,Consumer,Furniture,Tables,SKU-0087,3,348.64,0.09,5.17
+ORD-01142,2024-01-06,Central,FL,Consumer,Office Supplies,Binders,SKU-0214,4,60.84,0.026,12.57
+ORD-01143,2025-10-17,Central,CA,Consumer,Office Supplies,Binders,SKU-0225,1,7.38,0.115,1.42
+ORD-01144,2025-07-14,Central,GA,Consumer,Office Supplies,Binders,SKU-0146,1,5.65,0.132,2.09
+ORD-01145,2023-12-29,South,FL,Home Office,Office Supplies,Binders,SKU-0021,3,71.09,0.074,13.27
+ORD-01146,2024-06-12,East,TX,Home Office,Technology,Accessories,SKU-0016,8,663.22,0.14,137.13
+ORD-01147,2024-08-05,Central,NY,Consumer,Furniture,Bookcases,SKU-0071,2,65.54,0.273,12.22
+ORD-01148,2025-04-22,Central,FL,Home Office,Office Supplies,Storage,SKU-0005,6,115.52,0.161,33.03
+ORD-01149,2025-01-25,West,MA,Corporate,Technology,Accessories,SKU-0191,4,218.37,0.188,79.82
+ORD-01150,2025-07-22,West,MA,Corporate,Furniture,Bookcases,SKU-0160,7,80.45,0.415,12.8
+ORD-01151,2024-02-10,East,GA,Home Office,Office Supplies,Binders,SKU-0114,3,29.23,0.324,5.23
+ORD-01152,2024-07-07,West,GA,Consumer,Technology,Phones,SKU-0204,7,704.23,0.245,69.95
+ORD-01153,2024-04-17,East,FL,Home Office,Furniture,Chairs,SKU-0034,3,224.84,0.117,70.64
+ORD-01154,2025-09-23,East,GA,Consumer,Office Supplies,Storage,SKU-0126,7,62.67,0.442,16.13
+ORD-01155,2023-12-01,Central,CA,Consumer,Furniture,Bookcases,SKU-0085,7,861.14,0.117,192.61
+ORD-01156,2024-10-05,West,IL,Corporate,Furniture,Bookcases,SKU-0006,4,153.29,0.115,31.69
+ORD-01157,2023-05-12,Central,IL,Consumer,Office Supplies,Paper,SKU-0120,6,58.96,0.098,9.81
+ORD-01158,2025-07-20,East,WA,Corporate,Furniture,Chairs,SKU-0037,1,46.24,0.179,3.29
+ORD-01159,2024-02-26,Central,TX,Consumer,Technology,Computers,SKU-0012,4,249.21,0.079,11.81
+ORD-01160,2024-01-09,West,TX,Consumer,Technology,Phones,SKU-0053,3,218.98,0.064,10.99
+ORD-01161,2024-09-30,East,GA,Corporate,Office Supplies,Binders,SKU-0049,8,89.69,0.251,12.27
+ORD-01162,2024-06-30,West,WA,Consumer,Technology,Computers,SKU-0157,8,745.15,0.108,135.62
+ORD-01164,2024-08-05,East,NY,Consumer,Technology,Accessories,SKU-0122,8,210.23,0.024,27.42
+ORD-01165,2024-07-20,South,FL,Home Office,Furniture,Bookcases,SKU-0161,8,283.23,0.116,1.72
+ORD-01166,2023-04-26,East,IL,Corporate,Office Supplies,Binders,SKU-0026,7,91.68,0.606,22.79
+ORD-01167,2023-01-25,Central,FL,Corporate,Furniture,Chairs,SKU-0197,5,195.85,0.075,19.04
+ORD-01168,2024-03-12,West,GA,Corporate,Office Supplies,Storage,SKU-0126,2,25.64,0.207,4.58
+ORD-01169,2025-12-30,Central,TX,Corporate,Technology,Phones,SKU-0108,7,342.8,0.038,76.81
+ORD-01170,2025-10-02,East,MA,Consumer,Furniture,Chairs,SKU-0218,2,95.38,0.004,-1.26
+ORD-01171,2024-11-20,East,WA,Consumer,Office Supplies,Storage,SKU-0079,2,20.52,0.153,3.77
+ORD-01172,2024-11-22,West,IL,Corporate,Furniture,Bookcases,SKU-0110,8,591.09,0.081,99.5
+ORD-01173,2024-03-05,West,GA,Consumer,Technology,Computers,SKU-0232,1,70.41,0.044,1.27
+ORD-01174,2023-07-14,West,NY,Home Office,Office Supplies,Binders,SKU-0038,2,108.16,0.072,3.99
+ORD-01175,2023-01-10,South,WA,Consumer,Furniture,Bookcases,SKU-0131,5,370.75,0.069,12.91
+ORD-01176,2024-01-07,East,IL,Corporate,Office Supplies,Storage,SKU-0145,5,65.41,0.147,5.38
+ORD-01177,2023-12-13,West,WA,Consumer,Office Supplies,Paper,SKU-0176,1,17.38,0.205,3.39
+ORD-01178,2023-07-29,South,NY,Corporate,Technology,Computers,SKU-0233,4,352.3,0.161,32.27
+ORD-01179,2023-10-12,West,WA,Home Office,Furniture,Tables,SKU-0086,2,62.2,0.241,13.61
+ORD-01180,2023-01-28,East,CA,Consumer,Technology,Computers,SKU-0029,3,155.52,0.22,38.7
+ORD-01181,2024-10-28,Central,TX,Consumer,Furniture,Tables,SKU-0100,2,47.06,0.079,12.43
+ORD-01182,2025-10-13,South,GA,Corporate,Technology,Accessories,SKU-0040,5,244.47,0.058,31.83
+ORD-01183,2025-01-27,Central,WA,Consumer,Office Supplies,Binders,SKU-0182,4,51.49,0.06,16.93
+ORD-01184,2024-05-06,East,IL,Consumer,Technology,Phones,SKU-0142,8,1194.06,0.04,135.67
+ORD-01185,2024-04-05,South,TX,Corporate,Office Supplies,Binders,SKU-0190,1,8.04,0.03,-0.14
+ORD-01186,2023-12-04,West,CA,Consumer,Technology,Phones,SKU-0085,7,775.54,0.042,108.23
+ORD-01187,2023-06-06,South,CA,Consumer,Furniture,Tables,SKU-0239,8,473.3,0.039,-0.79
+ORD-01188,2024-10-17,South,WA,Consumer,Furniture,Chairs,SKU-0224,4,101.69,0.296,22.1
+ORD-01189,2024-09-12,South,TX,Consumer,Office Supplies,Binders,SKU-0229,6,49.86,0.137,12.31
+ORD-01190,2023-01-09,West,CA,Home Office,Furniture,Tables,SKU-0179,4,169.75,0.15,8.6
+ORD-01191,2024-03-31,West,IL,Consumer,Furniture,Bookcases,SKU-0047,5,433.98,0.048,78.26
+ORD-01192,2023-11-01,Central,IL,Consumer,Office Supplies,Storage,SKU-0037,8,105.21,0.043,27.64
+ORD-01193,2023-07-06,East,GA,Corporate,Office Supplies,Binders,SKU-0240,5,70.54,0.019,17.57
+ORD-01194,2025-02-09,East,NY,Home Office,Technology,Phones,SKU-0218,5,179.14,0.098,10.07
+ORD-01195,2024-07-30,South,TX,Consumer,Office Supplies,Storage,SKU-0221,8,87.63,0.126,26.23
+ORD-01196,2024-11-25,Central,NY,Corporate,Furniture,Bookcases,SKU-0161,4,168.87,0.281,15.76
+ORD-01197,2025-02-20,East,NY,Corporate,Technology,Accessories,SKU-0215,2,108.16,0.038,35.57
+ORD-01198,2025-12-12,East,FL,Consumer,Furniture,Tables,SKU-0124,6,439.23,0.094,106.92
+ORD-01199,2025-05-29,West,NY,Consumer,Technology,Phones,SKU-0041,6,598.77,0.074,158.62
+ORD-01200,2024-11-10,West,WA,Corporate,Technology,Accessories,SKU-0065,2,159.44,0.191,44.56
+ORD-01201,2025-08-21,West,MA,Consumer,Office Supplies,Binders,SKU-0213,6,33.33,0.264,10.61
+ORD-01202,2024-06-07,Central,IL,Consumer,Technology,Computers,SKU-0163,1,28.88,0.392,4.53
+ORD-01203,2025-12-15,Central,NY,Corporate,Office Supplies,Paper,SKU-0250,3,158.9,0.091,35.92
+ORD-01204,2025-04-14,East,MA,Consumer,Office Supplies,Storage,SKU-0225,7,108.16,0.035,18.29
+ORD-01205,2024-12-14,East,GA,Consumer,Office Supplies,Paper,SKU-0190,5,96.13,0.143,26.79
+ORD-01206,2025-09-17,Central,GA,Consumer,Office Supplies,Paper,SKU-0010,5,35.15,0.198,8.41
+ORD-01207,2024-07-18,Central,GA,Home Office,Office Supplies,Paper,SKU-0047,5,36.0,0.489,2.71
+ORD-01208,2025-02-28,South,MA,Corporate,Office Supplies,Storage,SKU-0094,2,79.64,0.09,24.46
+ORD-01209,2023-11-09,East,WA,Consumer,Furniture,Bookcases,SKU-0009,8,108.16,0.429,21.16
+ORD-01210,2025-11-21,Central,GA,Consumer,Technology,Computers,SKU-0234,3,98.08,0.073,-1.48
+ORD-01211,2024-11-14,East,TX,Home Office,Furniture,Chairs,SKU-0058,7,129.8,0.158,0.19
+ORD-01212,2025-05-07,East,GA,Corporate,Office Supplies,Paper,SKU-0096,8,200.26,0.246,14.79
+ORD-01213,2024-05-19,South,CA,Corporate,Technology,Computers,SKU-0169,2,166.75,0.1,60.39
+ORD-01214,2025-08-08,East,MA,Consumer,Office Supplies,Storage,SKU-0009,6,72.04,0.01,10.41
+ORD-01215,2023-03-23,East,TX,Consumer,Technology,Accessories,SKU-0160,1,139.52,0.04,17.36
+ORD-01216,2023-05-06,West,TX,Consumer,Office Supplies,Paper,SKU-0026,6,79.73,0.012,25.82
+ORD-01217,2024-07-09,East,WA,Home Office,Technology,Accessories,SKU-0226,4,173.4,0.036,44.11
+ORD-01218,2025-03-13,East,NY,Home Office,Technology,Phones,SKU-0173,1,200.69,0.021,22.46
+ORD-01219,2025-06-05,Central,GA,Consumer,Technology,Computers,SKU-0084,6,606.08,0.192,-37.8
+ORD-01220,2024-04-27,East,WA,Corporate,Technology,Computers,SKU-0176,8,381.71,0.244,88.53
+ORD-01221,2024-12-13,West,CA,Home Office,Technology,Accessories,SKU-0079,1,76.34,0.027,13.19
+ORD-01222,2024-08-29,South,MA,Home Office,Technology,Accessories,SKU-0029,8,387.4,0.197,80.9
+ORD-01223,2025-11-19,East,CA,Consumer,Technology,Accessories,SKU-0003,7,546.98,0.043,81.72
+ORD-01224,2024-12-17,South,MA,Consumer,Technology,Accessories,SKU-0055,5,543.05,0.05,36.41
+ORD-01225,2024-04-01,West,MA,Home Office,Furniture,Bookcases,SKU-0177,8,432.51,0.241,62.75
+ORD-01226,2025-11-28,Central,WA,Consumer,Furniture,Chairs,SKU-0141,3,108.08,0.372,27.94
+ORD-01227,2023-04-28,East,FL,Consumer,Furniture,Chairs,SKU-0069,6,485.62,0.055,148.07
+ORD-01228,2025-12-15,South,MA,Consumer,Furniture,Bookcases,SKU-0172,6,382.86,0.128,-9.44
+ORD-01229,2023-06-18,West,MA,Corporate,Technology,Computers,SKU-0098,5,268.89,0.027,8.94
+ORD-01230,2023-11-12,South,WA,Consumer,Technology,Computers,SKU-0040,7,108.16,0.211,175.15
+ORD-01232,2025-03-15,Central,WA,Home Office,Office Supplies,Binders,SKU-0115,7,76.93,0.117,12.17
+ORD-01233,2025-11-29,East,NY,Consumer,Office Supplies,Binders,SKU-0167,5,41.62,0.212,13.29
+ORD-01234,2025-04-01,West,CA,Home Office,Office Supplies,Binders,SKU-0141,8,119.25,0.036,20.35
+ORD-01235,2024-11-29,East,NY,Home Office,Furniture,Tables,SKU-0026,5,178.98,0.147,-17.65
+ORD-01236,2024-01-15,West,IL,Corporate,Office Supplies,Binders,SKU-0013,6,75.69,0.278,22.61
+ORD-01237,2023-01-06,East,GA,Corporate,Furniture,Chairs,SKU-0026,5,230.61,0.046,-4.65
+ORD-01238,2023-05-16,Central,CA,Home Office,Office Supplies,Storage,SKU-0056,3,16.63,0.106,3.94
+ORD-01239,2023-11-23,East,CA,Corporate,Office Supplies,Storage,SKU-0057,8,186.0,0.02,46.64
+ORD-01240,2023-02-14,West,CA,Consumer,Office Supplies,Binders,SKU-0230,4,65.07,0.087,9.02
+ORD-01241,2024-07-10,West,NY,Home Office,Office Supplies,Storage,SKU-0196,5,107.13,0.133,32.34
+ORD-01242,2025-05-01,West,FL,Consumer,Furniture,Chairs,SKU-0220,7,415.98,0.101,10.13
+ORD-01243,2025-11-21,West,MA,Home Office,Office Supplies,Paper,SKU-0119,3,44.38,0.144,3.12
+ORD-01244,2024-06-20,Central,CA,Consumer,Office Supplies,Paper,SKU-0081,3,47.19,0.188,17.04
+ORD-01245,2025-08-17,West,MA,Consumer,Furniture,Tables,SKU-0101,1,28.36,0.093,2.0
+ORD-01247,2025-07-31,West,CA,Corporate,Technology,Phones,SKU-0089,5,474.27,0.137,125.55
+ORD-01248,2024-05-24,West,IL,Consumer,Office Supplies,Paper,SKU-0159,6,136.51,0.176,29.37
+ORD-01249,2023-12-23,South,MA,Home Office,Office Supplies,Binders,SKU-0037,3,55.45,0.052,11.28
+ORD-01250,2025-12-07,West,WA,Consumer,Technology,Computers,SKU-0246,4,73.08,0.209,22.25
+ORD-01251,2023-09-23,East,NY,Consumer,Office Supplies,Binders,SKU-0161,2,18.78,0.255,4.92
+ORD-01252,2024-03-27,South,NY,Corporate,Technology,Accessories,SKU-0242,7,300.81,0.067,100.01
+ORD-01253,2023-03-23,South,IL,Consumer,Office Supplies,Binders,SKU-0074,5,177.69,0.008,20.48
+ORD-01254,2025-05-19,Central,MA,Consumer,Office Supplies,Binders,SKU-0155,2,175.92,0.067,24.14
+ORD-01255,2024-12-13,West,GA,Consumer,Office Supplies,Binders,SKU-0069,5,164.09,0.096,19.13
+ORD-01256,2023-04-03,Central,IL,Consumer,Office Supplies,Storage,SKU-0117,3,36.8,0.147,6.55
+ORD-01257,2023-09-01,South,FL,Home Office,Technology,Phones,SKU-0081,7,651.63,0.07,146.46
+ORD-01258,2024-08-31,South,FL,Consumer,Technology,Phones,SKU-0036,3,190.28,0.335,57.06
+ORD-01259,2024-08-15,West,IL,Corporate,Furniture,Tables,SKU-0111,7,186.82,0.364,38.25
+ORD-01260,2025-05-29,East,WA,Corporate,Technology,Phones,SKU-0133,6,337.78,0.211,55.99
+ORD-01261,2023-10-19,East,TX,Consumer,Furniture,Tables,SKU-0040,2,155.7,0.244,40.24
+ORD-01262,2025-10-10,West,FL,Home Office,Technology,Computers,SKU-0100,7,282.79,0.149,84.79
+ORD-01263,2024-05-02,Central,FL,Consumer,Furniture,Tables,SKU-0024,6,238.63,0.089,35.79
+ORD-01264,2025-06-20,West,FL,Consumer,Furniture,Chairs,SKU-0162,4,210.64,0.081,-20.96
+ORD-01265,2023-09-19,East,GA,Corporate,Office Supplies,Binders,SKU-0079,2,33.37,0.115,11.76
+ORD-01266,2023-02-10,West,WA,Corporate,Technology,Phones,SKU-0023,4,332.24,0.064,80.71
+ORD-01267,2023-03-02,East,WA,Consumer,Office Supplies,Storage,SKU-0129,5,150.82,0.206,32.92
+ORD-01268,2024-02-13,West,MA,Home Office,Furniture,Bookcases,SKU-0209,2,64.27,0.154,10.9
+ORD-01269,2025-11-10,East,FL,Home Office,Furniture,Chairs,SKU-0248,3,191.97,0.039,-36.81
+ORD-01270,2023-02-23,West,TX,Consumer,Furniture,Tables,SKU-0242,6,435.22,0.037,-22.7
+ORD-01271,2024-02-09,South,FL,Corporate,Furniture,Bookcases,SKU-0044,5,197.53,0.165,42.75
+ORD-01272,2023-04-30,West,GA,Consumer,Technology,Phones,SKU-0053,8,543.51,0.057,197.78
+ORD-01273,2025-10-17,East,GA,Consumer,Furniture,Chairs,SKU-0224,2,96.59,0.03,6.26
+ORD-01274,2025-01-10,West,TX,Consumer,Technology,Computers,SKU-0159,7,598.97,0.131,143.11
+ORD-01275,2025-04-15,West,IL,Consumer,Furniture,Tables,SKU-0136,4,261.62,0.072,-33.9
+ORD-01276,2025-02-20,West,TX,Corporate,Office Supplies,Storage,SKU-0201,2,24.52,0.239,7.45
+ORD-01277,2024-12-21,West,CA,Consumer,Furniture,Tables,SKU-0017,8,357.67,0.034,27.19
+ORD-01278,2025-04-27,West,TX,Consumer,Office Supplies,Storage,SKU-0139,5,105.86,0.106,29.67
+ORD-01279,2023-01-09,East,CA,Consumer,Technology,Phones,SKU-0144,5,264.54,0.066,56.42
+ORD-01280,2025-08-06,Central,TX,Consumer,Office Supplies,Binders,SKU-0234,3,75.32,0.044,3.61
+ORD-01281,2025-03-21,West,CA,Corporate,Office Supplies,Paper,SKU-0117,8,127.44,0.069,20.41
+ORD-01282,2025-03-21,East,TX,Corporate,Office Supplies,Storage,SKU-0128,1,11.01,0.047,3.16
+ORD-01283,2024-03-07,Central,WA,Consumer,Office Supplies,Binders,SKU-0201,1,7.56,0.061,1.66
+ORD-01284,2025-05-27,West,MA,Consumer,Technology,Accessories,SKU-0068,2,162.55,0.414,26.61
+ORD-01285,2024-02-23,East,GA,Consumer,Office Supplies,Storage,SKU-0018,6,54.62,0.033,16.89
+ORD-01286,2023-02-23,West,FL,Corporate,Technology,Computers,SKU-0118,1,224.9,0.134,-36.66
+ORD-01287,2025-09-21,West,FL,Consumer,Office Supplies,Storage,SKU-0153,7,101.11,0.217,27.27
+ORD-01288,2023-09-15,East,GA,Corporate,Office Supplies,Binders,SKU-0122,2,9.28,0.203,0.85
+ORD-01289,2023-04-22,South,FL,Corporate,Technology,Accessories,SKU-0177,6,249.55,0.024,30.63
+ORD-01290,2024-11-12,South,CA,Consumer,Office Supplies,Paper,SKU-0064,7,124.98,0.122,28.74
+ORD-01291,2023-09-14,South,GA,Consumer,Technology,Phones,SKU-0004,8,1272.33,0.028,221.04
+ORD-01292,2025-07-29,East,FL,Consumer,Office Supplies,Binders,SKU-0197,3,13.55,0.539,1.49
+ORD-01293,2024-05-01,West,WA,Consumer,Office Supplies,Storage,SKU-0213,1,20.94,0.237,4.0
+ORD-01294,2023-01-05,East,CA,Consumer,Technology,Accessories,SKU-0155,7,247.63,0.097,72.67
+ORD-01295,2025-11-09,West,IL,Home Office,Office Supplies,Storage,SKU-0079,4,45.2,0.152,9.99
+ORD-01296,2024-07-18,West,IL,Consumer,Office Supplies,Storage,SKU-0093,8,141.75,0.025,24.88
+ORD-01297,2023-10-16,West,MA,Consumer,Technology,Phones,SKU-0120,2,71.83,0.274,4.94
+ORD-01298,2025-01-12,East,IL,Home Office,Furniture,Chairs,SKU-0106,5,90.6,0.083,22.62
+ORD-01299,2024-08-04,East,TX,Home Office,Technology,Computers,SKU-0056,1,90.0,0.091,24.32
+ORD-01300,2023-02-02,West,WA,Consumer,Office Supplies,Binders,SKU-0093,5,80.97,0.043,25.88
+ORD-01301,2025-04-12,Central,CA,Corporate,Technology,Computers,SKU-0075,1,52.95,0.446,11.84
+ORD-01302,2024-03-15,West,WA,Consumer,Office Supplies,Storage,SKU-0112,7,180.41,0.185,48.68
+ORD-01303,2025-02-05,South,CA,Corporate,Office Supplies,Storage,SKU-0094,5,42.09,0.249,8.89
+ORD-01304,2025-09-08,West,NY,Corporate,Technology,Computers,SKU-0133,1,16.89,0.071,3.46
+ORD-01305,2024-10-31,East,IL,Consumer,Furniture,Bookcases,SKU-0202,4,272.39,0.113,-26.96
+ORD-01306,2025-01-06,West,NY,Consumer,Office Supplies,Paper,SKU-0083,4,108.16,0.204,5.22
+ORD-01307,2023-10-07,East,CA,Consumer,Office Supplies,Paper,SKU-0015,6,76.41,0.24,22.58
+ORD-01308,2023-09-18,West,IL,Corporate,Furniture,Bookcases,SKU-0205,4,167.52,0.082,22.52
+ORD-01309,2024-03-30,West,WA,Consumer,Technology,Computers,SKU-0047,4,130.83,0.218,8.54
+ORD-01310,2025-07-23,Central,NY,Consumer,Technology,Phones,SKU-0233,7,474.91,0.165,103.65
+ORD-01311,2024-07-28,West,TX,Consumer,Office Supplies,Binders,SKU-0133,5,71.12,0.077,15.91
+ORD-01312,2024-01-17,West,WA,Corporate,Furniture,Tables,SKU-0131,7,143.33,0.417,17.33
+ORD-01313,2025-05-04,South,GA,Consumer,Office Supplies,Paper,SKU-0103,8,108.16,0.043,29.74
+ORD-01314,2025-07-24,West,FL,Home Office,Furniture,Bookcases,SKU-0178,7,238.41,0.046,4.71
+ORD-01315,2025-09-16,Central,FL,Consumer,Office Supplies,Binders,SKU-0164,8,95.73,0.186,13.62
+ORD-01316,2023-11-24,East,MA,Consumer,Technology,Phones,SKU-0233,6,54.65,0.128,7.56
+ORD-01317,2025-02-16,West,CA,Consumer,Technology,Phones,SKU-0005,5,362.65,0.253,103.52
+ORD-01318,2024-10-08,East,GA,Consumer,Office Supplies,Binders,SKU-0048,5,44.53,0.273,8.74
+ORD-01319,2024-05-07,West,IL,Consumer,Office Supplies,Storage,SKU-0070,2,48.09,0.11,16.89
+ORD-01320,2024-03-11,Central,IL,Consumer,Furniture,Bookcases,SKU-0048,7,334.67,0.172,30.03
+ORD-01321,2023-05-06,West,FL,Consumer,Furniture,Tables,SKU-0238,6,511.73,0.112,147.32
+ORD-01322,2023-10-29,West,GA,Consumer,Furniture,Chairs,SKU-0019,7,108.16,0.046,-0.91
+ORD-01323,2024-08-25,East,GA,Corporate,Furniture,Bookcases,SKU-0031,6,357.47,0.066,-41.05
+ORD-01324,2025-08-29,South,MA,Consumer,Office Supplies,Phones,SKU-0111,4,293.49,0.163,25.98
+ORD-01325,2025-08-07,Central,IL,Home Office,Office Supplies,Binders,SKU-0067,3,61.27,0.094,16.6
+ORD-01326,2023-07-25,South,NY,Home Office,Technology,Computers,SKU-0083,8,806.92,0.143,238.95
+ORD-01327,2025-01-14,Central,NY,Corporate,Office Supplies,Storage,SKU-0151,6,33.58,0.309,5.56
+ORD-01328,2023-04-03,Central,MA,Consumer,Technology,Accessories,SKU-0141,7,4467.72,0.007,325.3
+ORD-01329,2025-01-09,East,NY,Corporate,Technology,Computers,SKU-0217,5,253.79,0.344,44.36
+ORD-01330,2024-01-10,South,IL,Home Office,Office Supplies,Paper,SKU-0113,5,183.63,0.035,49.64
+ORD-01331,2024-05-08,East,IL,Consumer,Furniture,Chairs,SKU-0235,1,47.36,0.019,-3.94
+ORD-01332,2025-02-25,East,WA,Consumer,Office Supplies,Binders,SKU-0048,1,18.87,0.111,4.99
+ORD-01333,2024-04-10,Central,TX,Consumer,Technology,Accessories,SKU-0049,6,946.61,0.08,280.68
+ORD-01334,2025-06-03,East,WA,Consumer,Office Supplies,Paper,SKU-0098,2,29.31,0.237,8.04
+ORD-01335,2024-08-07,West,FL,Consumer,Office Supplies,Storage,SKU-0030,1,8.17,0.289,2.77
+ORD-01336,2025-12-30,East,GA,Consumer,Office Supplies,Paper,SKU-0008,7,67.64,0.263,21.58
+ORD-01337,2024-11-30,East,NY,Corporate,Technology,Accessories,SKU-0093,5,716.55,0.265,55.53
+ORD-01338,2023-11-21,South,MA,Consumer,Furniture,Bookcases,SKU-0135,1,135.38,0.075,36.83
+ORD-01339,2025-04-29,East,WA,Consumer,Furniture,Tables,SKU-0070,4,286.68,0.102,16.75
+ORD-01340,2024-03-23,South,MA,Home Office,Office Supplies,Storage,SKU-0068,4,22.12,0.222,4.52
+ORD-01341,2024-08-08,East,IL,Consumer,Furniture,Bookcases,SKU-0025,1,207.82,0.255,28.78
+ORD-01342,2023-05-30,Central,TX,Consumer,Technology,Phones,SKU-0029,5,561.97,0.084,18.73
+ORD-01343,2023-05-11,West,FL,Consumer,Furniture,Chairs,SKU-0221,4,100.66,0.171,-10.9
+ORD-01344,2024-09-22,South,GA,Consumer,Technology,Accessories,SKU-0017,8,771.17,0.236,208.08
+ORD-01345,2023-07-24,East,NY,Corporate,Furniture,Chairs,SKU-0176,1,30.31,0.051,0.65
+ORD-01346,2025-12-29,West,WA,Consumer,Technology,Accessories,SKU-0179,7,1052.57,0.144,243.38
+ORD-01347,2025-07-26,West,NY,Home Office,Technology,Computers,SKU-0051,1,88.36,0.137,4.2
+ORD-01348,2025-02-07,West,MA,Home Office,Office Supplies,Storage,SKU-0062,7,71.98,0.194,16.32
+ORD-01349,2025-03-16,East,IL,Consumer,Furniture,Chairs,SKU-0092,7,108.16,0.246,25.37
+ORD-01350,2024-10-14,Central,MA,Corporate,Furniture,Tables,SKU-0165,4,407.46,0.075,-54.9
+ORD-01351,2023-03-08,South,NY,Corporate,Office Supplies,Paper,SKU-0010,3,35.14,0.082,9.16
+ORD-01352,2024-03-06,Central,CA,Home Office,Office Supplies,Binders,SKU-0204,2,27.71,0.263,16.89
+ORD-01353,2024-06-27,East,GA,Consumer,Furniture,Tables,SKU-0086,3,199.39,0.257,25.89
+ORD-01354,2025-09-30,East,TX,Corporate,Office Supplies,Paper,SKU-0125,6,46.76,0.253,5.55
+ORD-01355,2023-08-29,South,CA,Consumer,Office Supplies,Paper,SKU-0228,6,133.18,0.337,34.73
+ORD-01356,2024-06-28,South,MA,Consumer,Office Supplies,Paper,SKU-0034,2,28.58,0.346,6.66
+ORD-01357,2024-01-13,West,IL,Home Office,Office Supplies,Binders,SKU-0237,1,10.13,0.254,2.19
+ORD-01358,2023-05-28,South,GA,Consumer,Office Supplies,Paper,SKU-0154,5,80.59,0.2,16.9
+ORD-01359,2023-04-23,East,IL,Consumer,Technology,Phones,SKU-0107,5,196.86,0.146,54.46
+ORD-01360,2024-02-05,Central,MA,Consumer,Furniture,Chairs,SKU-0018,8,242.07,0.531,41.48
+ORD-01361,2023-04-01,South,FL,Home Office,Office Supplies,Binders,SKU-0017,7,94.36,0.171,17.02
+ORD-01362,2023-03-15,Central,IL,Consumer,Office Supplies,Binders,SKU-0205,5,48.48,0.034,8.2
+ORD-01363,2024-01-20,West,IL,Consumer,Furniture,Chairs,SKU-0101,5,203.3,0.031,64.84
+ORD-01364,2023-08-10,Central,TX,Corporate,Technology,Phones,SKU-0191,6,33.2,0.213,12.41
+ORD-01365,2024-08-31,West,WA,Consumer,Office Supplies,Storage,SKU-0209,4,39.0,0.23,15.01
+ORD-01366,2023-01-20,West,FL,Consumer,Technology,Phones,SKU-0101,6,604.54,0.005,149.93
+ORD-01367,2023-11-27,West,CA,Corporate,Office Supplies,Paper,SKU-0080,2,140.05,0.15,34.06
+ORD-01369,2025-11-21,South,IL,Corporate,Office Supplies,Paper,SKU-0160,7,34.77,0.255,11.55
+ORD-01370,2024-11-26,West,GA,Consumer,Office Supplies,Binders,SKU-0178,4,24.03,0.288,3.73
+ORD-01371,2025-08-23,East,IL,Consumer,Office Supplies,Binders,SKU-0088,4,78.94,0.108,25.83
+ORD-01372,2024-01-12,Central,FL,Corporate,Office Supplies,Binders,SKU-0142,4,122.86,0.043,25.58
+ORD-01374,2024-04-05,West,IL,Corporate,Office Supplies,Binders,SKU-0037,2,61.86,0.145,15.4
+ORD-01375,2025-08-30,West,TX,Consumer,Office Supplies,Paper,SKU-0132,3,56.57,0.14,6.88
+ORD-01376,2025-11-17,East,IL,Home Office,Technology,Accessories,SKU-0190,5,520.93,0.11,44.02
+ORD-01377,2025-11-20,Central,GA,Consumer,Office Supplies,Paper,SKU-0241,6,96.94,0.02,31.69
+ORD-01378,2025-04-04,Central,GA,Home Office,Technology,Computers,SKU-0084,3,468.0,0.068,103.63
+ORD-01379,2024-07-05,West,TX,Consumer,Office Supplies,Storage,SKU-0060,1,23.47,0.08,5.05
+ORD-01380,2024-08-15,East,FL,Corporate,Office Supplies,Paper,SKU-0224,5,86.26,0.065,23.94
+ORD-01381,2025-12-10,East,GA,Consumer,Furniture,Chairs,SKU-0230,6,353.21,0.05,114.75
+ORD-01382,2023-11-08,West,NY,Corporate,Technology,Accessories,SKU-0208,7,561.81,0.102,29.67
+ORD-01383,2024-01-15,Central,IL,Consumer,Furniture,Tables,SKU-0084,1,107.74,0.058,31.11
+ORD-01384,2025-09-10,West,FL,Consumer,Office Supplies,Paper,SKU-0069,1,9.38,0.416,3.36
+ORD-01385,2024-02-28,East,CA,Consumer,Technology,Computers,SKU-0157,4,204.66,0.19,30.04
+ORD-01386,2023-09-15,South,IL,Consumer,Technology,Phones,SKU-0064,5,87.51,0.213,23.52
+ORD-01387,2024-09-06,East,CA,Home Office,Office Supplies,Paper,SKU-0193,1,13.76,0.153,3.55
+ORD-01388,2023-12-23,Central,TX,Corporate,Office Supplies,Paper,SKU-0100,2,20.54,0.507,4.5
+ORD-01389,2025-09-03,West,CA,Corporate,Technology,Computers,SKU-0082,4,214.71,0.078,46.17
+ORD-01390,2025-09-23,West,WA,Consumer,Furniture,Chairs,SKU-0202,3,82.21,0.25,15.09
+ORD-01391,2023-12-02,West,MA,Consumer,Office Supplies,Binders,SKU-0089,6,115.75,0.143,30.3
+ORD-01392,2024-08-03,Central,TX,Consumer,Office Supplies,Paper,SKU-0033,1,9.13,0.146,1.44
+ORD-01393,2025-12-14,South,CA,Consumer,Office Supplies,Paper,SKU-0199,8,166.92,0.128,9.05
+ORD-01394,2025-03-24,West,IL,Corporate,Furniture,Chairs,SKU-0080,2,263.12,0.286,45.2
+ORD-01395,2023-08-25,West,CA,Corporate,Furniture,Chairs,SKU-0164,4,98.73,0.168,7.91
+ORD-01396,2024-10-09,East,IL,Consumer,Technology,Computers,SKU-0165,8,350.38,0.27,58.54
+ORD-01397,2024-11-10,Central,FL,Consumer,Office Supplies,Binders,SKU-0021,6,51.73,0.008,10.55
+ORD-01398,2024-12-17,Central,IL,Consumer,Office Supplies,Phones,SKU-0009,8,1357.89,0.029,304.43
+ORD-01399,2023-01-28,Central,FL,Consumer,Technology,Computers,SKU-0206,1,27.32,0.257,5.38
+ORD-01400,2023-11-25,South,FL,Consumer,Office Supplies,Binders,SKU-0014,6,104.38,0.132,13.46
+ORD-01401,2025-07-25,West,NY,Consumer,Office Supplies,Paper,SKU-0083,1,108.16,0.021,8.95
+ORD-01402,2023-09-22,Central,WA,Consumer,Office Supplies,Storage,SKU-0191,5,33.26,0.24,6.63
+ORD-01403,2023-11-25,Central,WA,Consumer,Furniture,Chairs,SKU-0045,3,138.22,0.081,8.6
+ORD-01404,2023-12-20,West,NY,Corporate,Furniture,Chairs,SKU-0131,7,687.74,0.099,4.75
+ORD-01405,2023-07-14,South,IL,Home Office,Furniture,Chairs,SKU-0029,1,49.51,0.211,12.33
+ORD-01406,2023-06-20,West,TX,Consumer,Furniture,Tables,SKU-0140,8,205.73,0.015,44.58
+ORD-01407,2024-01-16,Central,IL,Consumer,Office Supplies,Paper,SKU-0179,4,40.12,0.203,7.03
+ORD-01408,2025-08-16,Central,MA,Consumer,Furniture,Chairs,SKU-0063,5,243.84,0.025,47.76
+ORD-01409,2023-01-02,South,FL,Corporate,Office Supplies,Paper,SKU-0071,5,38.23,0.096,7.05
+ORD-01410,2023-11-07,East,GA,Consumer,Office Supplies,Storage,SKU-0133,1,5.49,0.278,1.38
+ORD-01411,2023-03-08,East,FL,Corporate,Office Supplies,Storage,SKU-0198,3,37.91,0.243,10.08
+ORD-01412,2024-09-07,South,CA,Corporate,Technology,Computers,SKU-0137,6,301.48,0.083,50.32
+ORD-01413,2023-10-02,Central,WA,Home Office,Furniture,Tables,SKU-0176,8,849.27,0.162,59.02
+ORD-01414,2025-05-18,East,CA,Consumer,Technology,Accessories,SKU-0104,8,277.52,0.162,58.41
+ORD-01415,2024-10-03,Central,TX,Consumer,Furniture,Bookcases,SKU-0033,5,158.62,0.277,32.62
+ORD-01416,2025-05-09,West,GA,Consumer,Furniture,Tables,SKU-0242,3,132.73,0.111,18.89
+ORD-01417,2024-11-26,Central,GA,Consumer,Technology,Computers,SKU-0200,4,356.96,0.231,37.52
+ORD-01418,2024-04-25,South,NY,Consumer,Office Supplies,Storage,SKU-0013,4,24.22,0.322,3.52
+ORD-01419,2025-08-01,East,GA,Home Office,Furniture,Bookcases,SKU-0069,4,75.31,0.123,5.99
+ORD-01420,2024-06-05,East,GA,Corporate,Office Supplies,Binders,SKU-0104,5,28.39,0.121,3.42
+ORD-01421,2025-11-07,South,GA,Home Office,Office Supplies,Computers,SKU-0021,7,616.22,0.078,153.75
+ORD-01422,2025-12-26,Central,MA,Home Office,Technology,Accessories,SKU-0215,4,246.3,0.128,44.12
+ORD-01423,2024-10-07,South,CA,Consumer,Furniture,Tables,SKU-0044,1,32.99,0.172,5.4
+ORD-01424,2025-01-09,East,CA,Home Office,Technology,Computers,SKU-0052,6,479.62,0.087,140.43
+ORD-01425,2023-10-08,South,FL,Corporate,Technology,Computers,SKU-0080,6,190.92,0.307,37.79
+ORD-01426,2025-06-11,West,CA,Consumer,Office Supplies,Paper,SKU-0234,4,43.21,0.284,11.14
+ORD-01427,2025-01-06,East,TX,Corporate,Technology,Accessories,SKU-0057,6,371.24,0.197,96.77
+ORD-01428,2025-09-16,East,GA,Home Office,Technology,Accessories,SKU-0107,8,330.11,0.22,100.66
+ORD-01429,2023-10-20,Central,GA,Corporate,Office Supplies,Storage,SKU-0171,8,60.98,0.01,5.78
+ORD-01430,2025-05-13,South,TX,Corporate,Furniture,Bookcases,SKU-0040,5,386.21,0.115,54.64
+ORD-01431,2024-05-30,Central,FL,Consumer,Office Supplies,Storage,SKU-0023,5,58.32,0.089,20.36
+ORD-01432,2023-07-22,Central,FL,Home Office,Furniture,Bookcases,SKU-0024,1,20.03,0.072,-0.34
+ORD-01433,2023-07-07,East,TX,Consumer,Office Supplies,Storage,SKU-0046,5,35.09,0.238,5.33
+ORD-01434,2024-09-08,East,NY,Corporate,Technology,Phones,SKU-0082,7,228.34,0.233,43.24
+ORD-01435,2023-12-17,East,IL,Corporate,Furniture,Bookcases,SKU-0236,7,712.4,0.118,8.85
+ORD-01436,2023-04-22,West,FL,Consumer,Office Supplies,Paper,SKU-0230,7,64.8,0.212,13.7
+ORD-01437,2024-04-13,East,MA,Consumer,Office Supplies,Storage,SKU-0143,8,116.7,0.059,38.47
+ORD-01438,2024-12-16,South,MA,Corporate,Furniture,Chairs,SKU-0235,5,155.74,0.38,12.47
+ORD-01440,2025-11-13,Central,WA,Consumer,Technology,Computers,SKU-0141,4,79.66,0.099,-1.46
+ORD-01442,2024-07-15,East,CA,Corporate,Technology,Computers,SKU-0030,7,234.89,0.21,19.95
+ORD-01443,2025-10-21,West,MA,Consumer,Office Supplies,Binders,SKU-0139,7,139.31,0.123,31.32
+ORD-01444,2024-04-19,East,FL,Consumer,Furniture,Chairs,SKU-0115,4,276.46,0.043,58.38
+ORD-01445,2023-06-03,East,WA,Home Office,Office Supplies,Storage,SKU-0191,4,59.41,0.121,14.51
+ORD-01446,2023-02-09,West,WA,Consumer,Technology,Phones,SKU-0105,2,121.07,0.041,25.59
+ORD-01447,2025-10-25,West,TX,Home Office,Office Supplies,Binders,SKU-0108,1,6.58,0.157,1.73
+ORD-01448,2025-11-17,Central,NY,Consumer,Office Supplies,Storage,SKU-0058,3,29.01,0.024,7.55
+ORD-01449,2025-03-21,East,IL,Consumer,Technology,Accessories,SKU-0119,2,288.6,0.291,55.25
+ORD-01450,2023-04-23,East,MA,Corporate,Technology,Phones,SKU-0020,3,339.81,0.135,146.12
+ORD-01451,2023-11-18,West,WA,Consumer,Technology,Phones,SKU-0142,8,999.33,0.165,180.46
+ORD-01452,2023-02-15,East,WA,Home Office,Office Supplies,Binders,SKU-0096,6,54.44,0.323,11.31
+ORD-01453,2023-02-26,East,NY,Consumer,Technology,Computers,SKU-0069,5,411.18,0.25,35.25
+ORD-01454,2023-09-27,East,CA,Home Office,Office Supplies,Binders,SKU-0093,2,13.58,0.254,3.38
+ORD-01455,2024-09-19,Central,WA,Consumer,Furniture,Bookcases,SKU-0223,7,62.16,0.016,-2.11
+ORD-01456,2023-03-13,West,GA,Home Office,Office Supplies,Paper,SKU-0176,6,79.66,0.181,10.53
+ORD-01457,2025-12-15,South,TX,Consumer,Furniture,Tables,SKU-0214,5,195.06,0.398,51.46
+ORD-01458,2024-05-13,West,IL,Corporate,Furniture,Chairs,SKU-0099,4,226.21,0.057,8.15
+ORD-01459,2023-10-17,East,GA,Consumer,Office Supplies,Binders,SKU-0099,5,126.71,0.047,16.65
+ORD-01460,2024-07-19,West,NY,Corporate,Technology,Accessories,SKU-0004,7,336.99,0.179,32.1
+ORD-01461,2025-05-16,East,FL,Consumer,Office Supplies,Paper,SKU-0171,6,82.52,0.093,8.15
+ORD-01462,2023-12-09,West,CA,Consumer,Technology,Phones,SKU-0006,4,225.37,0.321,57.28
+ORD-01463,2023-02-22,South,TX,Corporate,Furniture,Tables,SKU-0244,6,343.25,0.048,83.71
+ORD-01464,2023-02-25,East,TX,Consumer,Office Supplies,Binders,SKU-0172,8,306.5,0.045,69.4
+ORD-01465,2025-07-22,Central,WA,Corporate,Office Supplies,Paper,SKU-0117,3,59.41,0.016,12.65
+ORD-01466,2023-05-03,West,TX,Corporate,Office Supplies,Binders,SKU-0166,8,151.72,0.112,47.47
+ORD-01467,2024-11-27,West,IL,Consumer,Technology,Accessories,SKU-0249,5,193.98,0.049,35.63
+ORD-01468,2024-02-26,East,TX,Corporate,Furniture,Chairs,SKU-0041,2,65.39,0.105,-9.31
+ORD-01469,2025-05-02,East,NY,Consumer,Furniture,Tables,SKU-0187,8,312.42,0.153,39.17
+ORD-01470,2023-03-08,East,MA,Corporate,Office Supplies,Paper,SKU-0217,6,108.16,0.33,73.83
+ORD-01471,2025-09-10,South,WA,Consumer,Furniture,Chairs,SKU-0147,4,144.67,0.173,31.38
+ORD-01472,2025-02-04,Central,WA,Consumer,Furniture,Chairs,SKU-0166,2,70.41,0.125,13.73
+ORD-01473,2024-05-07,South,FL,Corporate,Furniture,Bookcases,SKU-0127,8,717.46,0.133,170.44
+ORD-01474,2023-08-15,West,NY,Home Office,Technology,Accessories,SKU-0039,7,1182.66,0.294,348.98
+ORD-01475,2025-12-06,Central,FL,Home Office,Furniture,Chairs,SKU-0246,1,108.16,0.3,15.63
+ORD-01476,2023-11-28,Central,WA,Corporate,Technology,Computers,SKU-0072,6,1574.97,0.332,439.7
+ORD-01477,2024-06-21,Central,IL,Consumer,Office Supplies,Storage,SKU-0097,1,17.82,0.078,3.92
+ORD-01478,2024-03-07,South,WA,Consumer,Office Supplies,Binders,SKU-0244,3,88.54,0.106,29.66
+ORD-01479,2023-09-10,Central,TX,Consumer,Technology,Phones,SKU-0015,5,121.29,0.077,6.36
+ORD-01480,2024-04-01,South,FL,Corporate,Office Supplies,Binders,SKU-0102,2,30.78,0.078,4.11
+ORD-01481,2023-06-16,Central,IL,Consumer,Office Supplies,Paper,SKU-0139,5,42.45,0.083,16.73
+ORD-01482,2023-01-02,West,GA,Home Office,Technology,Computers,SKU-0060,4,138.88,0.246,48.73
+ORD-01483,2023-11-14,Central,NY,Consumer,Technology,Computers,SKU-0168,5,797.13,0.134,167.03
+ORD-01484,2023-05-03,East,TX,Consumer,Technology,Computers,SKU-0132,7,1034.17,0.128,166.91
+ORD-01485,2024-03-30,South,WA,Home Office,Technology,Phones,SKU-0066,2,244.83,0.265,79.56
+ORD-01486,2025-08-03,Central,CA,Consumer,Office Supplies,Paper,SKU-0052,7,71.66,0.081,19.92
+ORD-01487,2023-06-28,West,FL,Consumer,Office Supplies,Storage,SKU-0072,2,27.81,0.2,5.18
+ORD-01488,2023-01-02,West,CA,Corporate,Technology,Accessories,SKU-0198,1,60.76,0.099,21.26
+ORD-01489,2023-05-02,West,FL,Home Office,Office Supplies,Storage,SKU-0131,4,55.78,0.082,23.84
+ORD-01490,2024-07-10,East,TX,Consumer,Technology,Phones,SKU-0199,3,526.26,0.088,205.35
+ORD-01491,2023-10-29,West,NY,Consumer,Office Supplies,Paper,SKU-0180,2,16.31,0.049,3.98
+ORD-01492,2024-06-20,Central,IL,Consumer,Office Supplies,Paper,SKU-0201,4,42.42,0.036,10.3
+ORD-01493,2023-02-02,Central,TX,Corporate,Furniture,Bookcases,SKU-0214,7,364.2,0.234,85.27
+ORD-01494,2024-01-01,South,CA,Consumer,Technology,Computers,SKU-0155,5,282.69,0.061,48.1
+ORD-01495,2024-03-25,West,FL,Corporate,Office Supplies,Binders,SKU-0091,6,111.88,0.308,23.91
+ORD-01496,2024-04-17,East,FL,Consumer,Office Supplies,Binders,SKU-0174,2,32.42,0.144,7.49
+ORD-01497,2024-08-27,West,WA,Home Office,Technology,Phones,SKU-0237,1,160.13,0.323,13.0
+ORD-01498,2025-05-05,South,GA,Corporate,Technology,Computers,SKU-0081,3,489.83,0.054,80.36
+ORD-01499,2024-05-27,West,WA,Corporate,Technology,Phones,SKU-0122,7,486.64,0.143,82.54
+ORD-01500,2025-07-10,West,MA,Consumer,Office Supplies,Paper,SKU-0220,8,158.18,0.15,18.08
+ORD-01501,2024-08-03,West,WA,Consumer,Office Supplies,Binders,SKU-0150,1,8.21,0.385,3.13
+ORD-01502,2023-10-13,Central,WA,Consumer,Office Supplies,Paper,SKU-0037,4,105.05,0.246,27.61
+ORD-01503,2023-09-09,West,MA,Consumer,Office Supplies,Paper,SKU-0088,4,56.52,0.416,13.38
+ORD-01504,2023-12-20,Central,WA,Consumer,Office Supplies,Storage,SKU-0064,6,63.35,0.091,16.89
+ORD-01505,2024-10-16,Central,FL,Consumer,Office Supplies,Storage,SKU-0120,2,7.1,0.294,0.99
+ORD-01506,2023-09-23,Central,WA,Consumer,Technology,Phones,SKU-0249,4,165.2,0.154,50.27
+ORD-01507,2025-09-28,West,GA,Consumer,Office Supplies,Binders,SKU-0210,7,43.72,0.188,9.06
+ORD-01508,2024-06-09,West,IL,Consumer,Furniture,Tables,SKU-0241,4,197.13,0.013,42.32
+ORD-01509,2025-08-04,East,NY,Corporate,Furniture,Tables,SKU-0186,7,298.16,0.193,-16.63
+ORD-01510,2025-01-18,West,IL,Corporate,Office Supplies,Storage,SKU-0127,5,123.31,0.06,42.39
+ORD-01511,2024-01-01,Central,CA,Consumer,Office Supplies,Binders,SKU-0165,5,68.7,0.037,20.07
+ORD-01512,2023-09-08,East,TX,Corporate,Office Supplies,Paper,SKU-0125,3,37.38,0.038,7.98
+ORD-01513,2025-03-26,East,GA,Consumer,Furniture,Tables,SKU-0011,8,350.01,0.04,58.96
+ORD-01514,2023-12-29,West,CA,Home Office,Office Supplies,Paper,SKU-0030,2,52.3,0.238,14.61
+ORD-01515,2023-09-28,Central,GA,Consumer,Furniture,Tables,SKU-0139,8,155.6,0.436,18.12
+ORD-01516,2025-10-16,West,FL,Consumer,Technology,Computers,SKU-0165,8,448.81,0.165,66.14
+ORD-01517,2024-06-12,Central,TX,Corporate,Technology,Phones,SKU-0064,5,501.55,0.088,47.32
+ORD-01518,2023-02-23,West,IL,Consumer,Office Supplies,Paper,SKU-0008,7,95.39,0.112,15.61
+ORD-01519,2024-06-26,South,GA,Consumer,Technology,Computers,SKU-0018,6,608.1,0.05,121.83
+ORD-01520,2024-05-20,Central,CA,Consumer,Office Supplies,Binders,SKU-0079,6,22.5,0.176,6.73
+ORD-01521,2025-08-04,West,FL,Home Office,Technology,Accessories,SKU-0216,1,57.42,0.143,14.66
+ORD-01522,2025-02-18,West,TX,Home Office,Technology,Computers,SKU-0105,2,109.3,0.34,6.59
+ORD-01523,2023-07-29,East,FL,Consumer,Office Supplies,Storage,SKU-0244,1,14.39,0.168,3.2
+ORD-01524,2023-06-14,West,MA,Home Office,Technology,Computers,SKU-0224,1,58.66,0.062,12.48
+ORD-01525,2024-10-23,West,GA,Consumer,Office Supplies,Storage,SKU-0215,7,44.76,0.383,11.67
+ORD-01526,2023-02-21,South,TX,Corporate,Office Supplies,Binders,SKU-0243,2,21.37,0.276,4.36
+ORD-01527,2023-12-16,Central,WA,Consumer,Technology,Accessories,SKU-0061,1,368.66,0.247,81.66
+ORD-01528,2023-06-01,West,IL,Consumer,Office Supplies,Binders,SKU-0244,5,132.0,0.325,54.14
+ORD-01529,2023-01-23,Central,FL,Home Office,Office Supplies,Storage,SKU-0231,3,42.13,0.042,12.2
+ORD-01530,2025-10-04,West,NY,Home Office,Office Supplies,Binders,SKU-0200,7,122.77,0.21,36.11
+ORD-01531,2023-04-09,South,MA,Home Office,Office Supplies,Binders,SKU-0049,8,108.16,0.368,40.57
+ORD-01532,2023-01-11,West,NY,Corporate,Office Supplies,Paper,SKU-0073,5,56.44,0.117,14.15
+ORD-01533,2025-10-19,Central,CA,Consumer,Office Supplies,Paper,SKU-0164,8,93.05,0.237,21.36
+ORD-01534,2023-07-26,Central,MA,Corporate,Furniture,Chairs,SKU-0012,8,219.75,0.087,30.52
+ORD-01535,2025-06-13,West,IL,Consumer,Office Supplies,Paper,SKU-0206,2,28.92,0.275,5.32
+ORD-01536,2023-02-04,West,CA,Home Office,Office Supplies,Storage,SKU-0107,2,11.84,0.279,0.67
+ORD-01537,2023-06-18,East,WA,Consumer,Office Supplies,Binders,SKU-0006,3,28.0,0.121,7.93
+ORD-01538,2023-05-02,South,TX,Corporate,Office Supplies,Storage,SKU-0075,5,31.92,0.065,3.79
+ORD-01539,2025-02-13,East,GA,Corporate,Furniture,Bookcases,SKU-0099,7,920.88,0.026,152.47
+ORD-01540,2024-11-10,Central,GA,Consumer,Office Supplies,Storage,SKU-0164,2,63.76,0.241,13.81
+ORD-01541,2024-06-05,Central,FL,Consumer,Office Supplies,Storage,SKU-0151,2,32.46,0.031,7.47
+ORD-01542,2023-09-22,South,IL,Consumer,Office Supplies,Phones,SKU-0093,3,242.27,0.186,6.37
+ORD-01543,2023-04-08,East,IL,Consumer,Technology,Accessories,SKU-0155,3,265.25,0.073,88.07
+ORD-01544,2024-09-15,East,FL,Home Office,Office Supplies,Paper,SKU-0223,8,116.54,0.16,36.91
+ORD-01545,2023-09-10,Central,GA,Consumer,Furniture,Chairs,SKU-0088,4,112.59,0.168,15.69
+ORD-01546,2024-10-08,West,WA,Consumer,Office Supplies,Storage,SKU-0094,7,62.35,0.118,9.23
+ORD-01547,2025-01-23,South,CA,Consumer,Technology,Computers,SKU-0026,1,106.95,0.009,14.79
+ORD-01548,2025-07-19,West,NY,Consumer,Furniture,Bookcases,SKU-0095,1,60.49,0.13,6.21
+ORD-01549,2024-06-25,West,WA,Consumer,Office Supplies,Paper,SKU-0072,7,74.14,0.212,7.09
+ORD-01550,2023-01-06,Central,TX,Home Office,Office Supplies,Binders,SKU-0190,2,47.62,0.115,12.38
+ORD-01551,2023-11-04,East,IL,Corporate,Office Supplies,Storage,SKU-0029,1,27.19,0.133,8.63
+ORD-01552,2025-07-24,West,IL,Home Office,Office Supplies,Storage,SKU-0148,5,34.79,0.036,6.53
+ORD-01553,2024-08-07,West,FL,Consumer,Office Supplies,Paper,SKU-0194,2,16.08,0.2,4.06
+ORD-01554,2024-11-09,East,NY,Consumer,Office Supplies,Paper,SKU-0064,1,12.49,0.161,2.33
+ORD-01555,2024-05-16,South,CA,Consumer,Office Supplies,Binders,SKU-0017,4,99.24,0.018,27.57
+ORD-01556,2023-06-28,West,NY,Consumer,Office Supplies,Storage,SKU-0170,5,137.25,0.127,42.22
+ORD-01557,2025-09-09,West,WA,Consumer,Office Supplies,Storage,SKU-0148,5,236.66,0.135,47.09
+ORD-01558,2025-04-27,East,FL,Consumer,Technology,Accessories,SKU-0141,5,475.31,0.114,23.15
+ORD-01559,2025-12-26,South,MA,Corporate,Technology,Computers,SKU-0220,1,65.81,0.105,19.99
+ORD-01560,2025-07-26,West,CA,Consumer,Office Supplies,Storage,SKU-0027,3,54.98,0.17,16.17
+ORD-01561,2023-11-16,South,NY,Corporate,Office Supplies,Storage,SKU-0050,3,36.96,0.077,4.77
+ORD-01562,2023-10-06,South,NY,Corporate,Office Supplies,Paper,SKU-0117,3,32.18,0.167,8.04
+ORD-01563,2023-09-30,West,FL,Corporate,Technology,Accessories,SKU-0141,5,73.31,0.378,3.46
+ORD-01564,2025-10-03,Central,FL,Consumer,Office Supplies,Binders,SKU-0230,2,6.16,0.173,1.11
+ORD-01565,2024-09-02,Central,NY,Corporate,Technology,Accessories,SKU-0155,6,257.05,0.074,42.12
+ORD-01566,2024-05-13,East,IL,Consumer,Office Supplies,Paper,SKU-0053,8,120.56,0.118,36.16
+ORD-01567,2025-11-27,East,CA,Consumer,Office Supplies,Paper,SKU-0213,6,183.76,0.136,28.55
+ORD-01568,2024-10-23,Central,FL,Consumer,Office Supplies,Paper,SKU-0104,4,45.11,0.186,6.64
+ORD-01569,2025-09-23,Central,FL,Consumer,Office Supplies,Storage,SKU-0218,4,29.06,0.039,5.85
+ORD-01570,2025-12-15,Central,CA,Consumer,Furniture,Tables,SKU-0069,5,302.11,0.058,12.35
+ORD-01571,2023-03-29,South,CA,Corporate,Furniture,Tables,SKU-0198,6,436.86,0.136,125.51
+ORD-01572,2024-02-01,East,WA,Corporate,Office Supplies,Paper,SKU-0135,3,17.26,0.406,3.66
+ORD-01573,2025-03-15,Central,GA,Consumer,Office Supplies,Paper,SKU-0139,1,22.84,0.112,3.72
+ORD-01574,2025-06-10,South,MA,Consumer,Furniture,Tables,SKU-0244,6,201.17,0.412,3.84
+ORD-01575,2023-06-12,West,FL,Consumer,Furniture,Chairs,SKU-0039,6,626.98,0.099,13.13
+ORD-01576,2023-12-15,West,FL,Home Office,Technology,Computers,SKU-0078,1,89.25,0.054,15.61
+ORD-01577,2024-08-23,East,MA,Consumer,Technology,Phones,SKU-0046,6,261.85,0.229,59.98
+ORD-01578,2025-05-25,South,MA,Consumer,Technology,Accessories,SKU-0209,1,70.11,0.092,6.65
+ORD-01579,2023-05-04,West,GA,Consumer,Furniture,Tables,SKU-0213,6,300.2,0.153,43.56
+ORD-01580,2024-10-20,Central,IL,Corporate,Office Supplies,Storage,SKU-0210,6,93.95,0.19,13.59
+ORD-01581,2023-11-21,West,IL,Consumer,Furniture,Tables,SKU-0060,1,215.83,0.149,-13.05
+ORD-01582,2023-08-26,East,CA,Consumer,Technology,Computers,SKU-0065,6,175.76,0.344,41.06
+ORD-01583,2024-07-18,Central,NY,Consumer,Technology,Phones,SKU-0101,1,34.57,0.293,3.28
+ORD-01584,2024-03-29,West,IL,Corporate,Furniture,Tables,SKU-0194,3,156.25,0.308,16.89
+ORD-01585,2024-11-27,South,MA,Consumer,Office Supplies,Paper,SKU-0188,6,63.34,0.052,12.24
+ORD-01586,2023-12-15,West,IL,Home Office,Furniture,Tables,SKU-0248,3,125.46,0.292,6.2
+ORD-01587,2025-06-21,South,FL,Home Office,Office Supplies,Storage,SKU-0197,8,189.62,0.084,56.24
+ORD-01588,2023-03-27,West,MA,Consumer,Office Supplies,Paper,SKU-0239,8,65.83,0.067,22.46
+ORD-01589,2025-08-02,South,IL,Home Office,Technology,Accessories,SKU-0067,8,84.64,0.178,11.29
+ORD-01590,2023-02-02,Central,TX,Corporate,Office Supplies,Binders,SKU-0152,1,17.85,0.044,4.1
+ORD-01591,2025-03-17,West,WA,Consumer,Office Supplies,Paper,SKU-0134,2,48.35,0.244,6.35
+ORD-01592,2024-01-15,West,TX,Corporate,Furniture,Bookcases,SKU-0038,2,86.84,0.427,-13.11
+ORD-01593,2024-02-25,West,IL,Consumer,Technology,Computers,SKU-0237,5,291.15,0.316,26.96
+ORD-01594,2023-01-21,Central,GA,Corporate,Office Supplies,Storage,SKU-0030,4,69.78,0.178,16.11
+ORD-01595,2025-02-08,Central,IL,Corporate,Office Supplies,Paper,SKU-0214,6,59.18,0.227,13.42
+ORD-01596,2023-07-01,East,TX,Corporate,Office Supplies,Paper,SKU-0067,3,30.83,0.11,7.67
+ORD-01597,2024-12-23,East,MA,Home Office,Office Supplies,Paper,SKU-0056,2,33.42,0.332,9.42
+ORD-01598,2025-03-05,Central,WA,Consumer,Technology,Accessories,SKU-0151,6,289.84,0.258,73.08
+ORD-01599,2025-07-15,East,MA,Corporate,Office Supplies,Storage,SKU-0117,5,65.96,0.017,23.01
+ORD-01600,2025-02-15,Central,TX,Corporate,Furniture,Bookcases,SKU-0097,6,168.59,0.08,-28.2
+ORD-01601,2023-11-27,East,MA,Home Office,Technology,Phones,SKU-0226,3,244.62,0.119,67.81
+ORD-01602,2025-03-20,Central,GA,Consumer,Office Supplies,Storage,SKU-0175,5,65.36,0.129,19.91
+ORD-01603,2025-06-24,South,NY,Consumer,Office Supplies,Storage,SKU-0153,8,78.49,0.301,16.89
+ORD-01604,2023-12-14,West,NY,Consumer,Office Supplies,Storage,SKU-0197,5,39.24,0.066,3.4
+ORD-01605,2023-05-17,West,FL,Consumer,Technology,Computers,SKU-0201,8,702.13,0.05,147.21
+ORD-01606,2025-09-02,West,WA,Consumer,Technology,Computers,SKU-0046,4,150.26,0.356,8.54
+ORD-01607,2023-06-12,Central,CA,Consumer,Office Supplies,Paper,SKU-0111,1,25.88,0.041,4.09
+ORD-01608,2024-10-12,East,FL,Consumer,Office Supplies,Storage,SKU-0227,7,92.76,0.091,21.02
+ORD-01609,2023-09-16,South,NY,Home Office,Office Supplies,Storage,SKU-0204,4,86.04,0.058,16.89
+ORD-01610,2023-05-19,Central,GA,Consumer,Office Supplies,Storage,SKU-0016,1,21.42,0.206,6.33
+ORD-01611,2025-04-30,East,WA,Consumer,Furniture,Bookcases,SKU-0062,2,53.07,0.162,12.39
+ORD-01612,2023-06-07,Central,GA,Corporate,Furniture,Tables,SKU-0067,3,200.6,0.086,47.72
+ORD-01613,2025-01-04,West,NY,Consumer,Technology,Phones,SKU-0129,2,110.46,0.109,8.39
+ORD-01614,2025-01-29,Central,MA,Corporate,Technology,Phones,SKU-0204,6,475.28,0.135,51.29
+ORD-01615,2023-03-08,West,IL,Home Office,Technology,Accessories,SKU-0121,5,118.64,0.136,28.5
+ORD-01616,2023-07-09,Central,CA,Consumer,Office Supplies,Binders,SKU-0046,3,51.63,0.249,18.96
+ORD-01617,2025-05-20,South,IL,Consumer,Technology,Phones,SKU-0140,1,124.51,0.05,12.25
+ORD-01618,2024-07-09,Central,IL,Consumer,Technology,Computers,SKU-0056,1,57.55,0.204,10.99
+ORD-01619,2023-05-14,South,FL,Consumer,Office Supplies,Storage,SKU-0170,8,261.15,0.081,75.71
+ORD-01620,2025-12-22,East,MA,Corporate,Technology,Accessories,SKU-0244,3,117.41,0.121,17.87
+ORD-01621,2023-10-18,South,TX,Consumer,Technology,Phones,SKU-0159,1,100.0,0.128,18.29
+ORD-01622,2023-01-05,Central,WA,Consumer,Office Supplies,Paper,SKU-0229,6,85.78,0.225,17.6
+ORD-01623,2025-10-09,Central,NY,Consumer,Furniture,Bookcases,SKU-0137,7,372.51,0.103,35.76
+ORD-01624,2023-01-19,West,GA,Consumer,Office Supplies,Storage,SKU-0204,1,15.47,0.193,2.72
+ORD-01625,2024-08-29,West,IL,Consumer,Office Supplies,Storage,SKU-0236,8,62.07,0.324,8.35
+ORD-01626,2025-12-24,Central,MA,Corporate,Technology,Accessories,SKU-0044,6,138.52,0.167,28.39
+ORD-01627,2024-09-25,West,TX,Consumer,Office Supplies,Binders,SKU-0167,3,33.94,0.223,10.97
+ORD-01628,2024-10-02,Central,TX,Corporate,Office Supplies,Binders,SKU-0064,7,106.97,0.126,12.99
+ORD-01629,2024-03-01,South,GA,Home Office,Office Supplies,Binders,SKU-0022,4,44.42,0.377,5.45
+ORD-01630,2023-05-20,South,NY,Corporate,Office Supplies,Binders,SKU-0059,6,147.65,0.176,39.47
+ORD-01631,2024-09-19,West,FL,Consumer,Office Supplies,Storage,SKU-0036,2,5.39,0.258,1.01
+ORD-01632,2025-09-10,South,TX,Consumer,Office Supplies,Storage,SKU-0048,2,25.46,0.183,6.59
+ORD-01633,2023-04-10,West,IL,Corporate,Office Supplies,Storage,SKU-0002,7,126.86,0.479,37.95
+ORD-01634,2025-08-22,East,WA,Corporate,Technology,Phones,SKU-0243,7,99.46,0.078,5.61
+ORD-01635,2024-03-30,South,MA,Home Office,Office Supplies,Storage,SKU-0111,1,17.0,0.37,2.88
+ORD-01636,2024-08-10,West,IL,Consumer,Office Supplies,Storage,SKU-0042,2,49.28,0.299,15.9
+ORD-01637,2023-07-01,West,WA,Consumer,Office Supplies,Binders,SKU-0086,5,84.41,0.057,23.58
+ORD-01638,2024-11-12,West,CA,Consumer,Furniture,Bookcases,SKU-0187,8,555.78,0.177,47.24
+ORD-01639,2023-07-19,East,NY,Home Office,Technology,Phones,SKU-0159,6,330.96,0.043,4.18
+ORD-01640,2023-10-27,Central,WA,Corporate,Furniture,Tables,SKU-0013,6,126.64,0.116,14.1
+ORD-01641,2025-03-01,West,WA,Home Office,Furniture,Chairs,SKU-0037,4,98.82,0.182,17.03
+ORD-01642,2023-02-25,West,CA,Corporate,Furniture,Tables,SKU-0136,1,108.03,0.082,12.45
+ORD-01643,2024-05-05,Central,GA,Home Office,Furniture,Chairs,SKU-0243,7,411.53,0.187,-47.98
+ORD-01644,2024-10-13,West,IL,Consumer,Technology,Accessories,SKU-0018,7,631.9,0.063,141.8
+ORD-01645,2023-05-25,Central,TX,Home Office,Office Supplies,Paper,SKU-0216,4,67.03,0.11,2.41
+ORD-01646,2023-11-20,South,IL,Home Office,Furniture,Bookcases,SKU-0016,5,48.44,0.423,-0.64
+ORD-01647,2024-01-12,Central,IL,Home Office,Office Supplies,Paper,SKU-0124,2,23.13,0.066,8.34
+ORD-01648,2024-12-28,South,FL,Home Office,Technology,Computers,SKU-0058,4,130.55,0.07,36.83
+ORD-01649,2025-12-06,East,NY,Corporate,Furniture,Bookcases,SKU-0106,2,138.08,0.364,33.71
+ORD-01650,2025-07-05,South,NY,Corporate,Furniture,Bookcases,SKU-0232,4,277.38,0.265,87.52
+ORD-01651,2023-07-27,West,GA,Corporate,Office Supplies,Paper,SKU-0054,2,16.71,0.032,5.9
+ORD-01652,2023-01-20,West,WA,Corporate,Furniture,Tables,SKU-0160,5,324.53,0.044,42.85
+ORD-01653,2023-02-26,Central,TX,Corporate,Office Supplies,Binders,SKU-0084,2,17.81,0.003,16.89
+ORD-01655,2023-06-21,South,MA,Consumer,Furniture,Bookcases,SKU-0014,5,355.48,0.147,62.03
+ORD-01656,2023-09-11,Central,WA,Corporate,Office Supplies,Paper,SKU-0075,8,203.43,0.201,34.59
+ORD-01657,2025-07-17,South,WA,Home Office,Technology,Computers,SKU-0240,2,54.55,0.153,18.73
+ORD-01658,2025-08-15,East,GA,Corporate,Technology,Accessories,SKU-0181,3,610.68,0.134,159.06
+ORD-01659,2025-07-08,East,MA,Consumer,Furniture,Bookcases,SKU-0235,2,77.79,0.118,13.11
+ORD-01660,2023-10-06,Central,TX,Home Office,Technology,Accessories,SKU-0171,6,512.34,0.046,187.72
+ORD-01661,2024-11-10,West,WA,Corporate,Office Supplies,Paper,SKU-0047,1,12.35,0.17,2.25
+ORD-01662,2024-10-31,East,NY,Consumer,Office Supplies,Binders,SKU-0116,6,86.76,0.315,9.45
+ORD-01663,2023-07-23,Central,FL,Corporate,Office Supplies,Paper,SKU-0220,7,88.83,0.087,15.81
+ORD-01664,2024-08-29,South,CA,Corporate,Furniture,Tables,SKU-0171,6,108.16,0.184,134.67
+ORD-01665,2024-07-29,Central,NY,Corporate,Office Supplies,Binders,SKU-0131,2,21.04,0.347,3.29
+ORD-01666,2024-03-10,West,WA,Consumer,Furniture,Tables,SKU-0217,4,88.27,0.371,1.28
+ORD-01667,2025-04-03,East,TX,Consumer,Technology,Computers,SKU-0029,5,391.94,0.129,65.43
+ORD-01668,2025-01-12,Central,NY,Home Office,Technology,Accessories,SKU-0241,4,375.01,0.033,63.47
+ORD-01669,2024-08-06,West,GA,Home Office,Office Supplies,Binders,SKU-0032,4,31.56,0.314,5.52
+ORD-01670,2025-03-06,East,GA,Consumer,Office Supplies,Storage,SKU-0250,7,123.35,0.178,30.58
+ORD-01671,2025-04-16,West,NY,Home Office,Technology,Computers,SKU-0202,7,773.69,0.106,26.02
+ORD-01672,2024-09-13,West,FL,Consumer,Office Supplies,Binders,SKU-0123,3,60.68,0.113,10.73
+ORD-01673,2023-10-21,East,TX,Consumer,Office Supplies,Paper,SKU-0120,3,56.46,0.017,13.11
+ORD-01674,2025-04-11,West,MA,Corporate,Office Supplies,Storage,SKU-0009,2,50.53,0.236,9.97
+ORD-01675,2025-02-25,Central,WA,Consumer,Office Supplies,Paper,SKU-0080,4,108.16,0.058,10.59
+ORD-01676,2025-12-13,West,IL,Consumer,Office Supplies,Paper,SKU-0058,5,38.52,0.087,10.08
+ORD-01677,2023-06-14,Central,GA,Home Office,Office Supplies,Paper,SKU-0177,6,90.28,0.151,17.16
+ORD-01678,2024-04-04,West,WA,Consumer,Office Supplies,Storage,SKU-0050,3,143.07,0.413,36.95
+ORD-01679,2025-10-09,South,NY,Consumer,Technology,Computers,SKU-0202,2,99.45,0.198,32.22
+ORD-01680,2024-07-17,West,IL,Consumer,Office Supplies,Storage,SKU-0076,1,9.5,0.238,2.44
+ORD-01681,2025-10-30,East,MA,Corporate,Technology,Accessories,SKU-0213,1,182.82,0.184,40.88
+ORD-01682,2023-01-14,East,FL,Corporate,Office Supplies,Binders,SKU-0091,1,20.3,0.142,8.32
+ORD-01683,2023-02-08,West,CA,Consumer,Technology,Accessories,SKU-0189,2,559.7,0.026,110.6
+ORD-01684,2025-05-22,East,MA,Consumer,Technology,Accessories,SKU-0168,6,169.68,0.091,34.71
+ORD-01685,2024-01-28,South,IL,Corporate,Technology,Phones,SKU-0248,7,204.27,0.294,35.19
+ORD-01686,2024-07-24,South,NY,Corporate,Furniture,Tables,SKU-0132,8,609.09,0.127,149.34
+ORD-01687,2024-04-14,West,MA,Home Office,Furniture,Chairs,SKU-0089,5,304.48,0.07,100.53
+ORD-01688,2024-03-23,West,GA,Consumer,Technology,Accessories,SKU-0163,4,87.02,0.442,9.78
+ORD-01689,2025-10-26,Central,FL,Home Office,Furniture,Tables,SKU-0008,8,156.34,0.196,-4.01
+ORD-01690,2023-04-14,Central,WA,Home Office,Furniture,Chairs,SKU-0243,2,44.88,0.202,7.03
+ORD-01691,2025-04-26,West,NY,Consumer,Office Supplies,Binders,SKU-0170,6,116.78,0.132,22.93
+ORD-01692,2025-09-02,Central,WA,Consumer,Office Supplies,Storage,SKU-0013,7,32.88,0.079,5.94
+ORD-01693,2024-12-21,East,GA,Corporate,Office Supplies,Binders,SKU-0044,5,73.7,0.132,10.81
+ORD-01694,2024-03-08,Central,NY,Home Office,Technology,Phones,SKU-0004,3,135.6,0.116,27.81
+ORD-01695,2023-06-25,East,GA,Consumer,Furniture,Tables,SKU-0167,5,252.35,0.142,28.4
+ORD-01696,2025-01-18,East,CA,Consumer,Office Supplies,Binders,SKU-0167,8,218.46,0.014,71.79
+ORD-01697,2024-05-28,West,IL,Corporate,Technology,Phones,SKU-0041,2,101.59,0.209,24.9
+ORD-01698,2023-06-13,Central,CA,Corporate,Furniture,Bookcases,SKU-0137,5,183.12,0.137,17.58
+ORD-01699,2024-01-30,West,IL,Consumer,Office Supplies,Paper,SKU-0123,1,10.02,0.182,2.44
+ORD-01700,2025-11-19,Central,WA,Consumer,Office Supplies,Binders,SKU-0121,2,37.4,0.184,9.04
+ORD-01701,2023-10-18,Central,MA,Consumer,Furniture,Bookcases,SKU-0155,7,92.99,0.401,5.89
+ORD-01702,2023-07-15,Central,NY,Home Office,Office Supplies,Binders,SKU-0214,4,95.13,0.104,16.42
+ORD-01703,2025-01-17,West,GA,Corporate,Furniture,Chairs,SKU-0229,2,90.83,0.063,7.79
+ORD-01704,2023-08-07,West,GA,Consumer,Office Supplies,Storage,SKU-0040,3,74.67,0.303,18.88
+ORD-01705,2025-10-05,East,CA,Home Office,Technology,Accessories,SKU-0237,1,41.27,0.135,-0.77
+ORD-01706,2025-07-30,Central,GA,Corporate,Technology,Computers,SKU-0144,7,259.69,0.161,22.59
+ORD-01707,2025-12-13,South,GA,Home Office,Office Supplies,Storage,SKU-0046,8,206.97,0.025,22.63
+ORD-01708,2025-09-27,East,CA,Consumer,Technology,Computers,SKU-0233,1,147.38,0.214,-0.47
+ORD-01709,2023-09-25,South,CA,Consumer,Office Supplies,Storage,SKU-0093,2,33.32,0.103,4.76
+ORD-01710,2023-08-21,West,WA,Consumer,Furniture,Bookcases,SKU-0112,7,392.25,0.258,6.54
+ORD-01711,2024-01-11,East,IL,Consumer,Office Supplies,Paper,SKU-0242,8,138.21,0.121,6.89
+ORD-01712,2024-05-29,West,TX,Home Office,Office Supplies,Paper,SKU-0145,7,94.52,0.2,17.25
+ORD-01713,2025-08-22,Central,IL,Corporate,Furniture,Tables,SKU-0036,6,155.95,0.037,21.75
+ORD-01714,2025-03-14,West,TX,Consumer,Office Supplies,Binders,SKU-0018,7,103.28,0.068,19.97
+ORD-01715,2024-12-07,West,GA,Corporate,Technology,Computers,SKU-0206,3,136.77,0.353,18.66
+ORD-01716,2025-08-20,Central,NY,Corporate,Furniture,Bookcases,SKU-0088,8,293.64,0.156,27.23
+ORD-01717,2024-12-08,East,CA,Consumer,Technology,Computers,SKU-0025,8,545.8,0.262,73.89
+ORD-01718,2024-02-20,West,MA,Consumer,Office Supplies,Storage,SKU-0011,2,31.02,0.026,8.7
+ORD-01719,2024-03-28,West,MA,Home Office,Office Supplies,Paper,SKU-0237,1,22.46,0.133,4.63
+ORD-01720,2024-07-20,East,GA,Corporate,Office Supplies,Binders,SKU-0144,5,103.96,0.169,40.41
+ORD-01721,2023-04-08,West,GA,Home Office,Office Supplies,Binders,SKU-0132,7,51.34,0.066,16.99
+ORD-01722,2025-03-23,West,CA,Corporate,Office Supplies,Paper,SKU-0148,7,114.9,0.082,22.41
+ORD-01723,2024-12-16,Central,MA,Consumer,Technology,Phones,SKU-0105,2,118.52,0.036,20.95
+ORD-01724,2025-03-12,West,TX,Consumer,Office Supplies,Paper,SKU-0238,4,66.27,0.138,12.81
+ORD-01725,2024-08-08,Central,IL,Corporate,Office Supplies,Paper,SKU-0151,7,177.13,0.146,44.12
+ORD-01726,2025-05-08,East,IL,Consumer,Furniture,Chairs,SKU-0160,1,102.74,0.105,8.38
+ORD-01727,2025-11-06,West,GA,Home Office,Office Supplies,Paper,SKU-0224,6,34.55,0.145,5.42
+ORD-01728,2024-09-16,West,FL,Consumer,Furniture,Chairs,SKU-0001,3,52.81,0.06,14.45
+ORD-01729,2024-05-02,West,NY,Consumer,Furniture,Chairs,SKU-0080,1,40.17,0.216,6.78
+ORD-01730,2023-04-25,West,CA,Corporate,Technology,Accessories,SKU-0209,2,57.36,0.094,8.09
+ORD-01731,2025-05-03,West,FL,Consumer,Technology,Accessories,SKU-0025,6,734.73,0.077,1.93
+ORD-01732,2025-09-17,South,MA,Corporate,Furniture,Chairs,SKU-0083,7,173.54,0.19,15.8
+ORD-01733,2025-02-05,South,WA,Corporate,Office Supplies,Storage,SKU-0041,1,8.16,0.136,1.98
+ORD-01734,2025-08-06,East,GA,Corporate,Office Supplies,Binders,SKU-0179,4,140.1,0.28,19.59
+ORD-01735,2025-08-01,Central,CA,Home Office,Office Supplies,Paper,SKU-0211,2,17.22,0.135,3.82
+ORD-01736,2025-05-24,Central,IL,Consumer,Furniture,Bookcases,SKU-0067,6,134.48,0.113,20.32
+ORD-01737,2024-07-05,South,FL,Corporate,Furniture,Chairs,SKU-0172,7,607.99,0.029,92.17
+ORD-01738,2023-04-20,West,MA,Home Office,Technology,Computers,SKU-0191,8,230.19,0.08,51.86
+ORD-01739,2023-01-04,West,TX,Consumer,Office Supplies,Storage,SKU-0227,3,34.28,0.257,11.01
+ORD-01740,2023-08-13,West,WA,Consumer,Technology,Accessories,SKU-0232,3,165.08,0.135,18.32
+ORD-01741,2024-04-17,West,NY,Consumer,Office Supplies,Storage,SKU-0114,3,201.35,0.144,32.81
+ORD-01742,2025-03-25,East,FL,Corporate,Office Supplies,Storage,SKU-0020,7,84.49,0.174,16.26
+ORD-01743,2024-05-14,South,MA,Corporate,Office Supplies,Storage,SKU-0187,4,51.01,0.128,19.1
+ORD-01744,2023-01-26,South,MA,Consumer,Office Supplies,Paper,SKU-0137,1,21.59,0.191,5.29
+ORD-01745,2023-08-19,West,IL,Consumer,Furniture,Chairs,SKU-0115,8,372.44,0.026,7.36
+ORD-01746,2025-12-09,East,IL,Consumer,Office Supplies,Paper,SKU-0136,1,32.53,0.062,4.92
+ORD-01747,2025-12-18,East,GA,Consumer,Office Supplies,Binders,SKU-0161,8,81.73,0.056,17.38
+ORD-01748,2024-02-18,East,FL,Consumer,Office Supplies,Binders,SKU-0072,2,22.99,0.418,6.38
+ORD-01749,2025-06-01,Central,TX,Corporate,Office Supplies,Storage,SKU-0083,5,30.99,0.106,6.85
+ORD-01750,2025-02-27,West,TX,Home Office,Office Supplies,Binders,SKU-0086,3,75.93,0.092,13.55
+ORD-01751,2025-10-17,South,WA,Corporate,Office Supplies,Paper,SKU-0124,6,31.61,0.136,6.23
+ORD-01752,2025-08-30,South,WA,Home Office,Furniture,Chairs,SKU-0170,4,181.93,0.115,-23.93
+ORD-01753,2024-11-20,Central,FL,Home Office,Office Supplies,Paper,SKU-0011,3,43.15,0.232,11.8
+ORD-01754,2024-03-08,Central,NY,Corporate,Office Supplies,Paper,SKU-0074,4,87.25,0.067,22.92
+ORD-01755,2024-11-17,East,NY,Corporate,Furniture,Chairs,SKU-0183,8,198.32,0.128,8.76
+ORD-01756,2023-12-16,East,NY,Corporate,Office Supplies,Paper,SKU-0008,2,81.16,0.038,10.17
+ORD-01757,2024-01-17,West,CA,Corporate,Furniture,Bookcases,SKU-0199,2,89.78,0.168,42.3
+ORD-01758,2024-10-29,Central,IL,Consumer,Office Supplies,Storage,SKU-0193,1,108.16,0.148,4.96
+ORD-01759,2024-09-18,West,IL,Consumer,Technology,Phones,SKU-0080,6,1079.66,0.053,100.73
+ORD-01760,2024-09-28,South,IL,Corporate,Technology,Phones,SKU-0157,6,1253.31,0.113,249.34
+ORD-01761,2024-02-26,East,GA,Home Office,Office Supplies,Storage,SKU-0123,5,42.95,0.277,11.32
+ORD-01762,2024-03-24,East,NY,Corporate,Furniture,Tables,SKU-0063,1,70.78,0.053,2.09
+ORD-01763,2023-01-12,East,MA,Consumer,Furniture,Chairs,SKU-0038,7,440.82,0.205,-0.43
+ORD-01764,2024-10-21,South,NY,Corporate,Technology,Phones,SKU-0241,7,644.18,0.178,187.71
+ORD-01765,2024-09-23,West,FL,Corporate,Furniture,Tables,SKU-0215,8,66.98,0.405,10.55
+ORD-01766,2025-10-22,West,MA,Corporate,Office Supplies,Binders,SKU-0225,8,20.6,0.129,4.59
+ORD-01767,2024-07-06,West,MA,Consumer,Office Supplies,Binders,SKU-0036,3,43.44,0.029,12.04
+ORD-01768,2024-05-27,Central,FL,Consumer,Technology,Accessories,SKU-0242,6,256.68,0.269,46.66
+ORD-01769,2023-03-16,South,NY,Consumer,Office Supplies,Paper,SKU-0157,4,95.69,0.195,29.44
+ORD-01770,2023-08-04,West,IL,Home Office,Furniture,Bookcases,SKU-0129,5,119.47,0.205,-1.19
+ORD-01771,2024-01-06,South,IL,Consumer,Office Supplies,Binders,SKU-0086,3,37.58,0.118,6.62
+ORD-01772,2024-02-18,West,MA,Home Office,Furniture,Tables,SKU-0059,6,466.19,0.066,87.29
+ORD-01773,2024-02-02,Central,IL,Consumer,Furniture,Tables,SKU-0082,8,186.12,0.381,15.33
+ORD-01774,2024-03-07,West,MA,Home Office,Furniture,Tables,SKU-0044,6,807.41,0.098,-81.08
+ORD-01775,2025-04-22,East,GA,Consumer,Office Supplies,Storage,SKU-0198,8,112.79,0.58,31.68
+ORD-01776,2023-05-24,Central,CA,Corporate,Furniture,Tables,SKU-0238,8,576.49,0.1,92.24
+ORD-01777,2023-12-31,East,GA,Corporate,Furniture,Tables,SKU-0242,1,48.14,0.149,-2.69
+ORD-01778,2023-06-28,West,FL,Corporate,Office Supplies,Storage,SKU-0223,8,157.61,0.145,22.39
+ORD-01779,2023-12-04,South,FL,Corporate,Office Supplies,Paper,SKU-0034,7,105.79,0.146,22.25
+ORD-01780,2025-01-20,South,TX,Consumer,Furniture,Tables,SKU-0186,4,192.56,0.052,36.82
+ORD-01781,2023-02-21,East,TX,Consumer,Office Supplies,Binders,SKU-0215,5,46.92,0.062,11.89
+ORD-01782,2024-01-08,Central,FL,Consumer,Office Supplies,Storage,SKU-0128,5,89.2,0.205,20.3
+ORD-01783,2023-01-26,Central,NY,Corporate,Technology,Phones,SKU-0140,7,60.94,0.324,11.76
+ORD-01784,2025-11-12,West,WA,Corporate,Office Supplies,Binders,SKU-0097,7,46.29,0.12,17.01
+ORD-01785,2025-03-08,South,WA,Consumer,Furniture,Tables,SKU-0206,1,28.69,0.169,8.0
+ORD-01786,2023-09-24,West,CA,Corporate,Office Supplies,Paper,SKU-0176,1,8.88,0.303,1.54
+ORD-01787,2023-08-06,Central,NY,Consumer,Technology,Phones,SKU-0158,2,34.35,0.059,9.91
+ORD-01789,2024-06-02,West,WA,Consumer,Technology,Accessories,SKU-0241,7,689.87,0.325,109.46
+ORD-01790,2025-04-05,East,TX,Corporate,Furniture,Chairs,SKU-0132,6,273.39,0.336,31.9
+ORD-01791,2024-10-02,East,GA,Consumer,Office Supplies,Paper,SKU-0239,2,29.92,0.036,2.77
+ORD-01792,2025-08-23,South,FL,Home Office,Furniture,Tables,SKU-0170,6,252.88,0.129,116.36
+ORD-01793,2024-01-12,South,FL,Corporate,Office Supplies,Binders,SKU-0131,4,97.23,0.105,19.31
+ORD-01794,2023-11-01,West,CA,Corporate,Office Supplies,Paper,SKU-0189,3,74.31,0.011,12.31
+ORD-01795,2024-06-07,West,WA,Consumer,Office Supplies,Paper,SKU-0062,7,151.68,0.022,33.1
+ORD-01796,2023-08-10,East,MA,Corporate,Technology,Phones,SKU-0113,3,321.81,0.046,55.13
+ORD-01797,2025-12-05,East,NY,Home Office,Office Supplies,Storage,SKU-0007,5,36.02,0.091,6.13
+ORD-01798,2023-07-23,East,FL,Consumer,Technology,Accessories,SKU-0187,2,109.55,0.098,21.73
+ORD-01799,2024-06-08,South,CA,Consumer,Furniture,Tables,SKU-0082,4,109.94,0.357,23.64
+ORD-01800,2024-07-26,Central,NY,Consumer,Office Supplies,Binders,SKU-0024,5,74.03,0.006,20.45
+ORD-01663,2023-07-23,Central,FL,Corporate,Office Supplies,Paper,SKU-0220,7,108.16,0.087,15.81
+ORD-00555,2025-12-14,West,FL,Consumer,Furniture,Bookcases,SKU-0143,3,261.75,0.092,16.89
+ORD-00562,2023-02-17,Central,TX,Corporate,Office Supplies,Binders,SKU-0123,1,108.16,0.102,4.17
