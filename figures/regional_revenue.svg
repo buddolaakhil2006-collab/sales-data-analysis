@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="500.0" y="42" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172B4D">Revenue by Region</text>
+<line x1="95" y1="85.0" x2="965" y2="85.0" stroke="#e8edf2"/>
+<text x="83.0" y="90.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$132,344</text>
+<line x1="95" y1="162.0" x2="965" y2="162.0" stroke="#e8edf2"/>
+<text x="83.0" y="167.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$105,875</text>
+<line x1="95" y1="239.0" x2="965" y2="239.0" stroke="#e8edf2"/>
+<text x="83.0" y="244.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$79,406</text>
+<line x1="95" y1="316.0" x2="965" y2="316.0" stroke="#e8edf2"/>
+<text x="83.0" y="321.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$52,938</text>
+<line x1="95" y1="393.0" x2="965" y2="393.0" stroke="#e8edf2"/>
+<text x="83.0" y="398.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$26,469</text>
+<line x1="95" y1="470.0" x2="965" y2="470.0" stroke="#e8edf2"/>
+<text x="83.0" y="475.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$0</text>
+<rect x="160.2" y="135.2" width="135.9" height="334.8" rx="4" fill="#2457A7"/>
+<text x="228.2" y="127.2" text-anchor="middle" font-family="Arial" font-size="11" font-weight="400" fill="#425466">$115,082</text>
+<text x="228.2" y="492.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="400" fill="#425466">West</text>
+<rect x="361.4" y="216.6" width="135.9" height="253.4" rx="4" fill="#E49B33"/>
+<text x="429.4" y="208.6" text-anchor="middle" font-family="Arial" font-size="11" font-weight="400" fill="#425466">$87,103</text>
+<text x="429.4" y="492.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="400" fill="#425466">Central</text>
+<rect x="562.6" y="240.0" width="135.9" height="230.0" rx="4" fill="#32866B"/>
+<text x="630.6" y="232.0" text-anchor="middle" font-family="Arial" font-size="11" font-weight="400" fill="#425466">$79,059</text>
+<text x="630.6" y="492.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="400" fill="#425466">East</text>
+<rect x="763.8" y="265.9" width="135.9" height="204.1" rx="4" fill="#A34F6F"/>
+<text x="831.8" y="257.9" text-anchor="middle" font-family="Arial" font-size="11" font-weight="400" fill="#425466">$70,158</text>
+<text x="831.8" y="492.0" text-anchor="middle" font-family="Arial" font-size="13" font-weight="400" fill="#425466">South</text>
+<line x1="95" y1="470" x2="965" y2="470" stroke="#64748b"/>
+<text x="28.0" y="277.5" text-anchor="middle" font-family="Arial" font-size="14" font-weight="400" fill="#425466">Revenue ($)</text>
+</svg>

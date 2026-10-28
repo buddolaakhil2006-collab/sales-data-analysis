@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="580" viewBox="0 0 1120 580">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="560.0" y="42" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172B4D">Average Order Revenue by Calendar Month</text>
+<line x1="90" y1="80.0" x2="1085" y2="80.0" stroke="#e8edf2"/>
+<text x="78.0" y="85.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$295</text>
+<line x1="90" y1="159.0" x2="1085" y2="159.0" stroke="#e8edf2"/>
+<text x="78.0" y="164.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$236</text>
+<line x1="90" y1="238.0" x2="1085" y2="238.0" stroke="#e8edf2"/>
+<text x="78.0" y="243.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$177</text>
+<line x1="90" y1="317.0" x2="1085" y2="317.0" stroke="#e8edf2"/>
+<text x="78.0" y="322.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$118</text>
+<line x1="90" y1="396.0" x2="1085" y2="396.0" stroke="#e8edf2"/>
+<text x="78.0" y="401.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$59</text>
+<line x1="90" y1="475.0" x2="1085" y2="475.0" stroke="#e8edf2"/>
+<text x="78.0" y="480.0" text-anchor="end" font-family="Arial" font-size="12" font-weight="400" fill="#425466">$0</text>
+<text x="90.0" y="497.0" text-anchor="middle" font-family="Arial" font-size="12" font-weight="400" fill="#425466">1</text>
+<text x="361.4" y="497.0" text-anchor="middle" font-family="Arial" font-size="12" font-weight="400" fill="#425466">4</text>
+<text x="632.7" y="497.0" text-anchor="middle" font-family="Arial" font-size="12" font-weight="400" fill="#425466">7</text>
+<text x="904.1" y="497.0" text-anchor="middle" font-family="Arial" font-size="12" font-weight="400" fill="#425466">10</text>
+<polyline fill="none" stroke="#2457A7" stroke-width="3" points="90.0,246.8 180.5,212.0 270.9,246.7 361.4,122.3 451.8,140.2 542.3,212.2 632.7,241.2 723.2,260.4 813.6,266.9 904.1,268.1 994.5,178.4 1085.0,155.3"/>
+<circle cx="90.0" cy="246.8" r="3.5" fill="#2457A7"/>
+<circle cx="180.5" cy="212.0" r="3.5" fill="#2457A7"/>
+<circle cx="270.9" cy="246.7" r="3.5" fill="#2457A7"/>
+<circle cx="361.4" cy="122.3" r="3.5" fill="#2457A7"/>
+<circle cx="451.8" cy="140.2" r="3.5" fill="#2457A7"/>
+<circle cx="542.3" cy="212.2" r="3.5" fill="#2457A7"/>
+<circle cx="632.7" cy="241.2" r="3.5" fill="#2457A7"/>
+<circle cx="723.2" cy="260.4" r="3.5" fill="#2457A7"/>
+<circle cx="813.6" cy="266.9" r="3.5" fill="#2457A7"/>
+<circle cx="904.1" cy="268.1" r="3.5" fill="#2457A7"/>
+<circle cx="994.5" cy="178.4" r="3.5" fill="#2457A7"/>
+<circle cx="1085.0" cy="155.3" r="3.5" fill="#2457A7"/>
+<line x1="90" y1="475" x2="1085" y2="475" stroke="#64748b"/>
+</svg>
